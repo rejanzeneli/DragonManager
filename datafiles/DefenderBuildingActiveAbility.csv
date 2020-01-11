@@ -1,0 +1,7 @@
+identifier,maxNumOfAllowedDefendAbilities,numOfDefendAbilitiesRegeneratedPerDragonRun,minAIAbilitiesPerRegion,maxAIAbilitiesPerRegion,minAIDefendWaitTime,maxAIDefendWaitTime,canAIActivateSameTowerInARow,buildingPriorityRandomRange,buildingsPriority,h
+String,Integer,Integer,Integer,Integer,Float,Float,Integer,Integer,String,String
+level03,5,5,5,5,1.5,2.5,1,0,,
+level04,5,5,5,5,1.5,2.5,1,0,,
+level09,5,5,5,5,1.5,2.5,1,0,,
+level03_default,5,5,5,5,1.5,2.5,1,0,,
+level05,27,10,10,10,1.5,4,0,10,mageTower:50|mageBlueTower:50|elementalFlakDark:45|elementalFlakFire:45|elementalFlakIce:45|elementalFlakWind:45|perchIsland03:40|perchIsland06:40|perchIsland08:40|lightningTower:10|orbTowerBossNDE:55|archerTowerBossNDE:55|cannonTowerBossNDE:55,!@#jhjbnoodgilggmmo

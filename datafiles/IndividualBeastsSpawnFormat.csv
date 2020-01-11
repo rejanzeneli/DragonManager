@@ -1,0 +1,7 @@
+identifier,beastSpawnsProbability,maxConcurrentBeasts,spawnIntervalSeconds,maxBeastsCanKillInRegion,h
+String,Map<String:Float>,Integer,Integer,Integer,String
+continentLevel0,beast1:0.3|beast2:0.24|beast3:0.15|beast4:0.1|beast5:0.08|beast6:0.07|beast7:0.04|beast8:0.02,2,20,8,
+continentLevel1,beast4:0.02|beast5:0.03|beast6:0.04|beast7:0.05|beast8:0.07|beast9:0.09|beast10:0.12|beast11:0.16|beast12:0.12|beast13:0.09|beast14:0.07|beast15:0.05|beast16:0.04|beast17:0.03|beast18:0.02,2,20,8,
+continentLevel2,beast9:0.02|beast10:0.03|beast11:0.04|beast12:0.05|beast13:0.07|beast14:0.09|beast15:0.12|beast16:0.16|beast17:0.12|beast18:0.09|beast19:0.07|beast20:0.05|beast21:0.04|beast22:0.03|beast23:0.02,2,20,8,
+continentLevel3,beast15:0.02|beast16:0.03|beast17:0.04|beast18:0.05|beast19:0.07|beast20:0.09|beast21:0.12|beast22:0.16|beast23:0.12|beast24:0.09|beast25:0.07|beast26:0.05|beast27:0.04|beast28:0.03|beast29:0.02,2,20,8,
+continentLevel4,beast21:0.02|beast22:0.03|beast23:0.04|beast24:0.05|beast25:0.07|beast26:0.09|beast27:0.12|beast28:0.16|beast29:0.12|beast30:0.09|beast31:0.07|beast32:0.05|beast33:0.04|beast34:0.03|beast35:0.02,2,20,8,!@#ginnmjgbgoafhgme

@@ -1,0 +1,15 @@
+identifier,level,referreeRewardIdentifier,referrerRewardIdentifier,referreeRewardText,referrerRewardText,h
+String,String,String,String,LocalizedString,LocalizedString,String
+level02,2,beReferredRewardLevel02,getReferralRewardLevel02,Referral Rewards for reaching level 2! Reach level 5 to get more! ,Congrats! Your friend %(referree_name)s has reached level 2!,
+level05,5,beReferredRewardLevel05,getReferralRewardLevel05,Referral Rewards for reaching level 5! Reach level 10 to get more! ,Congrats! Your friend %(referree_name)s has reached level 5!,
+level10,10,beReferredRewardLevel10,getReferralRewardLevel10,"Referral Rewards end here, but you can earn additional rewards by inviting your friends!",Congrats! Your friend %(referree_name)s has reached level 10!,
+level15,15,,getReferralRewardLevel15,,Congrats! Your friend %(referree_name)s has reached level 15!,
+level20,20,,getReferralRewardLevel20,,Congrats! Your friend %(referree_name)s has reached level 20!,
+level30,30,,getReferralRewardLevel30,,Congrats! Your friend %(referree_name)s has reached level 30!,
+level40,40,,getReferralRewardLevel40,,Congrats! Your friend %(referree_name)s has reached level 40!,
+level50,50,,getReferralRewardLevel50,,Congrats! Your friend %(referree_name)s has reached level 50!,
+level60,60,,getReferralRewardLevel60,,Congrats! Your friend %(referree_name)s has reached level 60!,
+level70,70,,getReferralRewardLevel70,,Congrats! Your friend %(referree_name)s has reached level 70!,
+level80,80,,getReferralRewardLevel80,,Congrats! Your friend %(referree_name)s has reached level 80!,
+level90,90,,getReferralRewardLevel90,,Congrats! Your friend %(referree_name)s has reached level 90!,
+level100,100,,getReferralRewardLevel100,,Congrats! Your friend %(referree_name)s has reached level 100!,!@#hlhkobibcdipcblb

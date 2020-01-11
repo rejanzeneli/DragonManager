@@ -1,0 +1,29 @@
+extends layout
+
+block content
+
+  div(class="flow-text center-align") #{atlastitle}
+  -const kMaxCol = 6;
+  div(class="container section center-align")
+    div(class="row")
+      div(class="input-field col s12 l4")
+        input(placeholder="FILTER TEXT" type="text" data-list=".searchable-teams" autocomplete="off")#team-filter
+        label(for="team-filter") FILTER RANKINGS BY ...
+    div(class="row")
+      div(class="col s12")
+        table
+          thead
+            tr
+              td POWER RANK
+              td ATLAS RANK
+              td TEAM
+              td INFLUENCE
+          tbody(class="searchable-teams")#team-rank-table
+      
+block inlinecode
+  script(src='/js/jquery.hideseek.min.js')
+  script(src='/js/dm_atlas_rankings.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.atlas_rankings.init(backend);

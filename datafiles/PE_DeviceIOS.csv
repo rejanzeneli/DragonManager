@@ -1,0 +1,49 @@
+identifier,deviceDescription,type
+String,String,String
+"iPhone1,1",iPhone 2G,poor
+"iPhone1,2",iPhone 3G,poor
+"iPhone2,1",iPhone 3GS,poor
+"iPhone3,1",iPhone 4 (GSM),poor
+"iPhone3,2",iPhone 4 (GSM Rev A),poor
+"iPhone3,3",iPhone 4 (CDMA),poor
+"iPhone4,1",iPhone 4S,low
+"iPhone5,1",iPhone 5 (GSM),medium
+"iPhone5,2",iPhone 5 (GSM + CDMA),medium
+"iPhone5,3",iPhone 5c (GSM),medium
+"iPhone5,4",iPhone 5c (Global),medium
+"iPhone6,1",iPhone 5s (GSM),high
+"iPhone6,2",iPhone 5s (Global),high
+"iPhone7,1",iPhone 6 Plus,high
+"iPhone7,2",iPhone 6,high
+"iPod1,1",iPod Touch 1G,poor
+"iPod2,1",iPod Touch 2G,poor
+"iPod3,1",iPod Touch 3G,poor
+"iPod4,1",iPod Touch 4G,poor
+"iPod5,1",iPod Touch 5G,low
+"iPad1,1",iPad 1G,poor
+"iPad2,1",iPad 2 (Wi-Fi),low
+"iPad2,2",iPad 2 (GSM),low
+"iPad2,3",iPad 2 (CDMA),low
+"iPad2,4",iPad 2 (Wi-Fi Rev A),low
+"iPad2,5",iPad mini 1G (Wi-Fi),low
+"iPad2,6",iPad mini 1G (GSM),low
+"iPad2,7",iPad mini 1G (GMS + CDMA),low
+"iPad3,1",iPad 3 (Wi-Fi),low
+"iPad3,2",iPad 3 (GSM + CDMA),low
+"iPad3,3",iPad 3 (GSM),low
+"iPad3,4",iPad 4 (Wi-Fi),medium
+"iPad3,5",iPad 4 (GSM),medium
+"iPad3,6",iPad 4 (GSM + CDMA),medium
+"iPad4,1",iPad Air (Wi-Fi),high
+"iPad4,2",iPad Air (Cellular),high
+"iPad4,3",iPad Air (China),high
+"iPad4,4",iPad mini 2 (Wi-Fi),high
+"iPad4,5",iPad mini 2 (Cellular),high
+"iPad4,6",iPad mini 2 (China),high
+"iPad4,7",iPad mini 3 (Wi-Fi),high
+"iPad4,8",iPad mini 3 (Cellular),high
+"iPad4,9",iPad mini 3 (China),high
+"iPad5,3",iPad Air 2 (Wi-Fi),high
+"iPad5,4",iPad Air 2 (Cellular),high
+i386,Simulator,low
+x86_64,Simulator,low

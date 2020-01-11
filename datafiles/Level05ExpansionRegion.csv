@@ -1,0 +1,11 @@
+identifier,displayName,purchaseCurrencyFormat,expandDuration,initialState,unlockAchievement,unlockRegion,researchRequirements,unexpandedPodNames,collisionPodName,tapPriority,attachmentNode,monumentNode,boostCameraNode,h
+String,String,String,Integer,String,String,String,String,String,String,Integer,String,String,String,String
+island00,UNEXPLORED ISLAND,,,EXPANDED,bothTutorialUnlockIsland00,,,,,1,,,,
+island01,UNEXPLORED ISLAND,food:12,360,EXPANDED,bothTutorialUnlockIsland01,island00,,,,9,,,,
+island02,UNEXPLORED ISLAND,food:144,900,LOCKED,level03,island01,,,,8,FX_attachpoint_island02,,,
+island03,UNEXPLORED ISLAND,food:588,21600,LOCKED,bothTutorialDelayAfterSlideShow,island02,,,,7,FX_attachpoint_island03,,,
+island04,UNEXPLORED ISLAND,food:1638,57600,LOCKED,bothTutorialDelayAfterSlideShow,island03,,,,6,FX_attachpoint_island04,,,
+island05,UNEXPLORED ISLAND,food:3402,129600,LOCKED,bothTutorialDelayAfterSlideShow,island04,,,,5,FX_attachpoint_island05,,,
+island06,UNEXPLORED ISLAND,food:10080,216000,LOCKED,bothTutorialDelayAfterSlideShow,island05,,,,4,FX_attachpoint_island06,,,
+island07,UNEXPLORED ISLAND,food:37800,432000,LOCKED,bothTutorialDelayAfterSlideShow,island06,,,,3,FX_attachpoint_island07,,,
+island08,UNEXPLORED ISLAND,food:69300,691200,LOCKED,bothTutorialDelayAfterSlideShow,island07,,,,2,FX_attachpoint_island08,,,!@#kijgmfkplpgmnieg

@@ -1,0 +1,11 @@
+identifier,maxAugmentCount,augmentCost,augmentAmount,tooltip,h
+String,Integer,String,Float,LocalizedString,String
+specialAttackAugmentArcher_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentBallista_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentCannon_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentLightning_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentStorm_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentTrebuchet_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentMageTowerBlue_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentMageTowerRed_01,0,piercing:0,0,This is the towers Super Shot power,
+specialAttackAugmentSmoke_01,0,piercing:0,0,This is the towers Super Shot power,!@#cfkapljgmjidmhlg

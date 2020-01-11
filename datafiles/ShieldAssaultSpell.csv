@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,maxTimes,attackBonusPercentage,damageReductionPercentage,rageDrainRate,h
+String,String,String,Integer,Integer,Integer,Float,String
+shieldAssault1,,1,100,70,65,50,
+onslaught1,onslaught,1,100,100,70,50,
+evilEye1,evilEye,1,100,150,50,40,!@#olcgebnndmaidcjj

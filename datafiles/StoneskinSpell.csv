@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,maxTimes,damageReductionPercentage,duration,ragePoints,h
+String,String,String,Integer,Integer,Float,Float,String
+stoneskin1,,1,100,50,5,200,
+stoneskinCon,,1,1,50,5,0,
+stoneform1,stoneform,1,100,70,5,200,!@#ohnnekliljdhjndi

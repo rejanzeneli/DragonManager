@@ -1,0 +1,9 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1GGWFdragon_1,1,food:0,1,,42030,1076,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,624,food:30,4.2,rage2,2,1821,1,experience:0,666,
+T1GGWFdragon_2,2,food:1134,1,,43942,1193,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,661,food:32,4.2,rage2,3,2564,1,experience:0,741,
+T1GGWFdragon_3,3,food:1478,1,,46473,1351,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,708,food:34,4.2,rage2,3,3599,1,experience:0,840,
+T1GGWFdragon_4,4,food:1599,1,,50533,1580,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,762,food:36,4.2,rage2,3,4652,1,experience:0,987,
+T1GGWFdragon_5,5,food:1815,1,,55458,1882,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,826,food:40,4.2,rage2,3,5842,1,experience:0,1166,
+T1GGWFdragon_6,6,food:2717,1,,60112,2220,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,899,food:44,4.2,rage2,3,6695,1,experience:0,1380,
+T1GGWFdragon_7,7,food:3024,1,,65731,2619,flamethrower:T1GGWFdragon_flamethrower,hurricane:hurricane1|chargedShield:chargedShield1,970,food:48,4.2,rage2,4,0,1.2,experience:0,1632,!@#modinokkciccnobf

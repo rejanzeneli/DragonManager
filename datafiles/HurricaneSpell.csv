@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,duration,ragePoints,h
+String,String,String,Integer,Float,Float,String
+hurricane1,,1,100,3.5,200,
+hurricaneCon,,7,1,4.5,0,
+hurricaneTut,,27,100,4.5,185,
+mysticWind1,mysticWind,1,100,4.5,200,!@#jdpkeojgknpdjfee

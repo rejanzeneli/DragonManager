@@ -1,0 +1,6 @@
+identifier,displayName,displayDescription,isFallback,h
+String,LocalizedString,LocalizedString,Integer,String
+channelIDGeneral,General,General notifications,1,
+channelIDWar,War,War notifications,0,
+channelIDEvent,Event,Event notifications,0,
+channelIDChat,Chat,Chat notifications,0,!@#gldiliobillpiepb

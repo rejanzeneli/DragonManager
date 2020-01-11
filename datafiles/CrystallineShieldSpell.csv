@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,crystallineShardAmount,duration,cooldown,beamDamagePercentOfNormalDamage,ragePoints,maxTimes,projectileBlockedTextIdentifier,h
+String,String,String,Integer,Float,Float,Float,Float,Integer,String,String
+crystallineShield1,,1,7,7,0,50,200,100,crystallineSpellShardShatteredText,
+frostShield1,frostShield,1,1000,3,2,50,100,100,,
+moltenBarrier1,moltenBarrier,1,1000,4,3,100,100,100,,!@#ppfokmdodhbjbdoa

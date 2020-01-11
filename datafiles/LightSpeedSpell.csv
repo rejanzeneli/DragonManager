@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,cooldown,duration,explosionRadius,damageAsPercentageOfMaxHP,ammoCostReducedPercentage,attackPowerReducedPercentage,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Integer,Float,String
+lightSpeed1,,,100,100,6,5,80,0.05,75,0.4,
+solarVolley1,solarVolley,,100,0,8,3.5,80,0.06,99,0.6,!@#jbbmkhingbimjggp

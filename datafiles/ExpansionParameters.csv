@@ -1,0 +1,16 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+expansionAreaClearingAdvisor,kyraNew,,
+expansionRegionClearingAdvisor,kyraNew,,
+expansionAreaClearDescription,,We must provide an offering to summon a dragon to clear the forest.,
+expansionRegionClearDescription,,We must provide an offering to summon dragons to clear the fog.,
+expansionAreaClearShortfallDescription,,You need more resources to clear this overgrowth.,
+expansionRegionClearShortfallDescription,,You need more resources to clear the next island's fog.,
+clearExpansionAreaButtonText,,Clear Forest,
+clearExpansionRegionButtonText,,Clear Fog,
+blockedRegionExpansionTitle,,Finish Clearing Forest,
+blockedRegionExpansionDescription,,You must finish clearing the forest from the current island before moving onto the next one.,
+blockedRegionExpansionButtonLabel,,Go,
+goToRegionExpansionTitle,,Focus Closer to Home,
+goToRegionExpansionDescription,,You must clear earlier islands before you can explore this island.,
+goToRegionExpansionButtonLabel,,Go,!@#bipeaikkhkfnknde

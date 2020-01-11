@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.dragon-manager.com</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/breeding</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/dragons</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/buildings</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/gameinfo</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.dragon-manager.com/versioninfo</loc>
+		<priority>0.5</priority>
+	</url>
+</urlset>

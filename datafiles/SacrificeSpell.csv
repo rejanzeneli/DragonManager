@@ -1,0 +1,9 @@
+identifier,commonIdentifier,level,maxTimes,damagePercentageApplied,rageBonus,duration,ragePoints,h
+String,String,String,Integer,Float,Float,Float,Float,String
+sacrifice1,,1,100,7.5,200,8,0,
+sacrificeCon,,57,1,16,200,8,0,
+sacrificeTut,,58,100,20,200,8,0,
+whiteSacrifice1,whiteSacrifice,1,100,7.5,200,8,0,
+energize1,energize,1,100,19.2,200,0,0,
+maskOfMisery1,maskOfMisery,1,100,15,200,0,0,
+avarice1,avarice,1,100,16,200,3,0,!@#acldbagjnekkoani

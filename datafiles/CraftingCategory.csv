@@ -1,0 +1,8 @@
+identifier,inBundle,displayName,iconFilename,sortPriority,h
+String,Integer,LocalizedString,String,Integer,String
+pack,1,Packs,icon_consumable_pack.png,5,
+dragon,1,Dragon,icon_consumable_dragon.png,1,
+tower,1,Tower,icon_consumable_building.png,1,
+spell,1,Spell,icon_consumable_spell.png,1,
+special,1,Special,icon_consumable_special.png,1,
+currency,1,Currency,icon_consumable_special.png,1,!@#lokjklhmngblbifp

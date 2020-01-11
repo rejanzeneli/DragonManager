@@ -1,0 +1,3 @@
+identifier,level,maxTimes,ragePoints,empoweredRagePoints,empoweredDamagePercentageApplied,empoweredRageBonus,empoweredDuration,empoweredParticleDuration,damageAsPercentageOfMaxHP,chargeTime,h
+String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,String
+galvanicOverload1,1,100,100,0,8,100,4,0.5,85,0,!@#bbolfolbkljgnlkg

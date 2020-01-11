@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T4C2HUdragon_1,1,food:0,1,,51661,3019,fireball:T4C2HUdragon_fireball,,4598,food:52,4.2,rage1,4,7106,1,experience:0,938,
+T4C2HUdragon_2,2,food:6552,1,,64953,4023,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1,4873,food:56,4.2,rage1,4,9116,1,experience:0,1872,
+T4C2HUdragon_3,3,food:7155,1,,67393,4380,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1,5113,food:60,4.2,rage1,4,11951,1,experience:0,2045,
+T4C2HUdragon_4,4,food:7776,1,,70577,4777,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1,5326,food:64,4.2,rage1,5,15156,1,experience:0,2226,
+T4C2HUdragon_5,5,food:10098,1,,73234,5192,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,5578,food:68,4.2,rage1,5,18895,1,experience:0,3219,
+T4C2HUdragon_6,6,food:10887,1,,76033,5559,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,5885,food:72,4.2,rage1,5,21304,1,experience:0,3510,
+T4C2HUdragon_7,7,food:11851,1,,81637,6118,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,6228,food:77,4.2,rage1,5,24012,1,experience:0,3999,
+T4C2HUdragon_8,8,food:14982,1,,87629,6765,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,6634,food:82,4.2,rage1,6,26830,1,experience:0,4576,
+T4C2HUdragon_9,9,food:16169,1,,93241,7464,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,7107,food:87,4.2,rage1,6,40148,1,experience:0,5214,
+T4C2HUdragon_10,10,food:23095,1,,100038,8273,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,7599,food:92,4.2,rage1,6,45219,1,experience:0,5984,
+T4C2HUdragon_11,11,food:27829,1,,107303,9169,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,8125,food:97,4.2,rage1,6,61775,1,experience:0,6860,
+T4C2HUdragon_12,12,food:35792,1,,114138,10109,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,8700,food:102,4.2,rage1,7,69552,1,experience:0,7812,
+T4C2HUdragon_13,13,food:37546,1,,122380,11196,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,9297,food:107,4.2,rage1,7,91521,1,experience:0,8954,
+T4C2HUdragon_14,14,food:57431,1,,131187,12329,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,9863,food:112,4.2,rage1,7,102191,1,experience:0,10184,
+T4C2HUdragon_15,15,food:61533,1,,139506,13442,fireball:T4C2HUdragon_fireball,frenzySpell:frenzy1|cannonResist01:cannonResist01,10408,food:120,4.2,rage1,8,0,1.2,experience:0,11427,!@#gminlfgkkeinldof

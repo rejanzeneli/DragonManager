@@ -1,0 +1,7 @@
+identifier,starLevel,starIconFilename,minimumCombatLevel,displayName,missionDescription,h
+String,Integer,String,Integer,LocalizedString,LocalizedString,String
+oneStar,1,icon_mission_level01.png,1000,1 Star Missions,1 Star missions require a rider with a combat level >1000 to perform.,
+twoStar,2,icon_mission_level02.png,5000,2 Star Missions,2 Star missions require a rider with a combat level >5000 to perform.,
+threeStar,3,icon_mission_level03.png,9000,3 Star Missions,3 Star missions require a rider with a combat level >9000 to perform.,
+fourStar,4,icon_mission_level04.png,13000,4 Star Missions,4 Star missions require a rider with a combat level >13000 to perform.,
+fiveStar,5,icon_mission_level05.png,17000,5 Star Missions,5 Star missions require a rider with a combat level >17000 to perform.,!@#hiflkealnmbhbnib

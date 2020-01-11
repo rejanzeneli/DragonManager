@@ -1,0 +1,35 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+mailSubjectCharacterLimit,50,,
+mailMessageCharacterLimit,1800,,
+mailMessagePreviewCharacterLimit,50,,
+mailMessagesPerPage,25,,
+mailMaxToSaveByMailbox,replay:1|mail:100000|sent:100000|news:100|system:100,,
+welcomeMailSubject,,How to Win at Dragons!,
+noReplyAdminsList,**ADMIN**,,
+guildJoinInviteSeconds,172800,,
+guildJoinInviteSubjectFormat,,%@ has invited you to %@,
+guildJoinInviteBodyFormatGeneric,,{sourceName} has invited you to {otherTeam}. Tap the Accept button above to leave your current team and join {otherTeam}. This invite is valid for {invitationDuration}.,
+guildJoinInviteBodyFormatCurrentTeamBetter,,"{sourceName} has invited you to {otherTeam} ({otherLeague}, {otherRating}), which is better than your team {currentTeam} ({currentLeague}, {currentRating}).
+
+Tap Accept button above to leave your current team and join {otherTeam}. This invite is valid for {invitationDuration}.",
+guildJoinInviteBodyFormatCurrentTeamWorse,,"{sourceName} has invited you to {otherTeam} ({otherLeague}, {otherRating}), which is worse than your team {currentTeam} ({currentLeague}, {currentRating}).
+
+Tap Accept button above to leave your current team and join {otherTeam}. This invite is valid for {invitationDuration}.",
+welcomeMailBody,,"Welcome {player} to War Dragons!
+
+There are mighty dragons to breed and powerful spells to master! Here are some tips to help you get started:
+
+1. Complete Dragon Guard missions and earn tokens. These tokens can be used to breed new dragons!
+2. Level up your dragons to get stronger and unlock new spells! You gain experience from attacking.
+3. Join a great team. Help your teammates Attack and Defend successfully!
+
+If you have further questions, please tap the Help button above. Your feedback is most valuable to us!
+
+- Admin",
+warTrackerSubject,,Reminder: Complete War Attack!,
+warTrackerReminder,,%@ would like you do your war attack against %@,
+warTrackerReminderWithRequest,,%@ wants you to complete your war attack against %@! Please enable your War Reminders Notifications so %@ can remind you to complete your war attacks more easily.,
+lowActivityMail,,"Your status is now ""low activity"". This may affect your guild eligibility!\nTIP: Get your activity up by attacking other players, following guild members in battles, and chatting with your guild!",
+mailColorBar,team:img_mailAlertGreen.png|personal:img_mailAlert.png|news:img_mailAlertPurple.png,,
+mailColorGlow,team:img_mailUnreadGlowGreen.png|personal:img_mailUnreadGlow.png|news:img_mailUnreadGlowPurple.png,,!@#ooienmmlhkihigod

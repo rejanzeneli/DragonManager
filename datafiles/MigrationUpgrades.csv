@@ -1,0 +1,3 @@
+identifier,level,inBundle,sceneFile,lobOverlaySceneFilename,upgradeCost,upgradeTimeInSeconds,achievementRequirements,levelRequired,HP,destructionProbabilities,component,upgradeReward,activeAbilityProjectile,activeAbilityProjectileEffects,activeAbilityEffects,activeAbilityDelay,activeAbilityCost,activeAbilityRange,explosionSceneFile,bonusLabel1,bonusLabel2,constructionSceneFile,customUpgradeSceneFile,powerLevel,h
+String,Integer,Integer,String,String,String,Integer,String,Integer,Float,String,String,String,String,String,String,Float,Integer,Integer,String,String,String,String,String,Integer,String
+MigrationUpgrades_1,1,0,bld_migration_level01.lvl,,food:0,3,,,1,,,,,,,1.5,1,90,,,,,,100,!@#njojnmcdagcphali

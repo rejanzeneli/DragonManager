@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T7C1WDdragon_1,1,food:0,1,,632917,14400,flamethrower:T7C1WDdragon_flamethrower,,5875,food:304,4.2,rage2,15,166595,1,experience:0,47320,
+T7C1WDdragon_2,2,food:85320,1,,654354,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1,6105,food:316,4.2,rage2,16,202233,1,experience:0,76266,
+T7C1WDdragon_3,3,food:88560,1,,681220,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1,6374,food:328,4.2,rage2,16,248621,1,experience:0,82911,
+T7C1WDdragon_4,4,food:91800,1,,709545,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1,6693,food:340,4.2,rage2,17,296679,1,experience:0,90668,
+T7C1WDdragon_5,5,food:95041,1,,753259,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,7073,food:352,4.2,rage2,17,350276,1,experience:0,135600,
+T7C1WDdragon_6,6,food:98280,1,,804515,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,7502,food:364,4.2,rage2,18,374062,1,experience:0,153659,
+T7C1WDdragon_7,7,food:101520,1,,859132,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,7993,food:376,4.2,rage2,18,397040,1,experience:0,174778,
+T7C1WDdragon_8,8,food:104760,1,,911894,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,8524,food:388,4.2,rage2,18,423910,1,experience:0,197883,
+T7C1WDdragon_9,9,food:108000,1,,973586,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,9079,food:400,4.2,rage2,19,601057,1,experience:0,225024,
+T7C1WDdragon_10,10,food:147750,1,,1039309,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,9670,food:412,4.2,rage2,19,637870,1,experience:0,255840,
+T7C1WDdragon_11,11,food:152053,1,,1102944,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,10310,food:424,4.2,rage2,19,832686,1,experience:0,289476,
+T7C1WDdragon_12,12,food:191237,1,,1177166,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,10977,food:436,4.2,rage2,20,888620,1,experience:0,328970,
+T7C1WDdragon_13,13,food:196501,1,,1256226,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,11674,food:448,4.2,rage2,20,1102302,1,experience:0,373320,
+T7C1WDdragon_14,14,food:235874,1,,1332938,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,12408,food:460,4.2,rage2,20,1169589,1,experience:0,421038,
+T7C1WDdragon_15,15,food:242027,1,,1414288,14400,flamethrower:T7C1WDdragon_flamethrower,seethingSpark:seethingSpark1|fireTurretResist01:fireTurretResist01,13136,food:472,4.2,rage2,21,0,1.2,experience:0,472920,!@#khfpnlnmednlgahj

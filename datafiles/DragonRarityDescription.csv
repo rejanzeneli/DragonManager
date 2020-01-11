@@ -1,0 +1,10 @@
+identifier,inBundle,displayName,colorCode,pngSequence,shouldShowPNGSequence,defenseBattleRewardDistributionIdentifier,h
+String,Integer,LocalizedString,String,String,String,String,String
+0,1,Common,255|255|255,,0,cmnDrgDistribution,
+3,1,Rare,196|205|212,,1,rareDrgDistribution,
+4,1,Epic,250|205|95,,1,epicDrgDistribution,
+5,1,Legendary,247|155|44,,1,epicDrgDistribution,
+6,1,Mythic,247|155|44,,1,epicDrgDistribution,
+2,1,Veteran,250|205|95,,0,cmnDrgDistribution,
+7,1,Elite,255|72|0,,0,cmnDrgDistribution,
+8,1,Mythic,93|222|202,,0,cmnDrgDistribution,!@#pngnkdffednehgmg

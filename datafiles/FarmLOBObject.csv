@@ -1,0 +1,5 @@
+identifier,animationMappingType,animationMappingIdentifier,isShownInBattle,isAnimatingInBattle,achievementRequirement,h
+String,String,String,Integer,Integer,String,String
+person01,shepard,idleAnticWave,,,level01,
+person02,sheep,idleAnticWave,,,level01,
+person03,sheep,idleAnticWave,,,level01,!@#pamndpdndohdmedm

@@ -1,0 +1,4 @@
+identifier,isEnabled,message,h
+String,Integer,LocalizedString,String
+lowActivityWarning,1,"Your status is now ""low activity"". This may affect your guild eligibility if you don't hurry back to your team! See mail for tips on how to improve status.",
+autoKickWarning,1,Hurry! You will be kicked from your guild if you do not play within the next day.,!@#eleooijgjhbklnpe

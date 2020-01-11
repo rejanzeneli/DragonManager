@@ -1,0 +1,5 @@
+identifier,commonIdentifier,maxTimes,ragePoints,cooldown,empoweredDuration,empoweredRagePoints,teleportSpeed,teleportDuration,teleportBlockingDistance,chargeTime,shieldAsPercentageOfMaxHP,healAsPercentageOfMaxHP,ragePointsRestored,duration,spellCanExpire,h
+String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,Float,Float,Float,Float,Integer,String
+alterFate1,,100,200,10,15,0,120,0.8,150,1,31,0,0,10,1,
+alterFate2,,100,200,10,15,0,120,0.8,150,1,31,0,0,10,0,
+ferociousDive1,ferociousDive,100,200,5.5,0.7,0,80,0.7,110,0.3,0,20,0,0.7,1,!@#onjdojkabdaibhah

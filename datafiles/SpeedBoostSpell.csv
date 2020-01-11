@@ -1,0 +1,3 @@
+identifier,level,maxTimes,speedBonusPercentage,speedBonusDuration,ragePoints,h
+String,String,Integer,Integer,Float,Float,String
+speedBoost1,1,100,80,4,30,!@#ikmiobifalacdikd

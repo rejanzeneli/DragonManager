@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,duration,cooldown,damageAsPercentageOfMaxHP,numberOfProjectiles,maxTargets,projectileIdentifier,h
+String,String,String,Integer,Float,Float,Float,Float,Integer,Integer,String,String
+seekerShots1,,1,100,100,0.25,0,0.1,10,5,seekerShots,
+soulBarrage1,soulBarrage,1,100,100,1.75,0,0.16,5,5,soulBarrage,
+spearSalvo1,spearSalvo,1,100,100,0.5,0,0.12,3,3,spearSalvo,
+swarmStrike1,swarmStrike,1,100,100,0.5,0,0.1,10,5,swarmStrike,!@#edekoejhfhfkljkg

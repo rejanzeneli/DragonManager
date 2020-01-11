@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C1WEdragon_1,1,food:0,1,,18018,244,flamethrower:T2C1WEdragon_flamethrower,,331,food:14,4.2,rage2,1,325,1,experience:0,75,
+T2C1WEdragon_2,2,food:236,1,,19474,290,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,364,food:16,4.2,rage2,1,456,1,experience:0,132,
+T2C1WEdragon_3,3,food:280,1,,21024,346,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,401,food:18,4.2,rage2,1,623,1,experience:0,162,
+T2C1WEdragon_4,4,food:329,1,,23480,425,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,441,food:20,4.2,rage2,1,843,1,experience:0,195,
+T2C1WEdragon_5,5,food:507,1,,26176,517,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,482,food:22,4.2,rage2,2,1115,1,experience:0,242,
+T2C1WEdragon_6,6,food:567,1,,28749,615,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,522,food:24,4.2,rage2,2,2152,1,experience:0,281,
+T2C1WEdragon_7,7,food:912,1,,38017,873,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,559,food:26,4.2,rage2,2,3470,1,experience:0,408,
+T2C1WEdragon_8,8,food:1553,1,,39724,966,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,593,food:28,4.2,rage2,2,4557,1,experience:0,446,
+T2C1WEdragon_9,9,food:1703,1,,42030,1076,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,624,food:30,4.2,rage2,2,5612,1,experience:0,500,
+T2C1WEdragon_10,10,food:1858,1,,43942,1193,flamethrower:T2C1WEdragon_flamethrower,curePoison:curePoison1,661,food:32,4.2,rage2,3,0,1.2,experience:0,556,!@#abppkmccpnpcgmgd

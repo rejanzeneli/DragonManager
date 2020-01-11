@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3C3HFdragon_1,1,food:0,1,,19037,517,fireball:T3C3HFdragon_fireball,,2139,food:22,4.2,rage1,2,1239,1,experience:0,161,
+T3C3HFdragon_2,2,food:709,1,,20908,615,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,2317,food:24,4.2,rage1,2,1649,1,experience:0,281,
+T3C3HFdragon_3,3,food:787,1,,27649,873,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,2484,food:26,4.2,rage1,2,2152,1,experience:0,408,
+T3C3HFdragon_4,4,food:1084,1,,28890,966,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,2633,food:28,4.2,rage1,2,2826,1,experience:0,446,
+T3C3HFdragon_5,5,food:1188,1,,30567,1076,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,2772,food:30,4.2,rage1,2,3480,1,experience:0,500,
+T3C3HFdragon_6,6,food:1296,1,,31958,1193,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,2937,food:32,4.2,rage1,3,6254,1,experience:0,556,
+T3C3HFdragon_7,7,food:2449,1,,33798,1351,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,3145,food:34,4.2,rage1,3,9425,1,experience:0,630,
+T3C3HFdragon_8,8,food:3274,1,,36751,1580,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,3384,food:36,4.2,rage1,3,10840,1,experience:0,740,
+T3C3HFdragon_9,9,food:3715,1,,40333,1882,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,3671,food:40,4.2,rage1,3,12314,1,experience:0,875,
+T3C3HFdragon_10,10,food:5562,1,,43718,2220,fireball:T3C3HFdragon_fireball,frenzySpell:frenzy1,3996,food:44,4.2,rage1,3,0,1.2,experience:0,1035,!@#glbmpnpgpbebldak

@@ -1,0 +1,8 @@
+identifier,commonIdentifier,level,maxTimes,duration,attackBonusPercentage,ragePoints,empoweredRagePoints,solarEnergyBonusPerTower,h
+String,String,String,Integer,Float,Integer,Float,Float,Integer,String
+heatedPiercingBreath1,,1,100,3.75,20,100,100,20,
+superHeatedBreath1,superHeatedBreath,1,100,6,50,100,100,20,
+inferno1,inferno,1,100,4,135,200,200,20,
+immolatingBreath1,immolatingBreath,1,100,4,150,0,0,20,
+primordialBreath1,primordialBreath,1,100,4,100,0,0,20,
+stormBreath1,stormBreath,1,100,5,200,100,0,20,!@#hnhbpomccaehbhca

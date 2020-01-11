@@ -1,0 +1,4 @@
+identifier,title,subtitle,iapIdentifiers,startTime,endTime,templateFile,backgroundImageFile,popupIntervalSeconds,popupIntervalNumStartups,popupMaximumTimes,displayPriority,h
+String,LocalizedString,LocalizedString,String,Date,Date,String,String,Integer,Integer,Integer,Integer,String
+marketing_1,80% off 30 Days of Elite,Only available for 24 hours!,marketing_1,2016.08.25,2017.08.25,ValuePackOnePackPopup.ccbi,valuePackBgOnePack.jpg,600,0,10,1,
+valuepackpopup_1,Value Pack Offer!,Only available for a limited time!,VP3_2|VP4_2,2011.08.25,2019.12.25,ValuePackTwoPackPopup.ccbi,valuePackBgTwoPack.jpg,10,0,10,1,!@#ncblciegnbjieeae!@#nlbjolajglbifbdf

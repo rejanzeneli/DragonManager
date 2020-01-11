@@ -1,0 +1,15 @@
+identifier,inBundle,iconFilename,displayName,salvagingCategoryIdentifier,h
+String,Integer,String,LocalizedString,String,String
+dragon,1,icon_dragon_01.png,Dragon Boost,dragon,
+building,1,icon_tower_01.png,Tower Boost,tower,
+defenderBoost,1,icon_defend_03.png,Defender Boost,other,
+spell,1,icon_spell_01.png,Spell,spell,
+expedite,1,icon_timekeeper_01.png,TimeKeeper,other,
+healing,1,icon_dragon_01.png,Healing,dragon,
+resist,1,icon_spell_01.png,Resist Ability,spell,
+xpMultiplier,1,icon_spell_01.png,XP Multiplier,spell,
+food,1,icon_food_01.png,Food Pack,resource,
+piercing,1,icon_component_wood_01.png,Wood Pack,resource,
+foodBoost,1,icon_food_01.png,Food Production Boost,resource,
+woodBoost,1,icon_component_wood_01.png,Wood Production Boost,resource,
+gold,1,icon_goldCoin.png,Gold Pack,resource,!@#hgnikgeegfggejoi

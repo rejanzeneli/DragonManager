@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3C2HUdragon_1,1,food:0,1,,33798,1351,fireball:T3C2HUdragon_fireball,,3145,food:34,4.2,rage1,3,3670,1,experience:0,420,
+T3C2HUdragon_2,2,food:2285,1,,36751,1580,fireball:T3C2HUdragon_fireball,instantKill:instant1,3384,food:36,4.2,rage1,3,4796,1,experience:0,740,
+T3C2HUdragon_3,3,food:2592,1,,40333,1882,fireball:T3C2HUdragon_fireball,instantKill:instant1,3671,food:40,4.2,rage1,3,6269,1,experience:0,875,
+T3C2HUdragon_4,4,food:3881,1,,43718,2220,fireball:T3C2HUdragon_fireball,instantKill:instant1,3996,food:44,4.2,rage1,3,8076,1,experience:0,1035,
+T3C2HUdragon_5,5,food:4320,1,,47804,2619,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,4311,food:48,4.2,rage1,4,10109,1,experience:0,1632,
+T3C2HUdragon_6,6,food:4774,1,,51661,3019,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,4598,food:52,4.2,rage1,4,11544,1,experience:0,1875,
+T3C2HUdragon_7,7,food:6552,1,,64953,4023,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,4873,food:56,4.2,rage1,4,13035,1,experience:0,2496,
+T3C2HUdragon_8,8,food:7155,1,,67393,4380,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,5113,food:60,4.2,rage1,4,14850,1,experience:0,2727,
+T3C2HUdragon_9,9,food:7776,1,,70577,4777,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,5326,food:64,4.2,rage1,5,22253,1,experience:0,2968,
+T3C2HUdragon_10,10,food:13413,1,,73234,5192,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,5578,food:68,4.2,rage1,5,25097,1,experience:0,3219,
+T3C2HUdragon_11,11,food:14460,1,,76033,5559,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,5885,food:72,4.2,rage1,5,34609,1,experience:0,3510,
+T3C2HUdragon_12,12,food:19251,1,,81637,6118,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,6228,food:77,4.2,rage1,5,39008,1,experience:0,3999,
+T3C2HUdragon_13,13,food:24338,1,,87629,6765,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,6634,food:82,4.2,rage1,6,50954,1,experience:0,4576,
+T3C2HUdragon_14,14,food:30708,1,,93241,7464,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,7107,food:87,4.2,rage1,6,57406,1,experience:0,5214,
+T3C2HUdragon_15,15,food:33023,1,,100038,8273,fireball:T3C2HUdragon_fireball,instantKill:instant1|trebuchetResist01:trebuchetResist01,7599,food:92,4.2,rage1,6,0,1.2,experience:0,5984,!@#gedeiaikdppcbehf

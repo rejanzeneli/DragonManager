@@ -1,0 +1,8 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+RedTutorialUpgrades_1,1,,0,,10120,3,flamethrower:red_flamethrower,,220,food:10,4,rageTut,1,7,1,experience:0,100,
+RedTutorialUpgrades_2,2,food:10,15,,10120,3,flamethrower:red_flamethrower,chargedShield:chargedShieldTut,310,food:10,4,rageTut,2,34,1,experience:0,200,
+RedTutorialUpgrades_3,3,food:40,900,level03,10120,300,flamethrower:red_flamethrower,chargedShield:chargedShieldTut,220,food:10,4,rage3,2,132,1,experience:100,300,
+RedTutorialUpgrades_4,4,food:230,3600,level04,18510,300,flamethrower:red_flamethrower,chargedShield:chargedShieldTut,220,food:10,4,rage1,2,297,1,experience:100,400,
+RedTutorialUpgrades_5,5,food:660,7200,level05,21620,300,flamethrower:red_flamethrower,chargedShield:chargedShield2|healDragon:heal1,220,food:10,4,rage1,2,595,1,experience:100,500,
+RedTutorialUpgrades_6,6,food:1430,10800,level06,21370,300,flamethrower:red_flamethrower,chargedShield:chargedShield2|healDragon:heal1,220,food:10,4,rage1,2,0,1,experience:100,600,!@#jgnoegpljejghfop

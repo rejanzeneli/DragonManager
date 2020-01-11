@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T7C1SIdragon_1,1,food:0,1,,489072,14400,lockon:T7C1SIdragon_lockon,,24660,food:304,4.2,rage3,15,166595,1,experience:0,47320,
+T7C1SIdragon_2,2,food:85320,1,,505637,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1,25626,food:316,4.2,rage3,16,202233,1,experience:0,76266,
+T7C1SIdragon_3,3,food:88560,1,,526397,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1,26754,food:328,4.2,rage3,16,248621,1,experience:0,82911,
+T7C1SIdragon_4,4,food:91800,1,,548285,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1,28092,food:340,4.2,rage3,17,296679,1,experience:0,90668,
+T7C1SIdragon_5,5,food:95041,1,,582064,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,29689,food:352,4.2,rage3,17,350276,1,experience:0,135600,
+T7C1SIdragon_6,6,food:98280,1,,621671,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,31488,food:364,4.2,rage3,18,374062,1,experience:0,153659,
+T7C1SIdragon_7,7,food:101520,1,,663875,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,33548,food:376,4.2,rage3,18,397040,1,experience:0,174778,
+T7C1SIdragon_8,8,food:104760,1,,704646,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,35779,food:388,4.2,rage3,18,423910,1,experience:0,197883,
+T7C1SIdragon_9,9,food:108000,1,,752317,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,38107,food:400,4.2,rage3,19,601057,1,experience:0,225024,
+T7C1SIdragon_10,10,food:147750,1,,803103,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,40587,food:412,4.2,rage3,19,637870,1,experience:0,255840,
+T7C1SIdragon_11,11,food:152053,1,,852275,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,43273,food:424,4.2,rage3,19,832686,1,experience:0,289476,
+T7C1SIdragon_12,12,food:191237,1,,909629,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,46076,food:436,4.2,rage3,20,888620,1,experience:0,328970,
+T7C1SIdragon_13,13,food:196501,1,,970720,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,49001,food:448,4.2,rage3,20,1102302,1,experience:0,373320,
+T7C1SIdragon_14,14,food:235874,1,,1029998,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,52083,food:460,4.2,rage3,20,1169589,1,experience:0,421038,
+T7C1SIdragon_15,15,food:242027,1,,1092859,14400,lockon:T7C1SIdragon_lockon,frozenTomb:frozenTomb1|archerResist01:archerResist01,55137,food:472,4.2,rage3,21,0,1.2,experience:0,472920,!@#odenmmkndbkppcmp

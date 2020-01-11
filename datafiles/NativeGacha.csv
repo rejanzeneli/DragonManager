@@ -1,0 +1,7 @@
+identifier,worldObjectPortalIdentifier,spinType,location,startTime,endTime,sceneFile,animations,particleEffects,titleText,subtitleText,epicText,h
+String,String,Integer,Integer,Date,Date,String,String,String,LocalizedString,LocalizedString,LocalizedString,String
+gacha_gold,gacha_gold,2,2,,,prop_treasureChest_03.lvl,idle:idle,idle:VFX_gotcha_idle_03#VFX_gotcha_idle_03,GOLD,Guaranteed EPIC drop!,Open %ld Gold Chests for a Legendary Drop,
+gacha_silver,gacha_silver,1,1,,,prop_treasureChest_04.lvl,idle:idle,idle:VFX_gotcha_idle_02#VFX_gotcha_idle_02,SILVER,High Chance of RARE drop!,Open %ld Silver Chests for bonus Epic or Legendary Rune,
+gacha_bronze,gacha_bronze,0,0,,,prop_treasureChest_01.lvl,idle:idle,idle:VFX_gotcha_idle_01#VFX_gotcha_idle_01,BRONZE,Chance of RARE drop!,Open %ld Bronze Chests for a Legendary Drop,
+gacha_runic_chest,gacha_silver,5,1,,,prop_treasureChest_02.lvl,idle:idle,idle:VFX_gotcha_idle_02#VFX_gotcha_idle_02,RUNIC,Chance of Mythic and Legendary Runes!,Open %ld Runic Chests for bonus Mythic or Legendary Rune,
+gacha_super_sigil,gacha_silver,7,1,,,prop_treasureChest_05.lvl,idle:idle,idle:VFX_gotcha_idle_02#VFX_gotcha_idle_02,SUPER SIGIL,Only Sigils!,Open %ld Super Sigil Chests for bonus Legendary Drop,!@#mkeamafplbohhcmm

@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T6C1WIdragon_1,1,food:0,1,,180382,12329,flamethrower:T6C1WIdragon_flamethrower,,2219,food:112,4.2,rage2,7,33123,1,experience:0,5092,
+T6C1WIdragon_2,2,food:32400,1,,191820,13442,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1,2342,food:120,4.2,rage2,8,42343,1,experience:0,8570,
+T6C1WIdragon_3,3,food:34560,1,,232075,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1,2452,food:128,4.2,rage2,8,54815,1,experience:0,10860,
+T6C1WIdragon_4,4,food:36720,1,,240858,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1,2554,food:136,4.2,rage2,8,68776,1,experience:0,11747,
+T6C1WIdragon_5,5,food:38880,1,,248293,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,2648,food:144,4.2,rage2,9,85493,1,experience:0,16716,
+T6C1WIdragon_6,6,food:41040,1,,258087,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,2761,food:152,4.2,rage2,9,96118,1,experience:0,18146,
+T6C1WIdragon_7,7,food:43200,1,,268440,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,2898,food:160,4.2,rage2,9,107264,1,experience:0,19800,
+T6C1WIdragon_8,8,food:46440,1,,285291,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,3065,food:172,4.2,rage2,10,120557,1,experience:0,22275,
+T6C1WIdragon_9,9,food:49680,1,,305366,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,3254,food:184,4.2,rage2,10,179930,1,experience:0,25300,
+T6C1WIdragon_10,10,food:70289,1,,326794,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,3473,food:196,4.2,rage2,11,200742,1,experience:0,28905,
+T6C1WIdragon_11,11,food:74592,1,,347230,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,3711,food:208,4.2,rage2,11,262679,1,experience:0,32784,
+T6C1WIdragon_12,12,food:96496,1,,371485,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,3959,food:220,4.2,rage2,12,280979,1,experience:0,37436,
+T6C1WIdragon_13,13,food:101759,1,,397354,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,4223,food:232,4.2,rage2,12,348941,1,experience:0,42700,
+T6C1WIdragon_14,14,food:125116,1,,422094,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,4511,food:244,4.2,rage2,13,373148,1,experience:0,48450,
+T6C1WIdragon_15,15,food:131269,1,,451363,14400,flamethrower:T6C1WIdragon_flamethrower,battlecry:battlecry1|ballistaResist01:ballistaResist01,4810,food:256,4.2,rage2,13,0,1.2,experience:0,55276,!@#pgcljpjhbibpnied

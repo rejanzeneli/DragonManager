@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T6C1SFdragon_1,1,food:0,1,,139386,12329,lockon:T6C1SFdragon_lockon,,9315,food:112,4.2,rage3,7,33123,1,experience:0,5092,
+T6C1SFdragon_2,2,food:32400,1,,148225,13442,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1,9829,food:120,4.2,rage3,8,42343,1,experience:0,8570,
+T6C1SFdragon_3,3,food:34560,1,,179331,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1,10292,food:128,4.2,rage3,8,54815,1,experience:0,10860,
+T6C1SFdragon_4,4,food:36720,1,,186118,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1,10717,food:136,4.2,rage3,8,68776,1,experience:0,11747,
+T6C1SFdragon_5,5,food:38880,1,,191863,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,11115,food:144,4.2,rage3,9,85493,1,experience:0,16716,
+T6C1SFdragon_6,6,food:41040,1,,199431,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,11589,food:152,4.2,rage3,9,96118,1,experience:0,18146,
+T6C1SFdragon_7,7,food:43200,1,,207431,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,12164,food:160,4.2,rage3,9,107264,1,experience:0,19800,
+T6C1SFdragon_8,8,food:46440,1,,220453,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,12864,food:172,4.2,rage3,10,120557,1,experience:0,22275,
+T6C1SFdragon_9,9,food:49680,1,,235965,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,13658,food:184,4.2,rage3,10,179930,1,experience:0,25300,
+T6C1SFdragon_10,10,food:70289,1,,252523,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,14577,food:196,4.2,rage3,11,200742,1,experience:0,28905,
+T6C1SFdragon_11,11,food:74592,1,,268314,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,15575,food:208,4.2,rage3,11,262679,1,experience:0,32784,
+T6C1SFdragon_12,12,food:96496,1,,287057,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,16615,food:220,4.2,rage3,12,280979,1,experience:0,37436,
+T6C1SFdragon_13,13,food:101759,1,,307047,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,17726,food:232,4.2,rage3,12,348941,1,experience:0,42700,
+T6C1SFdragon_14,14,food:125116,1,,326164,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,18932,food:244,4.2,rage3,13,373148,1,experience:0,48450,
+T6C1SFdragon_15,15,food:131269,1,,348781,14400,lockon:T6C1SFdragon_lockon,thunderstorm:thunderstorm1|stormResist01:stormResist01,20189,food:256,4.2,rage3,13,0,1.2,experience:0,55276,!@#oijenalnmgiglbnj

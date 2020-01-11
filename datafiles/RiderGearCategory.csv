@@ -1,0 +1,11 @@
+identifier,inBundle,displayName,iconFileName,sortPiority,isSkill,canEquipMultiple,h
+String,Integer,LocalizedString,String,Integer,Integer,Integer,String
+rings,0,rings,icon_gear_ring.png,1,,,
+gloves,0,gloves,icon_gear_gloves.png,2,,,
+weapons,0,weapons,icon_gear_weapon.png,3,,,
+head,0,helmets,icon_gear_helmet.png,4,,,
+chest,0,chest,icon_gear_chest.png,5,,,
+pants,0,pants,icon_gear_legArmor.png,6,,,
+boots,0,boots,icon_gear_boots.png,7,,,
+shield,0,shields,icon_gear_shield.png,8,,,
+skill,0,skillTree,,100,1,1,!@#hchajkabndeopame

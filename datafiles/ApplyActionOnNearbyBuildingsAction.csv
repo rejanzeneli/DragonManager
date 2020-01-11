@@ -1,0 +1,4 @@
+identifier,canApplySelf,applyToIsland,radius,applyBuildingSortLogic,selectBuildings,applyBuildingNumber,actions,ignoreBuildings,activateDelay,vfxIdentifiers,battleTextIdentifier,applySelfFirst,h
+String,Integer,Integer,Float,String,String,Integer,String,String,Float,String,String,Integer,String
+targetTowerActions2,1,0,0,,,1,damageReceiveLimit:damageReceiveLimit25,,,,,1,
+targetTowerActions3,1,0,0,,,1,damageReceiveLimit:damageReceiveLimit50,,,,,1,!@#dgoekbnmfbkohgei

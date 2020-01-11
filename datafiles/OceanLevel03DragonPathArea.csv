@@ -1,0 +1,7 @@
+identifier,startKeyframeIndex,endKeyframeIndex,typeName,parameters,h
+String,Float,Float,String,String,String
+island07_08,1,30,attack,,
+island06,61,80,attack,,
+island04_05,98,152,attack,excludeRegion:island00&island01&island02,
+island03,181,225,attack,excludeRegion:island00&island01&island02,
+island00_02,238,300,attack,include:expansion_057&expansion_058&expansion_060&expansion_062&expansion_064&expansion_065&expansion_061,!@#hdgijeidhbgoabgn

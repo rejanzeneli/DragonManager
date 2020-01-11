@@ -1,0 +1,21 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+premiumDragonXpModifier,0.75,,
+premiumDragonXpModifierDescription,,%@ Dragon XP per battle!,
+premiumResourceModifier,0.5,,
+premiumResourceModifierDescription,,"%@ resources from farms, mills!",
+premiumDailyBonusModifier,1,,
+premiumBreederMissionModifierPercentage,100,,
+premiumBreederMissionModifierDescription,,%@ tokens from Dragon Guard missions!,
+premiumBuildTimeModifier,0,,
+premiumBuildTimeModifierDescriptionSingle,,Allows 1 building to be built at once!,
+premiumBuildTimeModifierDescriptionPlural,,Allows %ld buildings to be built at once!,
+premiumAdditionalConstructors,1,,
+premiumExpiringArrowTime,3600,,
+premiumExpiredAnimationSessions,5,,
+premiumIconBounceSessionInterval,2,,
+premiumAccountUIPopupIntervalSeconds,259200,,
+premiumAccountUIPopupIntervalNumStartups,6,,
+premiumAccountPurchasedAchievement,questTryEliteAccount,,
+premiumAccountIconFilePath,icon_elite_account_03.png,,
+premiumAccountInValuePackDescription,,days of Elite Account,!@#mjdonokodpmhnhmk

@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T4C2WDdragon_1,1,food:0,1,,71034,3019,flamethrower:T4C2WDdragon_flamethrower,,1035,food:52,4.2,rage2,4,7106,1,experience:0,938,
+T4C2WDdragon_2,2,food:6552,1,,89311,4023,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1,1097,food:56,4.2,rage2,4,9116,1,experience:0,1872,
+T4C2WDdragon_3,3,food:7155,1,,92666,4380,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1,1151,food:60,4.2,rage2,4,11951,1,experience:0,2045,
+T4C2WDdragon_4,4,food:7776,1,,97043,4777,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1,1199,food:64,4.2,rage2,5,15156,1,experience:0,2226,
+T4C2WDdragon_5,5,food:10098,1,,100697,5192,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1255,food:68,4.2,rage2,5,18895,1,experience:0,3219,
+T4C2WDdragon_6,6,food:10887,1,,104545,5559,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1324,food:72,4.2,rage2,5,21304,1,experience:0,3510,
+T4C2WDdragon_7,7,food:11851,1,,112251,6118,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1402,food:77,4.2,rage2,5,24012,1,experience:0,3999,
+T4C2WDdragon_8,8,food:14982,1,,120490,6765,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1493,food:82,4.2,rage2,6,26830,1,experience:0,4576,
+T4C2WDdragon_9,9,food:16169,1,,128206,7464,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1599,food:87,4.2,rage2,6,40148,1,experience:0,5214,
+T4C2WDdragon_10,10,food:23095,1,,137552,8273,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1710,food:92,4.2,rage2,6,45219,1,experience:0,5984,
+T4C2WDdragon_11,11,food:27829,1,,147541,9169,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1829,food:97,4.2,rage2,6,61775,1,experience:0,6860,
+T4C2WDdragon_12,12,food:35792,1,,156940,10109,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,1958,food:102,4.2,rage2,7,69552,1,experience:0,7812,
+T4C2WDdragon_13,13,food:37546,1,,168273,11196,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,2092,food:107,4.2,rage2,7,91521,1,experience:0,8954,
+T4C2WDdragon_14,14,food:57431,1,,180382,12329,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,2219,food:112,4.2,rage2,7,102191,1,experience:0,10184,
+T4C2WDdragon_15,15,food:61533,1,,191820,13442,flamethrower:T4C2WDdragon_flamethrower,hurricane:hurricane1|stormResist01:stormResist01,2342,food:120,4.2,rage2,8,0,1.2,experience:0,11427,!@#lpibdblcalmeejdh

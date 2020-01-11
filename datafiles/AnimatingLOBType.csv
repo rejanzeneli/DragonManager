@@ -1,0 +1,14 @@
+identifier,lobTypeObectsCSVFilename,h
+String,String,String
+vault,VaultLOBObject.csv,
+builderHut,BuilderHutLOBObject.csv,
+guildHall,GuildLOBObject.csv,
+alchemyHut,AlchemyLOBObject.csv,
+incubator,IncubatorLOBObject.csv,
+stable,StableLOBObject.csv,
+breedingCave,BreedingCaveLOBObject.csv,
+research,ResearchLOBObject.csv,
+world,WorldLOBObject.csv,
+farm,FarmLOBObject.csv,
+tower,TowerLOBObject.csv,
+lumber,LumberLOBObject.csv,!@#adibekolhojdahio

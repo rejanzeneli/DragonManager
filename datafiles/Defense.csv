@@ -1,0 +1,6 @@
+identifier,unlockAchievement,invaderName,dragonsListString,pointsToStars,pointsToCurrencies,narrationIdentifier,defaultAttackerGuildCrestFileName,defaultDefenderGuildCrestFileName,AIAttackerPortraitIdentifier,AIGuildName,h
+String,String,LocalizedString,String,String,String,String,String,String,String,LocalizedString,String
+defense01,tutorialDefense1AI,Xander,"[{""id"":""boneDefenseDragon"",""level"":1}]",0|70|85|99,food:0,narrationIncomingAttack,icon_COA_skull.png,icon_COA_blank.png,quint,The Blackbloods,
+defense02,tutorialDefense2AI,Laria,"[{""id"":""serpentDefenseDragon"",""level"":1}]",0|70|85|99,food:0,narrationIncomingAttack2,icon_COA_skull.png,icon_COA_blank.png,laria,The Blackbloods,
+aiAttack,tutorialDefense2AI,Laria,"[{""id"":""serpentDefenseDragon"",""level"":1}]",0|70|85|99,food:0,narrationIncomingAttack2,icon_COA_skull.png,icon_COA_blank.png,laria,The Blackbloods,
+v3Defense01,v3TutorialDefense1AI,Xander,"[{""id"":""boneDefenseDragon"",""level"":1}]",0|70|85|99,food:0,narrationV3IncomingAttack,icon_COA_skull.png,icon_COA_blank.png,quint,The Blackbloods,!@#gemaohodclookmle

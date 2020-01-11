@@ -1,0 +1,8 @@
+identifier,prerequisiteDailyBonusId,fallthroughDailyBonusIds,shouldRepeat,isDisabled,title,dailyBonusDescription,imageFilename,rewardDistribution,numRewardPicks,chainIdentifier,h
+String,String,String,Integer,Integer,String,String,String,String,Integer,String,String
+db1,,,,,DailyBonus1,Chain-startup,job_icons_1.png,premium,,startup,
+db2,db1,,,,DailyBonus2,Chain-startup,job_icons_1.png,premium,,startup,
+db3,db2,,1,,DailyBonus3,Chain-startup,job_icons_1.png,premium,2,startup,
+db4,,db1,,,DailyBonus4,Chain-startup,job_icons_1.png,premium,,startup,
+db5,db4,,1,,DailyBonus5,Chain-startup,job_icons_1.png,premium,,startup,
+db6,,,1,,DailyBonus6,Chain-testMenu,job_icons_1.png,premium,2,testMenu,!@#dkcpmcnbgpnkjemm

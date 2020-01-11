@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,refreshInterval,healAsPercentageOfMaxHP,attackBonusPercentage,attackPowerPercentageCap,h
+String,String,String,Integer,Float,Float,Float,Integer,String
+furyOfTheWastes1,,1,100,3,6,3.8,100,
+spiralingMadness1,spiralingMadness,1,100,5,8,0,0,!@#lchppmcghakcoohn

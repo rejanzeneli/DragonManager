@@ -1,0 +1,6 @@
+identifier,timeRemaining,baseCost,costMultiplier,h
+String,Integer,Float,Float,String
+1,60,3,0,
+2,3600,2.028,0.0162,
+3,86400,29.028,0.0087,
+4,604800,417.828,0.0052,!@#dcolbochlboblknb

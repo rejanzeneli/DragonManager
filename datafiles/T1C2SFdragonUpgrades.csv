@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1C2SFdragon_1,1,food:0,1,,8066,120,lockon:T1C2SFdragon_lockon,,1155,food:5,4.2,rage3,1,41,1,experience:0,30,
+T1C2SFdragon_2,2,food:21,1,,8439,120,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1239,food:6,4.2,rage3,1,62,1,experience:0,50,
+T1C2SFdragon_3,3,food:29,1,,8962,120,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1322,food:7,4.2,rage3,1,87,1,experience:0,58,
+T1C2SFdragon_4,4,food:46,1,,11442,167,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1448,food:10,4.2,rage3,1,133,1,experience:0,78,
+T1C2SFdragon_5,5,food:91,1,,12406,199,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1585,food:12,4.2,rage3,1,192,1,experience:0,95,
+T1C2SFdragon_6,6,food:113,1,,13923,244,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1736,food:14,4.2,rage3,1,393,1,experience:0,113,
+T1C2SFdragon_7,7,food:299,1,,15048,290,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,1905,food:16,4.2,rage3,1,681,1,experience:0,132,
+T1C2SFdragon_8,8,food:439,1,,16246,346,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,2103,food:18,4.2,rage3,1,930,1,experience:0,162,
+T1C2SFdragon_9,9,food:515,1,,18143,425,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,2312,food:20,4.2,rage3,1,1258,1,experience:0,195,
+T1C2SFdragon_10,10,food:795,1,,20227,517,lockon:T1C2SFdragon_lockon,chainLightning:chainLightning2,2525,food:22,4.2,rage3,2,0,1.2,experience:0,242,!@#pjdcjciegijpbfam

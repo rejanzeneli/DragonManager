@@ -1,0 +1,7 @@
+identifier,commonIdentifier,level,maxTimes,attackBonusPercentage,immediateAttackMultiplier,numShots,ragePoints,chargeTime,cooldown,h
+String,String,String,Integer,Integer,Integer,Integer,Float,Float,Float,String
+instant1,,1,100,1,10000,1,100,0,,
+whiteInstantKill1,whiteInstantKill,1,100,1,10000,1,100,0,3,
+instantCon,,7,2,1,10000,1,0,0,,
+superDeathGaze,,1,1,1,10000,4,0,0,,
+acidSpit1,acidSpit,1,100,1,20,1,100,0,4,!@#ejbeehjpkeenendh

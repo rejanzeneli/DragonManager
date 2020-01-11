@@ -1,0 +1,10 @@
+identifier,commonIdentifier,level,maxTimes,damagePercentageIncreaseModifier,h
+String,String,String,Integer,Float,String
+frostbite1,,1,100,20,
+feralRage1,feralRage,1,100,0,
+corrosiveBrine1,corrosiveBrine,1,100,25,
+deathsDoor1,deathsDoor,1,100,20,
+pillagingFlames1,pillagingFlames,1,100,20,
+undertow1,undertow,1,100,20,
+shrineGuardian1,shrineGuardian,1,100,0,
+eternalMight1,eternalMight,1,100,0,!@#dmijobeekljejpod

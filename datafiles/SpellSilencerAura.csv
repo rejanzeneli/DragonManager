@@ -1,0 +1,5 @@
+identifier,spellTypes,duration,h
+String,String,Float,String
+spellSilencer1,red,,
+spellSilencer2,blue,,
+spellSilencerIceFlak,blue|red|white,1.5,!@#ehccddimlibemkji

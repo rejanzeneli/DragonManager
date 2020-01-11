@@ -1,0 +1,8 @@
+key,value,h
+String,String,String
+minimumTimeBetweenNotificationsInSeconds,300,
+earliestTimeOfDayToSendLocalNotificationInSeconds,0,
+latestTimeOfDayToSendLocalNotificationInSeconds,86400,
+secondsUntilNotificationsExpire,86400,
+localNotificationsEnabled,1,
+minimumTimeBetweenRequestForReviewInSeconds,7890000,!@#njcadjeohhfmmong

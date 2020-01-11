@@ -1,0 +1,18 @@
+identifier,isEnabled,incrementsBadgeNumber,isTimeSensitive,isAlwaysScheduled,delayInSeconds,message,soundName,channelID,h
+String,Integer,Integer,Integer,Integer,Integer,LocalizedString,String,String,String
+tutorial,1,1,1,0,0,You didn't complete the tutorial!,,channelIDGeneral,
+construction,1,1,1,0,0,Your %@ has finished building. Come back to complete it!,,channelIDGeneral,
+ltq,0,0,1,0,0,%@ is about to expire. Come back quick to finish it!,,channelIDGeneral,
+dragonConstruction,1,1,1,0,0,Your dragon egg is ready to hatch!,,channelIDGeneral,
+colonyMigration,1,1,1,0,0,Your base is ready to migrate.,,channelIDGeneral,
+dragonUpgrading,0,1,1,0,0,%@ has finished training! Come back to complete it!,,channelIDGeneral,
+buildingUpgrading,1,1,1,0,0,Your %@ has finished upgrading! Come back to complete it!,,channelIDGeneral,
+researchComplete,0,1,1,0,0,You have finished researching %@!,,channelIDGeneral,
+dailyBreederReady,1,1,1,0,0,Dragon Guard %@ is ready with a new task for you.,,channelIDGeneral,
+dragonsHealed,0,1,1,0,0,Your dragons are healed! Come back and attack!,,channelIDGeneral,
+harvestBuildingsFull,0,1,1,0,0,Your resource buildings are full! Come back and collect!,,channelIDGeneral,
+foliageClearingComplete,1,1,1,0,0,Your dragons have finished clearing the forest.,,channelIDGeneral,
+fogClearingComplete,1,1,1,0,0,Your dragons have finished exploring the next island.,,channelIDGeneral,
+smrDeliveryFailed,1,1,1,0,30,Please reopen the game when you have internet. We couldn't reach our servers to save your progress.,,channelIDGeneral,
+salvageDepotReadyCollect,1,0,1,0,0,Bounty Harbor now has new treasures waiting for you!,,channelIDGeneral,
+consecutiveCheckReminder,1,0,1,0,0,Check-in within the next %ld hours to maintain your streak!,,channelIDGeneral,!@#pfjdhejkdochpiff

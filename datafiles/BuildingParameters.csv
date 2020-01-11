@@ -1,0 +1,17 @@
+key,value,h
+String,String,String
+expediteCostPerHour,10,
+maxExpediteCost,15000,
+minExpediteCost,1,
+buildingSalePercentage,25,
+expediteForFreeTime,60,
+showcaseCameraVerticalAngleStarting,5,
+componentScaleInAttackPreview,0.5,
+componentIdentifiers,piercing|aura,
+maxBuilders,1,
+damageFractionToShowDestroyedSceneFile,0.2,
+damageFractionToShowScaffolding,0.6,
+damageRepairDurationSeconds,20,
+blockTapsOnBuildingRepair,1,
+damageRepairFudgeRangeSeconds,4,
+buildingtypesToApplyProgressDiscount,TOWER|AURA|DRAGONPERCH|TOTEM|HARVEST,!@#kofjhfhpicgajhpa

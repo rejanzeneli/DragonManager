@@ -1,0 +1,21 @@
+extends layout
+
+block content
+
+  div(class="container")
+    each tier in dragons
+      if tier.length > 0
+        if tier[0].seasonName
+          label(class="flow-text" for= tier[0].tierName) #{tier[0].seasonName.toUpperCase()}
+        else
+          label(class="flow-text" for= tier[0].tierName) #{tier[0].tierName.toUpperCase()}
+        div(class="row section center-align" id= tier[0].tierName)
+          each dragon in tier
+            include info_dragon_link
+
+block inlinecode
+
+  script.
+    $('.menuitem').removeClass('active');
+    $('#menu-dragons').addClass('active');
+    $('#menu-dragons-mobile').addClass('active');

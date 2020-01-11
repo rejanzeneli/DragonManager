@@ -1,0 +1,17 @@
+key,value,h
+String,String,String
+hpBoostIdentifier,increaseHP1,
+attackBoostIdentifier,increaseAttack1,
+dyingHPRatio,0.05,
+mageTowerPriorityAdjust,1,
+stepsToWaitBetweenAttacks,1,
+stepsToWaitBeforeFireSpell,3,
+stepsToWaitBetweenSpells,20,
+defaultBuildingPriority,0,
+defaultSpellPriority,100,
+redSpellsStillCanBeUsedUnderRedMageTower,summonAIDragon|invertSpell,
+minBuildingCountForAOESpellToUse,2,
+maxRewardCountDefenderCanEarn,5,
+highPriority,4,
+circleAOESpellCategory,circleAOE,
+stepsToWaitBeforeFlamethrowerSwitchTarget,8,!@#ggbfcncipecmjffm

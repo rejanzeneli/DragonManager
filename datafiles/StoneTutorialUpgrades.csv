@@ -1,0 +1,8 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+StoneTutorialUpgrades_1,1,,0,,10000,3,fireball:T1C1HIdragon_fireball,,1000,food:3,4.2,rageChinese,1,7,1,experience:0,100,
+StoneTutorialUpgrades_2,2,food:10,15,level02,10200,3,fireball:T1C1HIdragon_fireball,chainLightning:chainLightningTut,1000,food:15,4.2,rageChinese,2,34,1,experience:0,200,
+StoneTutorialUpgrades_3,3,food:40,900,level03,9540,300,fireball:T1C1HIdragon_fireball,chainLightning:chainLightningTut,1000,food:90,4.2,rage2,2,132,1,experience:100,300,
+StoneTutorialUpgrades_4,4,food:230,3600,level04,12340,300,fireball:T1C1HIdragon_fireball,chainLightning:chainLightningTut,1000,food:290,4.2,rage2,2,297,1,experience:100,400,
+StoneTutorialUpgrades_5,5,food:660,7200,level05,14410,300,fireball:T1C1HIdragon_fireball,chainLightning:chainLightningTut|archerResist01:archerResist01,1000,food:730,4.2,rage2,2,595,1,experience:100,500,
+StoneTutorialUpgrades_6,6,food:1430,10800,level06,14250,300,fireball:T1C1HIdragon_fireball,chainLightning:chainLightningTut|archerResist01:archerResist01,1000,food:1225,4.2,rage2,2,0,1,experience:100,600,!@#kfjgddapdlbccjmn

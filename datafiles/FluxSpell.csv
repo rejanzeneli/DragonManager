@@ -1,0 +1,9 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,chargeTime,range,damageAsPercentageOfMaxHP,buildingAffectRange,affectDamageAsPercentageOfMaxHP,healAsPercentageOfMaxHP,ragePointsRestored,particleFlightDuration,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,Float,Float,String
+flux1,,1,100,200,1,100,,34,0.038,0,0,0.3,,
+harrowingBolt1,harrowingBolt,1,100,0,0,100,0.75,0,0,0.15,100,0.3,8,
+incinerate1,incinerate,1,100,200,0,100,0.75,0,0,0.1,0,0.3,6,
+dragonfireMissile1,dragonfireMissile,1,100,100,0,100,0.75,0,0,0,100,0.3,4,
+cosmicGaze1,cosmicGaze,1,100,0,0,100,0.75,0,0,15,0,0.3,5,
+iceLance1,iceLance,1,100,100,0,100,0.75,0,0,0,0,0.3,4,
+violentFrenzy1,violentFrenzy,1,100,100,0,100,0.75,0,0,0,0,0.3,4,!@#iifgamjemdljdlnn

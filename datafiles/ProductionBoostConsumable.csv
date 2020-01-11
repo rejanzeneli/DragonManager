@@ -1,0 +1,10 @@
+identifier,inBundle,name,packDescriptionIdentifier,iconFilename,targetType,durationInMinutes,productionBoost,protectionBoost,currencyType,salvagePrice,sortPriority,h
+String,Integer,LocalizedString,String,String,String,Integer,Integer,Integer,String,Integer,Integer,String
+24h_2x_food,1,1d +200% Food Boost,,icon_boost_production_food_01.png,foodBoost,1440,200,200,food,200,37,
+24h_2x_wood,1,1d +200% Wood Boost,,icon_boost_production_wood_01.png,woodBoost,1440,200,200,piercing,200,37,
+24h_4x_food,1,1d +400% Food Boost,,icon_boost_production_food_01.png,foodBoost,1440,400,400,food,400,37,
+24h_4x_wood,1,1d +400% Wood Boost,,icon_boost_production_wood_01.png,woodBoost,1440,400,400,piercing,400,40,
+12h_5x_food,1,12h +500% Food Boost,,icon_boost_production_food_01.png,foodBoost,720,500,500,food,600,40,
+12h_5x_wood,1,12h +500% Wood Boost,,icon_boost_production_wood_01.png,woodBoost,720,500,500,piercing,600,40,
+168h_2x_food,1,1wk +200% Food Boost,,icon_boost_production_food_01.png,foodBoost,10080,200,200,food,1000,40,
+168h_2x_wood,1,1wk +200% Wood Boost,,icon_boost_production_wood_01.png,woodBoost,10080,200,200,piercing,1000,40,!@#eenjgchngligmiim

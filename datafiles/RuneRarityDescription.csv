@@ -1,0 +1,8 @@
+identifier,inBundle,displayName,rarityType,h
+String,Integer,LocalizedString,Integer,String
+0,1,Common,1,
+3,1,Rare,2,
+4,1,Epic,4,
+5,1,Legendary,8,
+6,1,Mythic,16,
+7,1,Exotic,32,!@#bgdjgmjlilnecmfm

@@ -1,0 +1,9 @@
+identifier,type,iapIdentifier,name,enabled,revInCents,defaultLocalizedPrice,sale,sandboxNumber,currency,thumbnail,amount,originalAmount,currencyIdentifier,listPriority,isGold,inBundle,h
+String,String,String,LocalizedString,String,String,String,String,String,String,String,String,String,String,Integer,String,Integer,String
+iap_100_gem,CurrencyContainer,iap_100_gem,Handful of Rubies,0,70,$0.99,,-1,pgcommonNeedsThis,icon_IAP_01.png,120,120,ruby,70,1,0,
+iap_200_gem,CurrencyContainer,iap_200_gem,Pile of Rubies,0,140,$1.99,,-1,pgcommonNeedsThis,icon_IAP_07.png,250,250,ruby,71,1,0,
+iap_500_gem,CurrencyContainer,iap_500_gem,Pouch of Rubies,1,350,$4.99,,-1,pgcommonNeedsThis,icon_IAP_02.png,600,600,ruby,72,1,0,
+iap_1200_gem,CurrencyContainer,iap_1200_gem,Sack of Rubies,1,700,$9.99,,-1,pgcommonNeedsThis,icon_IAP_03.png,1500,1500,ruby,73,1,0,
+iap_2500_gem,CurrencyContainer,iap_2500_gem,Box of Rubies,1,1400,$19.99,,-1,pgcommonNeedsThis,icon_IAP_04.png,3500,3500,ruby,74,1,0,
+iap_6500_gem,CurrencyContainer,iap_6500_gem,Chest of Rubies,1,3500,$49.99,,-1,pgcommonNeedsThis,icon_IAP_05.png,8000,8000,ruby,75,1,0,
+iap_14000_gem,CurrencyContainer,iap_14000_gem,Vault of Rubies,1,7000,$99.99,,-1,pgcommonNeedsThis,icon_IAP_06.png,20000,20000,ruby,76,1,0,!@#nhidocgldecaccci

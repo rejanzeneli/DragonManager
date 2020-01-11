@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,duration,chargeTime,range,splashRange,ragePoints,freezeDamagePercentOfMaxHP,shatterDamagePercentOfMaxHP,shieldAsPercentageOfMaxHP,viewRadius,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,Float,String
+frozenTomb1,,1,100,7,0,80,17,200,0.064,0.023,0.023,66,
+tectonicTomb1,tectonicTomb,1,100,3,0,80,17,200,0.115,0.08,0.23,66,!@#mphnboheenlkfkaf

@@ -1,0 +1,10 @@
+identifier,inBundle,boostPercentage,boostSeconds,probabilityOfBoost,h
+String,Integer,Float,Float,Float,String
+hpBoost1,0,15,,,
+damageBoost1,0,15,,,
+durationBoost1,0,,0.5,,
+iceShieldHPBoost1,0,25,,,
+attackPowerboost1,0,10,,,
+stunDurationBoost1,0,,0.5,,
+refundActiveAbility1,,,,25,
+doubleAttackPower1,,,,20,!@#geocaafnfjnelkcl

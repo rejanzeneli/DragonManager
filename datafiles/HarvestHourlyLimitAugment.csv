@@ -1,0 +1,4 @@
+identifier,maxAugmentCount,augmentCost,augmentAmount,tooltip,h
+String,Integer,String,Integer,LocalizedString,String
+harvestHourlyLimitAugmentFarm_01,0,piercing:0,0,Food Production per Hour,
+harvestHourlyLimitAugmentLumber_01,0,food:0,0,Lumber Production per Hour,!@#nolebbbkckabmnpe

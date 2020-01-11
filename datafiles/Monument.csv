@@ -1,0 +1,10 @@
+identifier,buildingType,beforeReclaimText,afterReclaimText,advisorIdentifier,boostPreviewOrientation,h
+String,String,LocalizedString,LocalizedString,String,Float,String
+statues,statues,The Dragon Statues have watched over our land for centuries.,The Dragon Statues have watched over our land for centuries.,kyraNew,1,
+lighthouse,lighthouse,"The Guild Lighthouse shines as a beacon to visiting guildsmen, and a warning to foes.","The Guild Lighthouse shines as a beacon to visiting guildsmen, and a warning to foes.",kyraNew,2,
+waterGate,waterGate,The Guardian Statues watch over your kingdom and dragons.,The Guardian Statues watch over your kingdom and dragons.,kyraNew,1.75,
+library,library,The Tower of Learning serves as a monument to knowledge and research.,The Tower of Learning serves as a monument to knowledge and research.,kyraNew,1,
+temple,temple,The Temple serves as a meeting place for civilian farmers and laborers.,The Temple serves as a meeting place for civilian farmers and laborers.,kyraNew,0,
+mountDragon,mountDragon,"Not much is known about Mount Dragon, a sacred lookout for dragons only.","Not much is known about Mount Dragon, a sacred lookout for dragons only.",kyraNew,0,
+tripleTowers,tripleTowers,The Triple Towers provide a strategic vantage point for sighting enemy attackers.,The Triple Towers provide a strategic vantage point for sighting enemy attackers.,kyraNew,2,
+runeBuilding,runeBuilding,Reach level 15 to discover the ancient secret of Runes.,"Runes, a forgotten magic of the Ancients, have begun reappearing in the world. What powers could they hold?",kyraNew,,!@#ibildkagflnkckag

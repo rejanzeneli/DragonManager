@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,duration,ragePoints,empoweredRagePoints,damageScalingThreshold,healAsPercentageOfMaxHP,damageAsPercentageOfMaxHP,explosionRadius,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,String
+nocturnalFissure1,,1,100,3.5,200,200,40,16,0.03,80,,
+ghostfireWreath1,ghostfireWreath,1,100,4,100,200,20,23,0.03,80,3,!@#aobogllnofjdmoek

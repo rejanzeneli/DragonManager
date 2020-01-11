@@ -1,0 +1,8 @@
+identifier,maxAugmentCount,augmentCost,augmentAmount,tooltip,h
+String,Integer,String,Float,LocalizedString,String
+attackAugmentArcher_01,0,piercing:0,0,This is the towers basic weapon damage,
+attackAugmentBallista_01,0,piercing:0,0,This is the towers basic weapon damage,
+attackAugmentCannon_01,0,piercing:0,0,This is the towers basic weapon damage,
+attackAugmentLightning_01,0,piercing:0,0,This is the towers basic weapon damage,
+attackAugmentStorm_01,0,piercing:0,0,This is the towers basic weapon damage,
+attackAugmentTrebuchet_01,0,piercing:0,0,This is the towers basic weapon damage,!@#dgmkoignifcpmigg

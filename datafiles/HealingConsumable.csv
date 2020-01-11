@@ -1,0 +1,3 @@
+identifier,inBundle,name,descriptionText,iconFilename,targetType,durationInMinutes,salvagePrice,sortPriority,h
+String,Integer,LocalizedString,String,String,String,Integer,Integer,Integer,String
+fullHeal,0,Healing Potion,Heals your dragon to full health,icon_boost_energy_02.png,healing,,15,29,!@#nkelbmgafkkahhhc

@@ -1,0 +1,8 @@
+identifier,commonIdentifier,maxTimes,damageAsPercentageOfMaxHP,ragePoints,splashRange,h
+String,String,Integer,Float,Float,Float,String
+desiccatingSand1,,100,0.1,100,5,
+noxiousVines1,noxiousVines,100,0.23,200,12,
+etherealChains1,etherealChains,100,0.16,100,8,
+ensnaringVines1,ensnaringVines,100,0.14,100,12,
+snowdrift1,snowdrift,100,0.1,100,5,
+smother1,smother,100,0.14,100,12,!@#jpjcildckangpdjn

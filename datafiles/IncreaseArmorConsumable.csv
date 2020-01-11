@@ -1,0 +1,3 @@
+identifier,inBundle,name,descriptionText,iconFilename,boostingSceneFilename,targetType,durationInMinutes,armorIncreasePercent,salvagePrice,sortPriority,h
+String,Integer,LocalizedString,LocalizedString,String,String,String,Integer,Integer,Integer,Integer,String
+bullhornCons,0,Bullhorn,Bullhorn,bullhorn-full-rez.png,icon_sword.lvl,building,0,40,100,23,!@#pgpiimcgecacpfpg

@@ -1,0 +1,20 @@
+identifier,inBundle,displayName,attackTypeDescription,iconFilename,h
+String,Integer,String,String,String,String
+piercing,1,Piercing,Piercing,icon_piercing_01.png,
+artillery,1,Artillery,Artillery,icon_artillery_01.png,
+elemental,1,Elemental,Elemental,icon_elemental_01.png,
+archer,1,Archer,Archer,icon_elemental_01.png,
+cannon,1,Cannon,Cannon,icon_elemental_01.png,
+storm,1,Storm,Storm,icon_elemental_01.png,
+ballista,1,Ballista,Ballista,icon_elemental_01.png,
+trebuchet,1,Trebuchet,Trebuchet,icon_elemental_01.png,
+lightning,1,Lightning,Lightning,icon_elemental_01.png,
+pure,1,,Pure,,
+ice,1,Ice Turret,Ice Turret,icon_elemental_01.png,
+fire,1,Fire Turret,Fire Turret,icon_elemental_01.png,
+fireSuper,1,Fire Turret Super Shot,Fire Turret Super Shot,icon_elemental_01.png,
+flak,0,Dark Flak,Dark Flak,icon_elemental_01.png,
+fireFlak,0,Fire Flak,Fire Flak,icon_elemental_01.png,
+iceFlak,0,Ice Flak,Ice Flak,icon_elemental_01.png,
+windFlak,0,Electro-Flak,Electro-Flak,icon_elemental_01.png,
+earthFlak,0,Earth Flak,Earth Flak,icon_elemental_01.png,!@#lcgogjpnpllapbkm

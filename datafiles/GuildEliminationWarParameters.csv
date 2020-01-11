@@ -1,0 +1,55 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+secondsAfterExpirationToDeleteWars,432000,,
+warDuration,86400,,
+warSlotChangeCurrencyCostAmount,10,,
+warSlotChangeCurrencyName,ruby,,
+warSlotChangeTimeGap,60,,
+enableDataSourceDownloadingWarsUponReturningFromBackgroundInteger,1,,
+enableDefeatingEveyoneInDefeatedGuildInteger,0,,
+recommendWarSlotStartTime,17,,
+recommendWarSlotEndTime,23,,
+maximumStarsLostByEachPlayer,5,,
+maximumWarBonusStarsLostByEachPlayer,2,,
+maximumBasesPlayerCanDefeat,1,,
+maximumAttemptsByEachPlayer,7,,
+secondsAfterExpirationToDeleteWarModifiers,86400,,
+defenseInfoString,,"Your team has defended successfully %ld times and your opponent has defended successfully %ld times!
+If the teams are tied in number of flames, the team with more successful defenses will win the war.",
+attemptsInfoString,,"Your team has launched %ld attempts and your opponent has launched %ld attempts. 
+If the teams are tied in the number of flames, the team with fewer attempts will win the war.",
+guildTiersDisallowNetworkCheat,platinum|sapphire|diamond,,
+warDoesnotAccountMsg,,Due to an unstable network connection your War Attack did not count. Please check your connection and try again. If the problem persists please contact customer support.,
+rulesBodyText,,"The team with the highest flame score at the end of the war wins.
+- Each players' single best flame score adds to the team's total flame score
+- Players have only %ld lead attack attempts in each war. Choose your target carefully.
+- In the case of a tie winners will be chosen based on the least total attack attempts made.
+- Rotating war buffs are applied to all players' bases in wars equally
+- Multiple players cannot contribute team flames by attacking the same base",
+rulesFlameBodyText,,"The first 3 flames are awarded based on total destruction done by all dragons.
+1st flame is %d%% destruction, 2nd flame is %d%% destruction, 3rd flame is %d%% destruction.",
+rulesBonusFlameBodyText,,"The 4th and 5th flames are awarded based on how many dragons were used in a 99% + result
+4th flame is awarded if the lead attacker uses <= 2 dragons
+5th flame is awarded if the lead attacker uses only 1 dragon.",
+rulesWarBonusFlameBodyText,,"The 6th and 7th flames are awarded based on the destruction %% done by the first dragon used.
+6th flame is awarded if the leading dragon gets >= %d%% destruction
+7th flame is awarded if the leading dragon gets >= %d%% destruction",
+tooltipWarBonusFlamesText,,"6th flame: The lead attacking dragon must destroy %d%% of the base
+
+7th flame: The lead attacking dragon must destroy %d%% of the base",
+baseModifierTitle,,The following buffs apply to all bases in wars:,
+baseTowerAttackModifierText,,"+%.00f%% Tower Attack
+",
+baseTowerHPModifierText,,"+%.00f%% Tower HP
+",
+baseElementResistModifierText,,"+%.00f%% %@ Element Resist
+",
+baseDragonClassResistModifierText,,"+%.00f%% Resistance to %@ Dragon Class
+",
+dragonModifierTitle,,The following buffs apply to %@:,
+dragonAttackModifierText,,"+%.00f%% Attack Damage
+",
+dragonHPModifierText,,"+%.00f%% HP
+",
+noModifierText,,No war buffs are applied at this time.,
+contributionsMenuTitle,,Players yet to score %ld flames in an attack include:,!@#alhamldfbhackimp

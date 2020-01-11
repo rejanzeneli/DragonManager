@@ -1,0 +1,6 @@
+identifier,inBundle,displayName,dragonClassDescription,iconFilename,iconFilenameSmall,classMultiplier,h
+String,Integer,LocalizedString,LocalizedString,String,String,Float,String
+hunter,1,Hunter,Fast tap Attack. Excellent at stealth and destroying strategic targets.,icon_class_hunter_01.png,icon_class_small_hunter.png,2,
+sorcerer,1,Sorcerer,Swipe Attack. Can cast very powerful Spells. ,icon_class_sorcerer_01.png,icon_class_small_sorcerer.png,2.25,
+warrior,1,Warrior,Flamethrower Attack. Tons of health.,icon_class_warrior_01.png,icon_class_small_warrior.png,10,
+invoker,1,Invoker,Fast tap Attack with limited ammo. Last shot casts a powerful spell.,icon_class_invoker_01.png,icon_class_small_invoker.png,2,!@#ebplbijcnbefjpcb

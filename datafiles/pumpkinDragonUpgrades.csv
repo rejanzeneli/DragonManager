@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+pumpkinDragon_1,1,food:0,1,,224163,17280,lockon:T4GGSDdragon_lockon,,12865,food:192,4.2,rage3,8,54257,1,experience:0,18824,
+pumpkinDragon_2,2,food:53856,1,,232647,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1,13396,food:204,4.2,rage3,8,60564,1,experience:0,20361,
+pumpkinDragon_3,3,food:57024,1,,239828,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1,13893,food:216,4.2,rage3,9,77377,1,experience:0,21731,
+pumpkinDragon_4,4,food:60192,1,,249288,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1,14486,food:228,4.2,rage3,9,100110,1,experience:0,23590,
+pumpkinDragon_5,5,food:63360,1,,259289,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1,15205,food:240,4.2,rage3,9,125574,1,experience:0,25740,
+pumpkinDragon_6,6,food:68112,1,,275566,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1,16080,food:258,4.2,rage3,10,156015,1,experience:0,28958,
+pumpkinDragon_7,7,food:72864,1,,294956,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1,17073,food:276,4.2,rage3,10,175313,1,experience:0,32890,
+pumpkinDragon_8,8,food:77616,1,,315653,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1,18221,food:294,4.2,rage3,11,195591,1,experience:0,37577,
+pumpkinDragon_9,9,food:82368,1,,335392,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1,19469,food:312,4.2,rage3,11,209256,1,experience:0,42619,
+pumpkinDragon_10,10,food:87120,1,,358821,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1,20769,food:330,4.2,rage3,12,223834,1,experience:0,48667,
+pumpkinDragon_11,11,food:91872,1,,383808,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1,22157,food:348,4.2,rage3,12,237776,1,experience:0,55510,
+pumpkinDragon_12,12,food:96625,1,,407705,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1,23665,food:366,4.2,rage3,13,254271,1,experience:0,62985,
+pumpkinDragon_13,13,food:101376,1,,435976,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1,25236,food:384,4.2,rage3,13,271862,1,experience:0,71859,
+pumpkinDragon_14,14,food:106128,1,,466122,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1|cannonResist01:cannonResist01,26743,food:402,4.2,rage3,14,288732,1,experience:0,81371,
+pumpkinDragon_15,15,food:110880,1,,495035,17280,lockon:T4GGSDdragon_lockon,freezeSpell:freeze1|cloak:cloak1|invertSpell:invert1|cannonResist01:cannonResist01,28210,food:420,4.2,rage3,14,0,1.2,experience:0,91190,!@#hnhijafdalelobdm

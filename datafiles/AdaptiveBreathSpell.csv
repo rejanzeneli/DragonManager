@@ -1,0 +1,12 @@
+identifier,commonIdentifier,level,ragePoints,maxTimes,usableDelayForEachSpell,rageBonus,healthBonus,spellIdentifiers,h
+String,String,String,Float,Integer,String,Float,Float,String,String
+adaptiveBreath1,,1,0,500,2|2|2,0,0,maleficBreath:frostBreath1|heatedPiercingBreath:immolatingBreath1|berserk:leechingBreath1,
+adaptiveBreath2,,1,0,500,2|4,50,100,cloak:skulk1|frenzySpell:hysteria1,
+corruptionOfTheVoid1,corruptionOfTheVoid,1,0,500,2|2,0,0,cloak:skulk1|frenzySpell:hysteria1,
+wayOfTheBlade1,wayOfTheBlade,1,0,500,0|0|6,0,0,umbralSpike:slice1|umbralSpike:thrust1|umbralSpike:execute1,
+apexPredator1,apexPredator,1,0,500,2|7,0,0,heatedPiercingBreath:primordialBreath1|chargedShield:primalShield1,
+contagion1,contagion,1,0,500,4|4,0,0,berserk:delirium1|intimidatingRoar:defile1,
+twistedVisage1,twistedVisage,1,0,500,3|3,0,0,sacrifice:maskOfMisery1|consume:maskOfMania1,
+goldenHex1,goldenHex,1,0,500,0|2,0,0,crumbleToDust:gild1|crumbleToDust:gild2,
+threeGifts1,threeGifts,1,0,3,0|0|0,0,0,healthRageDeathMark:giftGiven1|healthRageDeathMark:giftGiven1|healthRageDeathMark:giftGiven1,
+howlOfTheUnderworld1,howlOfTheUnderworld,1,0,500,4|4|4,0,0,intimidatingRoar:pitilessWail1|bloodfury:ancientFury1|fluxSpell:violentFrenzy1,!@#eabmhamlikdodjbj

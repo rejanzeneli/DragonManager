@@ -1,0 +1,79 @@
+extends layout
+
+block content
+
+  div(class="row section" hidden)#dragoninfo
+    div(class="col s12 center-align")
+      div(class="card")
+        div(class="card-content green lighten-3 white-text")
+          div(class="col s6")
+            p(class="card-stats-title")#dragonname DRAGON
+          div(class="col s6")
+            p(class="card-stats-title")#dragonstats FRAGS: xxx CASTLE: LVL 23 INCUBATOR: LVL 10
+
+  div(class="row section")
+    div(class="col s12")#searchoptions
+      div(class="input-field col s12 m4")
+        select#breedable-tier
+          option(value="99") ALL TIERS
+          each tier in tiers
+            if maxtier === tier.tier
+              option(value="" + tier.tier selected)= tier.name
+            else
+              option(value="" + tier.tier)= tier.name
+        label MAX BREEDABLE TIER
+
+      div(class="col s12 m4")
+        label(for="backbreedsSwitch") BACKBREEDS ONLY
+        div(class="switch")#backbreedsSwitch
+          label NO
+            input(type="checkbox")#backbreeds-only
+            span(class="lever")
+            | YES
+      div(class="col s12 m4")
+        label(for="frags-owned") Enter frags (or mythical eggs) you already have.
+        input(placeholder="Enter frags (or mythical eggs) you already have." value="0" id="frags-owned" type="number" class="validate" step="1.0")
+
+  label(for="searcharea") Lists results are limited, start to type to find the correct dragon...
+  div(class="row section")#searcharea
+    div(class="col s12 m6")
+      div(class="row")
+        div(class="input-field col s12")
+          input(type="text" class="validate autocomplete")#find_parent
+          label(for="find_parent")#labelParent Find parent for... (start typing to filter list)
+    div(class="col s12 m6")
+      div(class="row")
+        div(class="input-field col s12")
+          input(type="text" class="validate autocomplete")#find_child
+          label(for="find_child")#labelChild Find children for... (start typing to filter list)
+
+  div(class="row section")
+    div(class="col s12")#searchresult
+      table(class="bordered")#searchtable
+        thead
+          tr
+            th PARENT
+            th PARENT
+            th CHILD 1
+            th CHILD 2
+            th CHILD 3
+            th CHILD 4
+            th CHILD 5
+            th CHILD 6
+            th(class="center-align") TOKENS
+            th DISCOUNT
+        tbody#searchdata
+
+block inlinecode
+
+  script(src='/js/jquery.dataTables.js')
+  script(src='/js/dataTables.buttons.js')
+  script(src='/js/buttons.html5.js')
+  script(src='/js/dm_breeding.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.breeding.init(backend);
+    $('.menuitem').removeClass('active');
+    $('#menu-breeding').addClass('active');
+    $('#menu-breeding-mobile').addClass('active');

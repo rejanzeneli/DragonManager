@@ -1,0 +1,8 @@
+identifier,commonIdentifier,level,maxTimes,duration,ragePoints,empoweredRagePoints,healAsPercentageOfMaxHP,energyRadius,ragePointsRestored,isEmpowered,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Integer,String
+northernLights1,,1,100,6,200,200,11.5,80,40,0,
+northernLightsDark1,northernLightsDark,1,100,6,200,200,11.5,80,40,1,
+northernLightsLight1,northernLightsLight,1,100,6,200,200,11.5,80,40,0,
+markOfTwilight1,markOfTwilight,1,100,2,100,100,0,80,50,1,
+celestialShield1,celestialShield,1,100,6,200,200,15,80,40,0,
+markOfHunger1,markOfHunger,1,100,0.2,100,100,15,80,40,0,!@#ofcggfpfbbilgplh

@@ -1,0 +1,16 @@
+identifier,faqSection,issueType,tags,publishId,devPublishId,h
+String,LocalizedString,LocalizedString,String,String,String,String
+helpshift_known_issue,Updates and Known Issues,,bug|technical_issue|known_issue,18,5,
+helpshift_event_issue,Weekly Event Questions and Issues,Weekend Event issues,issue_event|event,19,6,
+helpshift_iap,In-App Purchases,In-App Purchases,issue_iap|iap|billing,2,7,
+helpshift_crash,"Network, Loading, and Connection Issues","Crashing, Disconnects, or Loading",issue_crash|crash,8,20,
+helpshift_lost_items,,Lost Items or Progress,issue_rollback|bug|lost_progress|technical_issue,,,
+helpshift_gameplay,,Gameplay Question,issue_gameplay|gameplay,,,
+helpshift_feedback,,Feedback or Suggestion,issue_feedback|feedback,,,
+helpshift_bugs,Other Game Bugs,Other Technical Issue,issue_other_technical|bug|technical_issue,4,5,
+helpshift_base,Base and Defense Questions,,issue_gameplay|gameplay,9,6,
+helpshift_breading,"Dragon, Breeding, Training, and Attacking Questions",,issue_gameplay|gameplay|dragon_question,10,7,
+helpshift_team_war,Team and War Questions,,issue_gameplay|gameplay|team_question,11,20,
+helpshift_tech_other,Other Gameplay Questions,,issue_gameplay|gameplay|gameplay_question,1,5,
+helpshift_cheat,Cheating or Inappropriate Behavior,Cheating or Inappropriate Behavior,issue_ib|inappropriate_behavior|reporting_a_player,12,6,
+helpshift_world_map,World Map FAQs,World Map FAQs,beta,21,21,!@#kceebdjpedajghbe

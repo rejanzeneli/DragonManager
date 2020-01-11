@@ -1,0 +1,9 @@
+identifier,commonIdentifier,level,maxTimes,range,splashRange,damageAsPercentageOfMaxHP,ragePoints,chargeTime,h
+String,String,String,Integer,Float,Float,Float,Float,Float,String
+aoe1,,1,100,110,17,0.23,300,0,
+aoe2,,2,100,110,17,0.7,300,0,
+divine1,aoeSpellDivine,1,100,110,17,0.23,200,0,
+divine2,aoeSpellDivine,2,100,110,17,0.5,200,0,
+aoeCon,,7,1,110,17,0.3,0,0,
+aoeTut,,27,100,110,17,0.5,200,0,
+underwhelmingFireball1,underwhelmingFireball,1,100,110,12,0.17,100,0,!@#lmchndnejnmlmmoj

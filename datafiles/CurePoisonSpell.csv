@@ -1,0 +1,5 @@
+identifier,level,maxTimes,curePoisonAmount,healAsPercentageOfMaxHP,duration,ragePoints,h
+String,String,Integer,Integer,Float,Float,Float,String
+curePoison1,1,100,100000,0.16,3,100,
+curePoisonCon,7,1,100000,0.08,3,0,
+curePoisonTut,27,100,100000,0.05,3,100,!@#opheeibopfkdflih

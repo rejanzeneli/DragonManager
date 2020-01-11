@@ -1,0 +1,6 @@
+identifier,inBundle,type,verbDescription,presentVerbDescription,iconFilename,timeToApply,radius,percentHealBy,attackPercentageBoost,armorBoostPercent,executionTime,glowDelay,glowDiffuseColor,particleEffect,particleEffectScale,progressBoostSceneFile,progressBoostDelay,boostingDescription,timeToEnable,h
+String,Integer,String,LocalizedString,String,String,Float,Float,Integer,Integer,Integer,Float,Float,String,String,Float,String,Float,String,Float,String
+hpBoostTut,0,hpBoost,Repaired,Repair,icon_repair_01.png,1,25,35,0,0,0,0.5,,attack_boost_effect,20,,,Repairing,1,
+hpBoost1,0,hpBoost,Repaired,Repair,icon_repair_01.png,2,22,45,0,0,0,0.5,,attack_boost_effect,20,,,Repairing,0,
+attackBoost1,0,attackBoost,Powered,Power,icon_boost_01.png,2,22,0,55,0,12,0.5,1.0|0.5|0.0|1.0,attack_boost_effect,20,,,Powering Up,0,
+armorBoost1,0,armorBoost,Armored,Armor,icon_armor_01.png,2,22,0,0,25,12,0.5,,attack_boost_effect,20,protectiveSphere.lvl,0.5,Boosting Armor,0,!@#dcdbfkhcancgmhfg

@@ -1,0 +1,7 @@
+identifier,percentageHPThreshold,healMultiplier,h
+String,Integer,Float,String
+base,,0.15,
+25,25,0,
+50,50,0.004,
+80,80,0.01,
+100,100,0.0225,!@#gjnaabnjjbldikdo

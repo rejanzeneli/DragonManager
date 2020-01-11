@@ -1,0 +1,3 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,rampDamageMultiplier,rampPeriod,gracePeriod,activeMultiplierCap,h
+String,String,String,Integer,Float,Float,Integer,Integer,Float,String
+fireLance1,,1,100,0,1.205,5,10,3,!@#jlcfokbbhdfackln

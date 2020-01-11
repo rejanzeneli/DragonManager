@@ -1,0 +1,17 @@
+identifier,level,inBundle,sceneFile,upgradeCost,rewardMultiplierPercentage,tier,achievementRequirements,h
+String,Integer,Integer,String,Map<String:Integer>,Integer,Integer,String,String
+BreederBlimp_1,1,1,bld_balloon_red.lvl,,100,1,,
+BreederBlimp_2,2,0,bld_balloon_purple.lvl,purpleEggCurrency:1,105,2,,
+BreederBlimp_3,3,0,bld_balloon_blue.lvl,blueEggCurrency:1,110,3,,
+BreederBlimp_4,4,0,bld_balloon_orange.lvl,orangeEggCurrency:1,115,4,,
+BreederBlimp_5,5,0,bld_balloon_green.lvl,greenEggCurrency:1,120,5,,
+BreederBlimp_6,6,0,bld_balloon_gold.lvl,goldEggCurrency:1,125,6,,
+BreederBlimp_7,7,0,bld_balloon_platinum.lvl,platinumEggCurrency:1,130,7,,
+BreederBlimp_8,8,0,bld_balloon_sapphire.lvl,sapphireEggCurrency:1,135,8,,
+BreederBlimp_9,9,0,bld_balloon_garnet.lvl,garnetEggCurrency:1,140,9,,
+BreederBlimp_10,10,0,bld_balloon_emerald.lvl,emeraldEggCurrency:1,145,10,,
+BreederBlimp_11,11,0,bld_balloon_obsidian.lvl,obsidianEggCurrency:1,150,11,,
+BreederBlimp_12,12,0,bld_balloon_harbinger.lvl,atlasEggCurrency:1,155,12,,
+BreederBlimp_13,13,0,bld_balloon_vanguard.lvl,vanguardEggCurrency:1,160,13,,
+BreederBlimp_14,14,0,bld_balloon_empyrean.lvl,empyreanEggCurrency:1,165,14,,
+BreederBlimp_15,15,0,bld_balloon_abyssal.lvl,abyssalEggCurrency:1,170,15,,!@#ooabfcffpfigcnlj

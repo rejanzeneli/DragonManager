@@ -1,0 +1,8 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+resetAfterNDays,0,,
+notifyNHoursPrior,1,,
+scheduleGroupMap,1:lv01Rewards|51:lv51Rewards,,
+dailyCheckInEliteMultiplier,2,,
+dailyCheckInDetailTitle,,Daily Check in Bonus,
+dailyCheckInDetailMsg,,Come back every day to claim your daily rewards!,!@#chipeepoadmjidok

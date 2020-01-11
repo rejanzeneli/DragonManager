@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3C3WIdragon_1,1,food:0,1,,26176,517,flamethrower:T3C3WIdragon_flamethrower,,482,food:22,4.2,rage2,2,1239,1,experience:0,161,
+T3C3WIdragon_2,2,food:709,1,,28749,615,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,522,food:24,4.2,rage2,2,1649,1,experience:0,281,
+T3C3WIdragon_3,3,food:787,1,,38017,873,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,559,food:26,4.2,rage2,2,2152,1,experience:0,408,
+T3C3WIdragon_4,4,food:1084,1,,39724,966,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,593,food:28,4.2,rage2,2,2826,1,experience:0,446,
+T3C3WIdragon_5,5,food:1188,1,,42030,1076,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,624,food:30,4.2,rage2,2,3480,1,experience:0,500,
+T3C3WIdragon_6,6,food:1296,1,,43942,1193,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,661,food:32,4.2,rage2,3,6254,1,experience:0,556,
+T3C3WIdragon_7,7,food:2449,1,,46473,1351,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,708,food:34,4.2,rage2,3,9425,1,experience:0,630,
+T3C3WIdragon_8,8,food:3274,1,,50533,1580,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,762,food:36,4.2,rage2,3,10840,1,experience:0,740,
+T3C3WIdragon_9,9,food:3715,1,,55458,1882,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,826,food:40,4.2,rage2,3,12314,1,experience:0,875,
+T3C3WIdragon_10,10,food:5562,1,,60112,2220,flamethrower:T3C3WIdragon_flamethrower,healDragon:heal1,899,food:44,4.2,rage2,3,0,1.2,experience:0,1035,!@#hfepenifnnkbggdp

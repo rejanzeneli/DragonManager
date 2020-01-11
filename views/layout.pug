@@ -1,0 +1,110 @@
+doctype html
+html
+  head
+    script(src='/js/js.cookie.js')
+    script(src='/js/wNumb.js')
+
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    title= title
+
+    link(rel='icon', type='image/png', href='/favicon-32x32.png?v=rMw0lAXXbp', sizes="32x32")
+    link(rel='icon', type='image/png', href='/favicon-96x96.png?v=rMw0lAXXbp', sizes="96x96")
+    link(rel='icon', type='image/png', href='/favicon-16x16.png?v=rMw0lAXXbp', sizes="16x16")
+    link(rel='shortcut icon', href='/favicon.ico?v=rMw0lAXXbp')
+
+    link(rel='stylesheet', href='/css/materialize.min.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/icon?family=Material+Icons')
+    link(rel='stylesheet', href='/css/buttons.dataTables.css')
+    link(rel='stylesheet', href='/css/noUISlider.css')
+    link(rel='stylesheet', href='/css/main.css')
+    block inlinecss
+
+  body
+    header
+    div(class="navbar-fixed")#navbarcontainer
+      ul(class="dropdown-content")#gameinfo-dropdown
+        li
+          a(href="/levelinfo") PLAYER LEVEL INFORMATION
+        li
+          a(href="/tokeninfo") EGG TOKEN COMBOS
+        li
+          a(href="/dragonrunes") DRAGON RUNES
+        li
+          a(href="/buildingrunes") BUILDING RUNES
+      ul(class="dropdown-content")#atlas-dropdown
+        li
+          a(href="/atlas_rankings") ATLAS RANKINGS
+        li
+          a(href="/atlas_castles") ATLAS CASTLES
+
+      nav
+        div(class="nav-wrapper green lighten-3 white-text")
+          a(href="#!" class="brand-logo right flow-text") DRAGON MANAGER
+          a(href="#" data-target="mobile-menu" class="sidenav-trigger")
+            i(class="material-icons") menu
+          ul(class="left hide-on-med-and-down")
+            li(class="menuitem")#menu-home
+              a(href="/")
+                i(class="material-icons") home
+            li(class="menuitem")#menu-breeding
+              a(href="/breeding") BREEDING
+            li(class="menuitem")#menu-dragons
+              a(href="/dragons") DRAGONS
+            li(class="menuitem")#menu-buildings
+              a(href="/buildings") BUILDINGS
+            li(class="menuitem")#menu-riders
+              a(href="/riders") RIDERS(BETA)
+            li
+              a(class="dropdown-trigger" href="#!" data-target="gameinfo-dropdown") GAMEINFO
+                i(class="material-icons right") arrow_drop_down
+            li
+              a(class="dropdown-trigger" href="#!" data-target="atlas-dropdown") ATLAS
+                i(class="material-icons right") arrow_drop_down
+
+
+      ul(class="sidenav")#mobile-menu
+        li(class="menuitem")#menu-home-mobile
+          a(href="/")
+            i(class="material-icons") home
+        li(class="menuitem")#menu-breeding-mobile
+          a(href="/breeding") BREEDING
+        li(class="menuitem")#menu-dragons-mobile
+          a(href="/dragons") DRAGONS
+        li(class="menuitem")#menu-buildings-mobile
+          a(href="/buildings") BUILDINGS
+        li(class="menuitem")#menu-riders-mobile
+          a(href="/riders") RIDERS(BETA)
+        li(class="menuitem")
+          a(href="/levelinfo") PLAYER LEVEL INFORMATION
+        li(class="menuitem")
+          a(href="/tokeninfo") EGG TOKEN COMBOS
+        li(class="menuitem")
+          a(href="/dragonrunes") DRAGON RUNES
+        li(class="menuitem")
+          a(href="/buildingrunes") BUILDING RUNES
+        li(class="menuitem")
+          a(href="/atlas_castles") ATLAS CASTLES
+        li(class="menuitem")
+          a(href="/atlas_rankings") ATLAS RANKINGS
+
+    main
+      block content
+
+    footer
+      div(class="page-footer green lighten-3 white-text")
+        div(class='container')
+          div(class="row")
+            div(class="col s12 center") © 2019 Copyright
+              | &nbsp; -  <i class="material-icons">email</i>
+              |  <a href="mailto:wdragon2018@gmail.com">SANDBERG</a>
+          div(class="row")
+            div(class="col s12 center") VERSION: #{sw_version} (DATAFILES: #{data_version})
+          div(style="display: none")#backendUri #{uri}
+    script(src='/js/jquery.min.js')
+    script(src='/js/noUISlider.min.js')
+    script(src='/js/materialize.min.js')
+    script(src='/js/jquery.floatthead.min.js')
+    script(src='/js/dm_global.js')
+    script(src='/js/dm_main.js')
+    block inlinecode

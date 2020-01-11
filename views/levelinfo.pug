@@ -1,0 +1,24 @@
+extends layout
+
+block content
+
+  div(class="row section")
+    div(class="flow-text center-align") PLAYER LEVEL INFORMATION
+  div(class="row")
+    table(class="striped centered stdheader")#level-stats
+      thead(class="white")
+        tr
+          th(class="tooltipped" data-position="bottom" data-tooltip="PLAYER LEVEL") LEVEL
+          th(class="tooltipped" data-position="bottom" data-tooltip="REQUIRED XP FOR THIS LEVEL") XP
+          th(class="tooltipped" data-position="bottom" data-tooltip="MAX XP PER ATTACK") XP CAP
+          th(class="tooltipped" data-position="bottom" data-tooltip="MAX RSS TRANSFER") RSS CAP
+          th(class="tooltipped" data-position="bottom" data-tooltip="MIN LEVEL PLAYER FOR TOKEN QUEST") TOKEN QUEST CAP
+
+      tbody
+        each level in playerlevels
+          tr
+            td= level.identifier
+            td= level.requiredXp
+            td= level.attackerLevelXPPayoutCap
+            td= level.maxRssTransfer
+            td= level.minOpponentLevelForBreederQuest

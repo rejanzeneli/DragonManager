@@ -1,0 +1,11 @@
+identifier,inBundle,displayName,iconFilename,darkIconFilename,startingValue,buildingAttributeIdentifier,attackEffect,aura,h
+String,Integer,String,String,String,Float,String,String,String,String
+hpAttribute,0,Health,icon_hp_03.png,icon_hp_02.png,,,,,
+attackAttribute,0,Attack,icon_ammo_03.png,icon_ammo_02.png,,,,,
+specialAttackAttribute,0,Special Attack,icon_special_attack_01.png,icon_special_attack_02.png,,,,,
+ballistaAttribute,0,Poison/s,icon_poison_amount_03.png,icon_poison_amount_02.png,8,,poison:hpLossPerSecond,,
+trebuchetAttribute,0,Stun Probability,icon_stun_03.png,icon_stun_02.png,20,,stun:chanceToStun,,
+archerAttribute,0,% Height Bonus,icon_height_03.png,icon_height_02.png,20,heightAttackBonusPercentage,,,
+cannonAttribute,0,+ % Damage/shot,icon_damage_04.png,icon_damage_03.png,25,perAttackPercentageAttackIncrease,,,
+lightningAttribute,0,+ % Damage/tower,icon_damage_04.png,icon_damage_03.png,15,perNeighborPercentageAttackIncrease,,,
+boostAuraAttribute,0,+ % Damage,icon_damage_04.png,icon_damage_03.png,20,,,boost:boostBy,!@#achndpgofagikgof

@@ -1,0 +1,16 @@
+identifier,prerequisiteIdentifiers,numRequiredPrerequisites,displayName,icon,circularIcon,circularImage,category,tier,specialAbility,specialAbilityType,drakeDescription,h
+String,Array<String>,Integer,LocalizedString,String,String,String,String,Integer,String,String,String,String
+fighter,,0,Fighter,icon_primarch_fighter.png,icon_drake_fighter01-1.png,icon_primarch_preattack_fighter_1-1.png,Balanced,0,,,A balanced Primarch,
+destroyer,fighter,1,Destroyer,icon_primarch_fighter.png,icon_drake_fighter01-2.png,icon_primarch_preattack_fighter_1-2.png,Balanced,1,,,Destroys enemies on offense and defense,
+taunter,fighter,1,Taunter,icon_primarch_controller.png,icon_drake_taunter01-2.png,icon_primarch_preattack_taunter_1-2.png,Control,1,tauntCD,seconds,Protect friends from attack,
+sieger,fighter,1,Sieger,icon_primarch_sieger.png,icon_drake_sieger01-2.png,icon_primarch_preattack_sieger_1-2.png,Siege,1,debuff,percent,Reduces enemy Fort defenses,
+rusher,fighter,1,Trapper,icon_primarch_rusher.png,icon_drake_rusher01-2.png,icon_primarch_preattack_trapper_1-2.png,Speed,1,interdict,minutes,Nimble and fierce defenders,
+garrison,,0,Fort,,,,Garrison,-1,,,Defends a castle.,
+destroyer2,destroyer,1,Destroyer,icon_primarch_fighter.png,icon_drake_fighter02-1.png,icon_primarch_preattack_fighter_2-1.png,Balanced,2,,,Destroys enemies on offense and defense,
+taunter2,taunter,1,Taunter,icon_primarch_controller.png,icon_drake_taunter02-1.png,icon_primarch_preattack_taunter_2-1.png,Control,2,tauntCD,seconds,Protect friends from attack,
+sieger2,sieger,1,Sieger,icon_primarch_sieger.png,icon_drake_sieger02-1.png,icon_primarch_preattack_sieger_2-1.png,Siege,2,debuff,percent,Reduces enemy Fort defenses,
+rusher2,rusher,1,Trapper,icon_primarch_rusher.png,icon_drake_rusher02-1.png,icon_primarch_preattack_trapper_2-1.png,Speed,2,interdict,minutes,Nimble and fierce defenders,
+destroyer3,destroyer2,1,Destroyer,icon_primarch_fighter.png,icon_drake_fighter02-2.png,icon_primarch_preattack_fighter_2-2.png,Balanced,3,,,Destroys enemies on offense and defense,
+taunter3,taunter2,1,Taunter,icon_primarch_controller.png,icon_drake_taunter02-2.png,icon_primarch_preattack_taunter_2-2.png,Control,3,tauntCD,seconds,Protect friends from attack,
+sieger3,sieger2,1,Sieger,icon_primarch_sieger.png,icon_drake_sieger02-2.png,icon_primarch_preattack_sieger_2-2.png,Siege,3,debuff,percent,Reduces enemy Fort defenses,
+rusher3,rusher2,1,Trapper,icon_primarch_rusher.png,icon_drake_rusher02-2.png,icon_primarch_preattack_trapper_2-2.png,Speed,3,interdict,minutes,Nimble and fierce defenders,!@#olgjhebnbccaojgd

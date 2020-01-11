@@ -1,0 +1,4 @@
+identifier,level,maxTimes,duration,ragePoints,h
+String,String,Integer,Float,Float,String
+shortCircuit1,1,100,4,200,
+shortCircuitCon,76,1,4,0,!@#bflifjgbngfkedih

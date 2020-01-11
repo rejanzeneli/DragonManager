@@ -1,0 +1,6 @@
+identifier,deviceDescription,type
+String,String,String
+"2012",Class of 2012,poor
+"2013",Class of 2013,low
+"2014",Class of 2014,medium
+"2015",Class of 2015,high

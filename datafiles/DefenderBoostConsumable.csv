@@ -1,0 +1,5 @@
+identifier,inBundle,name,descriptionText,iconFilename,boostingSceneFilename,targetType,durationInMinutes,defenderBoostIdentifier,salvagePrice,sortPriority,h
+String,Integer,LocalizedString,LocalizedString,String,String,String,Integer,String,Integer,Integer,String
+repairConsumable,0,Defense Hammer,Repair your towers!,icon_repair_01.png,,defenderBoost,0,hpBoost1,3,30,
+attackConsumable,0,Defense Gunpowder,Increases attack of your towers!,icon_boost_01.png,,defenderBoost,0,attackBoost1,3,30,
+armorConsumable,0,Defense Armor,Armor your towers!,icon_armor_01.png,,defenderBoost,0,armorBoost1,3,30,!@#dlchjfciaclmangj

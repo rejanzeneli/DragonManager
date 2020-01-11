@@ -1,0 +1,11 @@
+identifier,inBundle,eventPortalSceneFile,eventPortalCalloutIcon,eventPortalLocationNode,towerType,uniformScale,h
+String,Integer,String,String,String,String,Float,String
+main_island,,prop_monument_eventIsland.lvl,,loc_event_portal_base,,,
+tower,,ter_level03_eventIsland_homeBuilding.lvl,,loc_event_portal_home,tower,,
+fortress,,ter_level03_eventIsland_portalBuilding.lvl,,loc_event_portal_fortress,portal,,
+gacha_bronze,,prop_treasureChest_01.lvl,,loc_event_portal_gacha,chest,3,
+leaderboard,,ter_level03_DreadnoughtThrone.lvl,,loc_event_portal_leaderboard,statue,,
+gacha_silver,,prop_treasureChest_02.lvl,,loc_event_portal_gacha,chest,3,
+gacha_gold,,prop_treasureChest_03.lvl,,loc_event_portal_gacha,chest,3,
+boat,,prop_eventIsland_treasureGalleon.lvl,,loc_event_portal_boat,boat,,
+default_rune,,prop_runePlatform.lvl,,loc_event_portal_base,,,!@#gafndidfpjcmmlhl

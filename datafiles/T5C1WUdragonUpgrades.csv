@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T5C1WUdragon_1,1,food:0,1,,112251,6118,flamethrower:T5C1WUdragon_flamethrower,,1402,food:77,4.2,rage2,5,14781,1,experience:0,2000,
+T5C1WUdragon_2,2,food:14982,1,,120490,6765,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1,1493,food:82,4.2,rage2,6,18764,1,experience:0,3432,
+T5C1WUdragon_3,3,food:16169,1,,128206,7464,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1,1599,food:87,4.2,rage2,6,24327,1,experience:0,3911,
+T5C1WUdragon_4,4,food:17388,1,,137552,8273,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1,1710,food:92,4.2,rage2,6,30799,1,experience:0,4488,
+T5C1WUdragon_5,5,food:20952,1,,147541,9169,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,1829,food:97,4.2,rage2,6,38027,1,experience:0,6860,
+T5C1WUdragon_6,6,food:22032,1,,156940,10109,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,1958,food:102,4.2,rage2,7,42814,1,experience:0,7812,
+T5C1WUdragon_7,7,food:23112,1,,168273,11196,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2092,food:107,4.2,rage2,7,48190,1,experience:0,8954,
+T5C1WUdragon_8,8,food:30240,1,,180382,12329,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2219,food:112,4.2,rage2,7,53809,1,experience:0,10184,
+T5C1WUdragon_9,9,food:32400,1,,191820,13442,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2342,food:120,4.2,rage2,8,80416,1,experience:0,11427,
+T5C1WUdragon_10,10,food:45903,1,,232075,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2452,food:128,4.2,rage2,8,90462,1,experience:0,14480,
+T5C1WUdragon_11,11,food:48772,1,,240858,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2554,food:136,4.2,rage2,8,123505,1,experience:0,15662,
+T5C1WUdragon_12,12,food:63161,1,,248293,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2648,food:144,4.2,rage2,9,138885,1,experience:0,16716,
+T5C1WUdragon_13,13,food:66670,1,,258087,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2761,food:152,4.2,rage2,9,182543,1,experience:0,18146,
+T5C1WUdragon_14,14,food:82044,1,,268440,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,2898,food:160,4.2,rage2,9,203709,1,experience:0,19800,
+T5C1WUdragon_15,15,food:88197,1,,285291,14400,flamethrower:T5C1WUdragon_flamethrower,energySyphon:syphon1|stormResist01:stormResist01,3065,food:172,4.2,rage2,10,0,1.2,experience:0,22275,!@#iiaddeanaclhgnej

@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,allowDamageTime,duration,splashRange,h
+String,String,String,Integer,Float,Float,Float,Float,String
+lockdown1,,1,100,100,2,1000,5,
+lockdownCon,,1,2,0,2,1000,5,
+entrap1,entrap,1,100,100,1,12,8,
+whirlpool1,whirlpool,1,100,100,1,5,6,!@#jefemmemkbimljoi
