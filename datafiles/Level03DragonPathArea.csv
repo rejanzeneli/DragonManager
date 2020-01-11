@@ -1,0 +1,8 @@
+identifier,startKeyframeIndex,endKeyframeIndex,typeName,parameters,expansionIslands,h
+String,Float,Float,String,String,String,String
+island07_08,1,30,attack,include:DITM_island06&DITM_island07&DITM_island08,island07|island08,
+island06,61,80,attack,include:DITM_island06&loc_salvageDepot,island06,
+island05_01,80,98,attack,include:loc_salvageDepot,island05,
+island04_05,98,152,attack,excludeRegion:island00&island01&island02|exclude:loc_perchAutumn,island04|island05,
+island03,181,225,attack,excludeRegion:island00&island01&island02,island03,
+island00_02,238,300,attack,include:expansion_057&expansion_058&expansion_060&expansion_062&expansion_064&expansion_065&loc_runeBuilding&loc_salvageDepot,island00|island01|island02,!@#apnipmfcdnonjdin

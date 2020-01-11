@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T4C1SFdragon_1,1,food:0,1,,54890,3019,lockon:T4C1SFdragon_lockon,,4343,food:52,4.2,rage3,4,7106,1,experience:0,938,
+T4C1SFdragon_2,2,food:6552,1,,69013,4023,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1,4602,food:56,4.2,rage3,4,9116,1,experience:0,1872,
+T4C1SFdragon_3,3,food:7155,1,,71605,4380,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1,4829,food:60,4.2,rage3,4,11951,1,experience:0,2045,
+T4C1SFdragon_4,4,food:7777,1,,74988,4777,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1,5030,food:64,4.2,rage3,5,15156,1,experience:0,2226,
+T4C1SFdragon_5,5,food:10098,1,,77811,5192,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,5268,food:68,4.2,rage3,5,18895,1,experience:0,3219,
+T4C1SFdragon_6,6,food:10887,1,,80785,5559,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,5558,food:72,4.2,rage3,5,21304,1,experience:0,3510,
+T4C1SFdragon_7,7,food:11851,1,,86740,6118,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,5882,food:77,4.2,rage3,5,24012,1,experience:0,3999,
+T4C1SFdragon_8,8,food:14982,1,,93106,6765,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,6265,food:82,4.2,rage3,6,26830,1,experience:0,4576,
+T4C1SFdragon_9,9,food:16169,1,,99069,7464,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,6712,food:87,4.2,rage3,6,40148,1,experience:0,5214,
+T4C1SFdragon_10,10,food:23095,1,,106290,8273,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,7177,food:92,4.2,rage3,6,45219,1,experience:0,5984,
+T4C1SFdragon_11,11,food:27829,1,,114009,9169,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,7674,food:97,4.2,rage3,6,61775,1,experience:0,6860,
+T4C1SFdragon_12,12,food:35792,1,,121272,10109,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,8216,food:102,4.2,rage3,7,69552,1,experience:0,7812,
+T4C1SFdragon_13,13,food:37546,1,,130029,11196,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,8781,food:107,4.2,rage3,7,91521,1,experience:0,8954,
+T4C1SFdragon_14,14,food:57431,1,,139386,12329,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,9315,food:112,4.2,rage3,7,102191,1,experience:0,10184,
+T4C1SFdragon_15,15,food:61533,1,,148225,13442,lockon:T4C1SFdragon_lockon,invincibleSpell:invincible1|stormResist01:stormResist01,9829,food:120,4.2,rage3,8,0,1.2,experience:0,11427,!@#lnpgkihkgcjdfdcc

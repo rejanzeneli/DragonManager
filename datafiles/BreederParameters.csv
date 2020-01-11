@@ -1,0 +1,21 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+maxDailyDrops,0,,
+minDefenseBeforeBreedersDrop,2,,
+breederCurrency,breedingToken:1,,
+breederImageFile,img_portrait_trainer_01.png,,
+defaultBlimpSceneFile,bld_balloon_bolt.lvl,,
+blimpGlowColor,100|100|100|1,,
+breederTutorialCompleteAchievement,tutorialDefense2Finish,,
+minLevelRequiredForAntiGriefing,6,,
+nodeIdentifier,blimp02,,
+defaultBreederIdentifier,breederMaster,,
+breedingDepletedDescription,,Earn rewards by completing more missions!,
+breedingDepletedTokenAmount,200,,
+breederBlimpUpgradeTitle,,UPGRADE MISSIONS,
+breederBlimpUpgradeMessage,,"Spend %ld %@ to upgrade missions to %@ Tier.
+Current base mission value: %d
+Upgraded base mission value: %d",
+breederAbandonTitle,,ABANDON TASK?,
+breederAbandonMessage,,"Are you sure you want to abandon this mission?
+It will take some time before next mission is available.",!@#jdpibkgdfghgdcjk

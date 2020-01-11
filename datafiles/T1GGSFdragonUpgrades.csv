@@ -1,0 +1,9 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1GGSFdragon_1,1,food:0,1,,32478,1076,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,2618,food:30,4.2,rage3,2,1821,1,experience:0,866,
+T1GGSFdragon_2,2,food:1134,1,,33955,1193,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,2774,food:32,4.2,rage3,3,2564,1,experience:0,963,
+T1GGSFdragon_3,3,food:1478,1,,35911,1351,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,2970,food:34,4.2,rage3,3,3599,1,experience:0,1092,
+T1GGSFdragon_4,4,food:1599,1,,39048,1580,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,3196,food:36,4.2,rage3,3,4652,1,experience:0,1283,
+T1GGSFdragon_5,5,food:1815,1,,42854,1882,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,3467,food:40,4.2,rage3,3,5842,1,experience:0,1516,
+T1GGSFdragon_6,6,food:2717,1,,46450,2220,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,3774,food:44,4.2,rage3,3,6695,1,experience:0,1794,
+T1GGSFdragon_7,7,food:3024,1,,50792,2619,lockon:T1GGSFdragon_lockon,healDragon:heal1|curePoison:curePoison1|risingPhoenix:risingPhoenix1,4072,food:48,4.2,rage3,4,0,1.2,experience:0,2122,!@#bijidlldidopgnml

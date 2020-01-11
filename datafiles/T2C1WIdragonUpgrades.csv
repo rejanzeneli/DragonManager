@@ -1,0 +1,9 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C1WIdragon_1,1,food:0,1,,27241,2801,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,338,food:5,4.2,rage2,1,1421,1,experience:100,100,
+T2C1WIdragon_2,2,food:195,1,,31075,3291,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,348,food:14,4.2,rage2,1,2010,1,experience:100,200,
+T2C1WIdragon_3,3,food:474,1,,31792,3564,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,368,food:28,4.2,rage2,2,2529,1,experience:100,300,
+T2C1WIdragon_4,4,food:886,1,,35174,4206,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,393,food:34,4.2,rage2,3,2833,1,experience:100,400,
+T2C1WIdragon_5,5,food:1354,1,,42067,5143,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,401,food:39,4.2,rage2,3,3136,1,experience:100,500,
+T2C1WIdragon_6,6,food:1982,1,,45627,6012,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,433,food:45,4.2,rage2,4,3468,1,experience:100,600,
+T2C1WIdragon_7,7,food:2901,1,,53696,8168,flamethrower:T2C1WIdragon_flamethrower,aoeSpell:aoe2|archerResist01:archerResist01,499,food:52,4.2,rage2,5,0,1.5,experience:100,700,!@#bnbnlbpnfcbnmnon

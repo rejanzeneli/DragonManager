@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,duration,empoweredRagePoints,ragePoints,damageReductionPercentage,cooldown,attackBonusPercentage,shieldAsPercentageOfMaxHP,damageAsPercentageOfMaxHP,isEmpowered,explosionRadius,h
+String,String,String,Integer,Float,Integer,Integer,Float,Float,Float,Float,Float,Integer,Float,String
+explosiveAegis1,,,100,999,0,200,20,0,38,60,8,0,80,
+elderSign1,elderSign,1,100,999,0,200,25,0,0,50,8,0,80,!@#edgkfebkallippjd

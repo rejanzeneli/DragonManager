@@ -1,0 +1,8 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+purchaseCurrencyAmount,25|125|250,,
+purchaseCurrencyDiscountAmount,0.0|0.0|0.0,,
+purchaseCurrencyTitle,,BUY ADDITIONAL RESOURCES!,
+currencyUnitName,,Tokens,
+notEnoughCurrencyTitle,,Not enough %@!,
+notEnoughCurrencyMessage,,You do not have enough %@!,!@#jjejppchaeofghkb

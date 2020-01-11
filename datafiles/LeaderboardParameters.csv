@@ -1,0 +1,14 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+serverRequestRetries,5,,
+entriesToRequest,25,,
+timeBetweenCacheRefreshes,600,,
+prefixGuilds,guild,,
+timePeriodNotToLiveUpdate,prevweek|weekly,,
+trophiesCurrency,trophy,,
+leagueLeaderboardEntryPrefix,guild-elo-alltime,,
+individualTrophyGlobalAllTimeLeaderboardAlias,individual-trophies-alltime,,
+individualTrophyGlobalThisWeekLeaderboardAlias,individual-trophies-curweek,,
+guildEloLeagueAllTimeLeaderboardDisplayName,,Rating (League),
+guildEloLeagueAllTimeLeaderboardIcon,icon_rating_01.png,,
+leaderBoardRankCount,1|2|2,,!@#lomdjbhmniglhghd

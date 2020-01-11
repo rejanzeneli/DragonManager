@@ -1,0 +1,17 @@
+identifier,attackReduceByPercent,battleTextIdentifier,duration,h
+String,Integer,String,Integer,String
+changeAttackPower01,15,reduceDragonPowerText,4,
+changeAttackPower02,15,reduceDragonPowerText,4,
+changeAttackPower03,15,reduceDragonPowerText,4,
+changeAttackPower04,16,reduceDragonPowerText,4,
+changeAttackPower05,16,reduceDragonPowerText,4,
+changeAttackPower06,16,reduceDragonPowerText,4,
+changeAttackPower07,17,reduceDragonPowerText,4,
+changeAttackPower08,17,reduceDragonPowerText,4,
+changeAttackPower09,17,reduceDragonPowerText,4,
+changeAttackPower10,18,reduceDragonPowerText,4,
+changeAttackPower11,18,reduceDragonPowerText,4,
+changeAttackPower12,19,reduceDragonPowerText,4,
+changeAttackPower13,19,reduceDragonPowerText,4,
+changeAttackPower14,20,reduceDragonPowerText,4,
+changeAttackPower15,30,reduceDragonPowerText,4,!@#ncnolddjadjflcmm

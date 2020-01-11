@@ -1,0 +1,15 @@
+identifier,inBundle,buildingTooltipName,buildingTooltipIconFile,buildingTooltipDescription,h
+String,Integer,LocalizedString,String,LocalizedString,String
+attack,1,Attack,icon_ammo_01.png,This is the towers basic weapon damage,
+health,1,Health,icon_hp_01.png,This is the towers health points. ,
+specialAttack,1,Special Attack,icon_special_attack_01.png,This is the towers Super Shot power,
+food,1,Food Storage,icon_food_01.png,Food storage capacity,
+piercing,1,Wood Storage,icon_component_wood_02.png,Wood storage capacity,
+gold,1,Gold Storage,icon_goldCoin.png,Gold storage capacity,
+artillery,0,Artillery,icon_component_stone_02.png,This is the towers artillery points.,
+lightning,0,Lightning,icon_component_copper_02.png,This is the towers copper points. ,
+harvestCapFarm,1,Harvest Cap,icon_earning_cap_01.png,Food storage capacity,
+harvestCapLumber,1,Harvest Cap,icon_earning_cap_01.png,Lumber storage capacity,
+harvestRateFarm,1,Harvest Hourly Rate,icon_earning_amount_01.png,Food Production per Hour,
+harvestRateLumber,1,Harvest Hourly Rate,icon_earning_amount_01.png,Lumber Production per Hour,
+damageReduction,1,Damage Reduction Percentage,icon_ammo_01.png,Damage Reduction Percentage of dragons of this element,!@#gecdaegjjpnefmjk

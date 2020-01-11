@@ -1,0 +1,5 @@
+identifier,level,maxTimes,distance,ragePoints,h
+String,String,Integer,Float,Float,String
+teleport1,1,100,45,200,
+teleportCon,76,1,45,0,
+teleportTut,77,100,45,300,!@#mmkbdlpjiobbkoci

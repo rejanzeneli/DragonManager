@@ -1,0 +1,9 @@
+identifier,commonIdentifier,level,maxTimes,dragonType,dragonLevel,distanceAhead,ragePoints,delayToActivateDragon,dragonScale,attackPowerAsPercentOfDragonHP,hpAsPercentOfDragonHP,percentageOfDamageAbsorbed,ragePercentageIncrease,h
+String,String,String,Integer,String,Integer,Float,Float,Float,Float,Float,Float,Float,Float,String
+shadowApophet1,,1,100,shadowApophet,1,25,0,1.5,1,0.0166,5,0.33,20,
+summonDodo1,summonDodo,1,100,summonDodo,1,25,0,1.5,1,0.0166,5,0.33,20,
+lightningFamiliar1,lightningFamiliar,1,100,lightningFamiliar,1,25,0,1.5,1,0.008,5,0.2,50,
+earthFamiliar1,earthFamiliar,1,100,earthFamiliar,1,25,0,1.5,1,0.008,5,0.2,50,
+spiritualGuardian1,spiritualGuardian,1,100,spiritualGuardian,1,25,0,1.5,1,0.021,5,0.4,30,
+summonPuppet1,summonPuppet,1,100,summonPuppetDragon,1,25,0,1.5,1,0.0166,5,0.1,0,
+reefFamiliar1,reefFamiliar,1,100,reefFamiliar,1,25,0,1.5,1,0.01,5,0.4,0,!@#jhgjmpnmlaemblbe

@@ -1,0 +1,13 @@
+identifier,commonIdentifier,level,maxTimes,duration,shieldAsPercentageOfMaxHP,damageAsPercentageOfMaxHP,explosionRadius,ragePoints,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,String
+chargedShield1,,1,100,7,16.2,0.046,80,200,,
+chargedShield2,,1,100,7,21,0.15,80,200,,
+whiteChargedShield1,whiteChargedShield,1,100,7,19.2,0.03,80,200,,
+shieldBlast1,shieldBlast,1,100,2.5,38,0.08,80,100,,
+chargedShieldCon,,1,1,7,27,0.16,80,0,,
+chargedShieldTut,,1,100,3,27,0.15,80,200,,
+chargedShieldSuperCon,chargedShieldSuper,1,2,7,40,0.3,80,0,,
+undeadBlast1,undeadBlast,1,100,2.5,38,0.08,80,100,,
+stormShield1,stormShield,1,100,4,115,0.14,80,200,6,
+stormShieldWhite1,stormShieldWhite,1,100,3.5,115,0.1,80,200,6,
+primalShield1,primalShield,1,100,3,100,0.15,80,0,7,!@#okofkmlmbkbmcnng

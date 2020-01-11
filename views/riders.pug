@@ -1,0 +1,45 @@
+extends layout
+
+block content
+
+  div(class="row")
+    div(class="col s12 center-align")
+      h5(class="label red-text") BETA. PLEASE REPORT ERRORS AND SUGGESTIONS VIA EMAIL OR ON THE FORUMS.
+  div(class="row")
+    div(class="col s12")
+      label
+        h4(class="label center-align") RIDER
+      label
+        h6(class="label center-align") SELECT A RIDER FOR STATS
+  div(class="row")
+    div(class="col s12")
+      each rider in riders
+        div(class="chip valign-wrapper")
+          a(href='#' class='riderselect green-text lighten-3' id= rider.id)
+            if rider.defensive
+              | #{rider.name.toUpperCase()}
+              i(class="red-text") (DEFENSIVE)
+            else
+              | #{rider.name.toUpperCase()}
+            if rider.coregame
+              | &nbsp;
+              i(class="material-icons") stars
+
+      include info_rider_skilltree
+      include info_rider_info
+      include info_rider_table
+
+block inlinecode
+
+  script(src='/js/sigma.min.js')
+  script(src='/js/sigma.parsers.json.min.js')
+  script(src='/js/dm_riders.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.riders.init(backend);
+
+    $('.menuitem').removeClass('active');
+    $('#menu-riders').addClass('active');
+    $('#menu-riders-mobile').addClass('active');
+

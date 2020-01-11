@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1C3WEdragon_1,1,food:0,1,,14807,167,flamethrower:T1C3WEdragon_flamethrower,,276,food:10,4.2,rage2,1,93,1,experience:0,52,
+T1C3WEdragon_2,2,food:114,1,,16054,199,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1,302,food:12,4.2,rage2,1,152,1,experience:0,95,
+T1C3WEdragon_3,3,food:142,1,,18018,244,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1,331,food:14,4.2,rage2,1,247,1,experience:0,113,
+T1C3WEdragon_4,4,food:258,1,,19474,290,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1,364,food:16,4.2,rage2,1,389,1,experience:0,132,
+T1C3WEdragon_5,5,food:307,1,,21024,346,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,401,food:18,4.2,rage2,1,588,1,experience:0,216,
+T1C3WEdragon_6,6,food:360,1,,23480,425,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,441,food:20,4.2,rage2,1,796,1,experience:0,260,
+T1C3WEdragon_7,7,food:555,1,,26176,517,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,482,food:22,4.2,rage2,2,1053,1,experience:0,322,
+T1C3WEdragon_8,8,food:620,1,,28749,615,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,522,food:24,4.2,rage2,2,1401,1,experience:0,375,
+T1C3WEdragon_9,9,food:688,1,,38017,873,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,559,food:26,4.2,rage2,2,2430,1,experience:0,544,
+T1C3WEdragon_10,10,food:1260,1,,39724,966,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,593,food:28,4.2,rage2,2,3191,1,experience:0,595,
+T1C3WEdragon_11,11,food:1381,1,,42030,1076,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,624,food:30,4.2,rage2,2,4806,1,experience:0,666,
+T1C3WEdragon_12,12,food:1843,1,,43942,1193,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,661,food:32,4.2,rage2,3,5956,1,experience:0,741,
+T1C3WEdragon_13,13,food:2401,1,,46473,1351,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,708,food:34,4.2,rage2,3,8493,1,experience:0,840,
+T1C3WEdragon_14,14,food:3037,1,,50533,1580,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,762,food:36,4.2,rage2,3,9767,1,experience:0,987,
+T1C3WEdragon_15,15,food:3446,1,,55458,1882,flamethrower:T1C3WEdragon_flamethrower,stoneskin:stoneskin1|stormResist01:stormResist01,826,food:40,4.2,rage2,3,0,1.2,experience:0,1166,!@#dcdgpccgincmbdfm

@@ -1,0 +1,3 @@
+identifier,level,maxTimes,speedBonusPercentage,speedBonusDuration,ragePoints,h
+String,String,Integer,Integer,Float,Float,String
+hover1,1,100,-80,5,100,!@#ojegmmfnipghbeio

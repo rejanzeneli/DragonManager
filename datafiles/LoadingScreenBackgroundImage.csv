@@ -1,0 +1,3 @@
+identifier,fileName,isForBattleTransition,achievementRequirements,h
+String,String,Integer,String,String
+bg01,loadScreen_winter19_01.jpg,0,level25,!@#iiglihojdpmpfaen

@@ -1,0 +1,8 @@
+identifier,inBundle,sceneFilename,unscaledDistance,sourceAttachmentNode,sourceLocationOffsetStr,targetAttachmentNode,scaleDownParticleEffectsInt,randomizeRotationInt,rotationDuringEffect,pathingEffectDelay,sourceCompoundParticleEffectIdentifier,targetCompoundParticleEffectIdentifier,fadeInTargetTime,fadeInTargetDuration,fadeInOpacity,animationTimeScale,sceneRemoveDelay,distanceScaleModifier,h
+String,Integer,String,Float,String,String,String,Integer,Integer,Float,Float,String,String,Float,Float,Integer,Float,Float,Float,String
+healEffect,1,prj_stormTendril_Projectile.lvl,210,,,,1,,,,,,,,,1,0,1,
+iceShieldTendrilsEffect,0,prj_iceShieldTendril_Projectile.lvl,210,,,,1,,,,,,,,,1,0,1,
+stealEffect,0,prj_stormTendril_02_Projectile.lvl,210,FX_attachPoint,,Bone_turret,1,1,-120,,,,,,,1,0,1,
+summonDragonEffect,1,ptl_dragonAI_wisp.lvl,210,release_000_01,0~0~37,FX_attachPoint,1,1,-120,0.75,cmp_ptl_dragonAI_shout,cmp_ptl_dragonAI_portal,1,1,196,1,0,1,
+instaKillEffect,1,ptl_instaKill_wisp.lvl,210,FX_attachPoint,,release_,1,0,0,0,,,,,,2.5,1,1,
+flakHealTendrilsEffect,0,prj_flakHeal_Projectile.lvl,210,,,,1,,,,,,,,,1,0,1,!@#iknbommgedidlncp

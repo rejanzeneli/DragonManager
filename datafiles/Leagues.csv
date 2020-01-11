@@ -1,0 +1,8 @@
+identifier,name,medalCostToDeclareWar,medalCap,iconFilename,mvpMultiplier,h
+String,LocalizedString,Integer,Integer,String,Integer,String
+bronze,Bronze League,20000,40000,icon_league_bronze_01.png,1,
+silver,Silver League,80000,160000,icon_league_silver_01.png,2,
+gold,Gold League,400000,800000,icon_league_gold_01.png,3,
+platinum,Platinum League,1000000,2000000,icon_league_bronze_01.png,5,
+sapphire,Sapphire League,1125000,2250000,icon_league_silver_01.png,25,
+diamond,Diamond League,1250000,2500000,icon_league_gold_01.png,50,!@#hiekdliaimgppeng

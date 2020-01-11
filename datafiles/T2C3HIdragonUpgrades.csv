@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C3HIdragon_1,1,food:0,1,,27649,873,fireball:T2C3HIdragon_fireball,,2484,food:26,4.2,rage1,2,1351,1,experience:0,272,
+T2C3HIdragon_2,2,food:1084,1,,28890,966,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1,2633,food:28,4.2,rage1,2,2016,1,experience:0,446,
+T2C3HIdragon_3,3,food:1188,1,,30567,1076,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1,2772,food:30,4.2,rage1,2,2857,1,experience:0,500,
+T2C3HIdragon_4,4,food:1296,1,,31958,1193,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1,2937,food:32,4.2,rage1,3,3980,1,experience:0,556,
+T2C3HIdragon_5,5,food:1690,1,,33798,1351,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,3145,food:34,4.2,rage1,3,5366,1,experience:0,840,
+T2C3HIdragon_6,6,food:1828,1,,36751,1580,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,3384,food:36,4.2,rage1,3,6172,1,experience:0,987,
+T2C3HIdragon_7,7,food:2074,1,,40333,1882,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,3671,food:40,4.2,rage1,3,7011,1,experience:0,1166,
+T2C3HIdragon_8,8,food:3105,1,,43718,2220,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,3996,food:44,4.2,rage1,3,8034,1,experience:0,1380,
+T2C3HIdragon_9,9,food:3456,1,,47804,2619,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,4311,food:48,4.2,rage1,4,12085,1,experience:0,1632,
+T2C3HIdragon_10,10,food:5073,1,,51661,3019,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,4598,food:52,4.2,rage1,4,13800,1,experience:0,1875,
+T2C3HIdragon_11,11,food:6962,1,,64953,4023,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,4873,food:56,4.2,rage1,4,19058,1,experience:0,2496,
+T2C3HIdragon_12,12,food:9299,1,,67393,4380,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,5113,food:60,4.2,rage1,4,21712,1,experience:0,2727,
+T2C3HIdragon_13,13,food:10106,1,,70577,4777,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,5326,food:64,4.2,rage1,5,28637,1,experience:0,2968,
+T2C3HIdragon_14,14,food:15343,1,,73234,5192,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,5578,food:68,4.2,rage1,5,32296,1,experience:0,3219,
+T2C3HIdragon_15,15,food:16540,1,,76033,5559,fireball:T2C3HIdragon_fireball,kamikaze:selfDestruct1|dodge:dodge1,5885,food:72,4.2,rage1,5,0,1.2,experience:0,3510,!@#ooecmlggnibackif

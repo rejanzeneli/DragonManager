@@ -1,0 +1,161 @@
+extends layout
+
+block content
+
+  div(class="row section")
+    div(class="flow-text center-align") #{building.building.displayName.toUpperCase()} (maxlevel:
+      span#buildingMaxLevel #{building.building.defaultMaxLevel}
+      | )
+
+  div(class="row section")
+    div(class="row")
+      label
+        h5(class="green-text lighten-3 center-align") TOWER BUFF MODIFIERS
+    div(class="row")
+      div(class="input col s5 offset-s1")
+        label(for="research_buf") Enter research % increase for the tower
+        input(placeholder="Enter research % increase for the tower" value="0" id="research_buf" type="number" class="validate" min="0.0" max="100.0" step="1.0")
+      div(class="input col s5")
+        label(for="rider_buf") Enter perch % increase for the tower
+        input(placeholder="Enter rider % increase for the tower" value="0" id="rider_buf" type="number" class="validate" min="0.0" max="100.0" step="1.0")
+
+  div(class="row section")
+    div(class="row" data-tower= building.building.identifier)#towerId
+      label
+        h5(class="green-text lighten-3 center-align") TOWER RSS CALCULATOR
+    div(class="row")
+      div(class="col s10 offset-s1")
+        div#levelCalculator
+        label(for="levelCalculator")#towerLevels
+    div(class="row")
+      div(class="input col s3 offset-s1 center-align")
+        label(for="buildReduction") BUILD REDUCTION %
+        input(placeholder="Enter build reduction in %" value="0" type="number" class="validate" min="0.0" max="100.0" step="1.0")#buildReduction
+      div(class="col s3 center-align")
+        label(for="levelTimersRequired") TOTAL AMOUNT OF TIME REQUIRED
+        h5(class="green-text lighten-3 center-align")#levelTimersRequired
+      div(class="col s3 center-align")
+        label(for="levelRssRequired") TOTAL AMOUNT OF RSS REQUIRED
+        h5(class="green-text lighten-3 center-align")#levelRssRequired
+
+  div(class="section row")
+    div(class="row center-align")
+      label
+        h5(class="green-text lighten-3 center-align") TOWER STATISTICS
+      label TABLE BELOW DOES NOT INCLUDED BUILD TIME REDUCTION ATM
+    div(class="col s12")
+      table(class="striped centered")#building-stats
+        thead(class="white")
+          tr
+            th(class="tooltipped" data-position="bottom" data-tooltip="TOWER LEVEL") LEVEL
+            th(class="tooltipped" data-position="bottom" data-tooltip="PLAYER LEVEL REQUIRED") PLAYER
+            if building.levels[0].requiredBuilderLevel
+              th(class="tooltipped" data-position="bottom" data-tooltip="BUILDER LEVEL REQUIRED") BUILDER
+            th(class="tooltipped" data-position="bottom" data-tooltip="RSS REQUIRED TO LEVEL") RSS
+            if building.levels[0].attackPower
+              th(class="tooltipped" data-position="bottom" data-tooltip="ATTACK POWER") ATK
+            if building.levels[0].specialAttackPower
+              th(class="tooltipped" data-position="bottom" data-tooltip="SPECIAL ATTACK") SPECIAL
+            th(class="tooltipped" data-position="bottom" data-tooltip="PLAYER XP GAINED") XP
+            th(class="tooltipped" data-position="bottom" data-tooltip="TOWER HEALTH") HP
+            if building.levels[0].damageReductionPercentage
+              th(class="tooltipped" data-position="bottom" data-tooltip="REDUCTION IN % FOR THIS TOTEMS ELEMENT") DAMAGE REDUCTION
+            if building.levels[0].storageRequired
+              th(class="tooltipped" data-position="bottom" data-tooltip="STORAGE REQUIRED") STORAGE
+            if building.levels[0].maxStorageDataDisplay
+              th(class="tooltipped" data-position="bottom" data-tooltip="STORAGE CAPACITY") CAPACITY
+            if building.levels[0].storageProtectionDataDisplay
+              th(class="tooltipped" data-position="bottom" data-tooltip="PROTECTED RSS AT THIS LEVEL") PROTECTED
+            if building.levels[0].rssCap
+              th(class="tooltipped" data-position="bottom" data-tooltip="MAXIMUM RSS STORED AT THIS LEVEL") RSS CAP
+            if building.levels[0].rssProtected
+              th(class="tooltipped" data-position="bottom" data-tooltip="PROTECTED RSS AT THIS LEVEL") RSS PROTECTED
+            if building.levels[0].rssHourly
+              th(class="tooltipped" data-position="bottom" data-tooltip="RSS PRODUCED PR HOUR AT THIS LEVEL") RSS/HOUR
+            if building.levels[0].minFarmlevel
+              th(class="tooltipped" data-position="bottom" data-tooltip="MINIMUM FARM/MILL LEVEL FOR BUILDING THIS STORAGE LEVEL") MIN FARM LEVELS
+            th(class="tooltipped" data-position="bottom" data-tooltip="BUILD TIME FOR THIS LEVEL") TIME
+            if building.levels[0].finalDestructionDamage
+              if (building.levels[0].finalDestructionDamage !== '0')
+                th(class="tooltipped" data-position="bottom" data-tooltip="FINAL DESTRUCTION DAMAGE") FDD
+            if building.levels[0].maxTierCanPlace
+              th(class="tooltipped" data-position="bottom" data-tooltip="MAX DRAGON TIER FOR PERCH") TIER
+            if building.levels[0].warrior
+              th(class="tooltipped" data-position="bottom" data-tooltip="WARRIOR ATTACK MODIFIER") WARRIOR
+            if building.levels[0].sorcerer
+              th(class="tooltipped" data-position="bottom" data-tooltip="SORCERER ATTACK MODIFIER") SORCERER
+            if building.levels[0].hunter
+              th(class="tooltipped" data-position="bottom" data-tooltip="HUNTER ATTACK MODIFIER") HUNTER
+            if building.levels[0].powerLevel
+              th(class="tooltipped" data-position="bottom" data-tooltip="POWER LEVEL") POWER
+
+
+        tbody
+          each level in building.levels
+            tr
+              td= level.level
+              td= level.levelRequired
+              if level.requiredBuilderLevel
+                td= level.requiredBuilderLevel
+              td
+                each line in level.upgradeCost
+                  | &nbsp; #{line}
+                  br
+              if level.attackPower
+                td(class="attackpower" data-default= level.attackValue)= level.attackValue
+              if level.specialAttackPower
+                td= level.specialAttackValue
+              td= level.upgradeReward
+              td= level.HP
+              if level.damageReductionPercentage
+                td= level.damageReductionPercentage
+              if level.storageRequired
+                td= level.storageRequired
+              if level.maxStorageDataDisplay
+                td
+                  each line in level.maxStorageDataDisplay
+                    | &nbsp; #{line}
+                    br
+              if level.storageProtectionDataDisplay
+                td
+                  each line in level.storageProtectionDataDisplay
+                    | &nbsp; #{line}
+                    br
+              if level.rssCap
+                td= level.rssCap
+              if level.rssProtected
+                td= level.rssProtected
+              if level.rssHourly
+                td= level.rssHourly
+              if level.minFarmlevel
+                td= level.minFarmlevel
+              td= level.upgradeTimeInDays
+              if level.finalDestructionDamage
+                if level.finalDestructionDamage !== "0"
+                  td= level.finalDestructionDamage
+              if level.maxTierCanPlace
+                td
+                  i(class="material-icons" style='color: ' + level.maxTierCanPlaceColor) lens
+                  | #{level.maxTierCanPlace}
+              if level.warrior
+                td= level.warrior
+              if level.sorcerer
+                td= level.sorcerer
+              if level.hunter
+                td= level.hunter
+              if level.powerLevel
+                td= level.powerLevel
+
+block inlinecss
+  link(rel='stylesheet', href='/css/noUISlider.css')
+
+block inlinecode
+  script(src='/js/dm_buildings.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.buildings.init(backend);
+
+    $('.menuitem').removeClass('active');
+    $('#menu-buildings').addClass('active');
+    $('#menu-buildings-mobile').addClass('active');

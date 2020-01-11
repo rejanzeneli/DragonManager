@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,damageAsPercentageOfMaxHP,damageRadius,damageIntervalSecond,ammoRechargePercentage,speedMultiplier,dodgePercentage,duration,ragePoints,cooldown,h
+String,String,String,Integer,Float,Integer,Float,Float,Float,Integer,Float,Float,Float,String
+deflectingGale1,,1,100,3.5,80,1,100,0.25,100,5,200,8,
+locustCloud1,locustCloud,1,100,3.5,80,1,0,0.25,100,4,0,8,
+rapidCooling1,rapidCooling,1,100,5,80,1,100,0.99,100,1,100,6,
+shiningSplendor1,shiningSplendor,1,100,4,80,1,0,0.25,100,4,200,8,!@#ibfjepeimbjbneck

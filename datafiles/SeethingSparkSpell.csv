@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,attackBonusPercentage,ragePoints,empoweredRagePoints,damageAsPercentageOfMaxHP,range,stunDuration,h
+String,String,String,Integer,Integer,Float,Float,Float,Float,Float,String
+seethingSpark1,,1,100,20,100,100,0.02,80,4.5,
+scarletFever1,scarletFever,1,100,115,200,0,0.115,80,3.5,!@#gnkhfcpkkphkhpgk

@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3C2SEdragon_1,1,food:0,1,,20227,517,lockon:T3C2SEdragon_lockon,,2020,food:22,4.2,rage3,2,1239,1,experience:0,161,
+T3C2SEdragon_2,2,food:709,1,,22215,615,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2188,food:24,4.2,rage3,2,1649,1,experience:0,281,
+T3C2SEdragon_3,3,food:787,1,,29377,873,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2346,food:26,4.2,rage3,2,2152,1,experience:0,408,
+T3C2SEdragon_4,4,food:1084,1,,30696,966,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2486,food:28,4.2,rage3,2,2826,1,experience:0,446,
+T3C2SEdragon_5,5,food:1188,1,,32478,1076,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2618,food:30,4.2,rage3,2,3480,1,experience:0,500,
+T3C2SEdragon_6,6,food:1296,1,,33955,1193,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2774,food:32,4.2,rage3,3,6254,1,experience:0,556,
+T3C2SEdragon_7,7,food:2449,1,,35911,1351,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,2970,food:34,4.2,rage3,3,9425,1,experience:0,630,
+T3C2SEdragon_8,8,food:3274,1,,39048,1580,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,3196,food:36,4.2,rage3,3,10840,1,experience:0,740,
+T3C2SEdragon_9,9,food:3715,1,,42854,1882,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,3467,food:40,4.2,rage3,3,12314,1,experience:0,875,
+T3C2SEdragon_10,10,food:5562,1,,46450,2220,lockon:T3C2SEdragon_lockon,summonAIDragon:summonDragon1,3774,food:44,4.2,rage3,3,0,1.2,experience:0,1035,!@#dcoohdjnepjfgcpi

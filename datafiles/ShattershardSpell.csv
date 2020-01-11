@@ -1,0 +1,3 @@
+identifier,level,maxTimes,ragePoints,damageAsPercentageOfMaxHP,ammoRefundPerShard,abilityRadius,h
+String,String,Integer,Float,Float,Integer,Integer,String
+shattershard1,1,100,200,11,8,150,!@#ponjoiadjonlhfbc

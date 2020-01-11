@@ -1,0 +1,3 @@
+identifier,amount,battleTextIdentifier,healedTurretNumber,healAsPercentageofMaxHP,sceneFilename,pathingEffectName,h
+String,Integer,String,Integer,Integer,String,String,String
+heal,30,repairShotText,,,buildingHealSceneFile,healEffect,!@#palceocmoclbaajh

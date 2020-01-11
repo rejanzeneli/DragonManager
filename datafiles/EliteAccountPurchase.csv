@@ -1,0 +1,10 @@
+identifier,time,firstTimeBuyerDiscount,rubyCost,discountRubyCost,iapIdentifier,discountIapIdentifier,iconFilename,isSubscription,skuTitle,skuBody,h
+String,Integer,Integer,Integer,Integer,String,String,String,String,LocalizedString,LocalizedString,String
+eliteTime0,604800,0,350,350,elite_account_7days,elite_account_7days,icon_elite_account_01.png,0,7 Day Elite Account,"With the Purchase of an Elite Account you will receive: +100% tokens from Dragon Guard Missions, +75% Dragon XP per battle, Upgrade 2 buildings at once, and +50% resources from farms and mills!",
+eliteTime1,2592000,1,990,990,elite_account_30days,elite_account_30days_ftb,icon_elite_account_03.png,0,30 Day Elite Account,"With the Purchase of an Elite Account you will receive: +100% tokens from Dragon Guard Missions, +75% Dragon XP per battle, Upgrade 2 buildings at once, and +50% resources from farms and mills!",
+eliteTime2,31536000,0,7900,7900,elite_account_365days,elite_account_365days,icon_elite_account_02.png,0,365 Day Elite Account,"With the Purchase of an Elite Account you will receive: +100% tokens from Dragon Guard Missions, +75% Dragon XP per battle, Upgrade 2 buildings at once, and +50% resources from farms and mills!",
+eliteTime3,604800,0,9999999,9999999,elite_account_7days_subs,elite_account_7days_subs,icon_elite_account_01.png,1,,,
+eliteTime4,2678400,0,9999999,9999999,elite_account_31days_subs,elite_account_31days_subs,icon_elite_account_03.png,1,31 Day Elite Account Subscription,"Publisher: Pocket Gems Inc
+Please read: Your iTunes account will be charged at confirmation of purchase. Subscription will be automatically renew unless turned off at least 24 hours before end of current period. Subscriptions can be managed and turned off through Account Settings after purchase. Any Unused portion of a free trial will be forfeited if you subscribe before free trial ends.
+
+With the Purchase of an Elite Account you will receive: +100% tokens from Dragon Guard Missions, +75% Dragon XP per battle, Upgrade 2 buildings at once, and +50% resources from farms and mills!",!@#agpnkhnccmbgplce

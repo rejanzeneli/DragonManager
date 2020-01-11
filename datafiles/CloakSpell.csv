@@ -1,0 +1,14 @@
+identifier,commonIdentifier,level,maxTimes,duration,speedMultiplier,ragePoints,cooldown,attackBonusPercentage,ragePercentageIncrease,ammoRechargePercentage,canUseSpells,canAttack,alwaysHasCooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,Integer,Integer,Integer,String
+cloak1,,1,100,12,1.5,100,3,0,0,0,0,0,0,
+cloakCon,,76,1,15,1.5,0,3,0,0,0,0,0,0,
+cloakTut,,77,100,15,1.5,300,3,0,0,0,0,0,0,
+vanish1,vanish,1,100,8,1.5,0,6,0,0,0,0,0,0,
+spectralForm1,spectralForm,1,100,6,0.5,200,6,0,225,100,1,0,1,
+spectralForm2,spectralForm,1,100,4,0.5,200,6,100,100,100,0,1,1,
+spectralForm3,spectralForm,1,100,4,0.5,200,6,100,100,100,1,0,1,
+spectralForm4,spectralForm,1,100,4,0.5,200,6,100,100,100,0,0,1,
+spectralForm_warrior1,spectralForm_warrior,1,100,4,0.5,200,6,100,100,100,1,1,1,
+enshroud1,enshroud,1,100,4,1.5,100,3,0,0,0,0,0,1,
+skulk1,skulk,1,100,4,1.5,0,2,0,0,0,0,0,1,
+hoverMode1,hoverMode,1,100,3,0.01,200,6,0,100,0,1,1,1,!@#piidocbiibcojiho

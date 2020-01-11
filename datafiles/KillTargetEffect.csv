@@ -1,0 +1,4 @@
+identifier,onlyKillSummon,battleTextIdentifier,h
+String,Integer,String,String
+killSummon,1,summonKilledText,
+killSummonSilent,1,,!@#namacmonoooohboj

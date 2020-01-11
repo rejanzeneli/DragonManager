@@ -1,0 +1,18 @@
+key,shouldNotSendCrashReport,shouldSendEventLog,h
+String,Integer,Integer,String
+Dummy crash (No crash report),1,,
+Dummy crash (Event log),1,1,
+"Cannot place new world object at footprint:(%f, %f)",1,1,
+"Loading building %@ at invalid location: (%d, %d)",1,1,
+No %@ with identifier %@ for %@ %@,1,1,
+%@ unable to set value for property named %@,1,1,
+%@ did not properly tear down,1,1,
+Asynchronous step taking a long time: %@ has been running for %f seconds and isn't finished. %@,1,1,
+Asynchronous step taking a long time: %@ finished after %f seconds. %@,1,1,
+Sending private message %@ failed with error: %@,1,1,
+Trying to access PERealTimeCommunicationManager before the sharedInstance has been set! Make sure to first call [PERealTimeCommunicationManager setSharedInstance:],1,1,
+Server Validation Failure: %@,1,1,
+Sending group message failed with error: %@. %@,0,1,
+Reduced memory from %.1f MB to %.1f MB,1,1,
+Sync error for battle %@ at time %.0f: %@,1,0,
+Cannot load image %@: probably missing from the project,1,0,!@#hapjpmbgjggdokih

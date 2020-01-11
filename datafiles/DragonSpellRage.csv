@@ -1,0 +1,14 @@
+identifier,RpToHpPercentRatio,RpPerSecond,spellDescription,h
+String,Float,Float,LocalizedString,String
+rage1,0,15,low,
+rage2,0,15,medium,
+rage3,0,15,high,
+rage4,0,25,high,
+rage5,15,5,Medium,
+rageTut,1.6,10,Low,
+rageRed,0,10000,Low,
+rageStone,4.5,10,Low,
+rageChinese,4.5,4,Low,
+rage6,0,30,high,
+rage7,0,23,high,
+rageDragonCurse,0,0,none,!@#njpachicdcaennlf

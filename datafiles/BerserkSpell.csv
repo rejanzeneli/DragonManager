@@ -1,0 +1,14 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,duration,attackBonusPercentage,hpSacrificedPercentage,healAsPercentageOfMaxHP,rageIncreasePercentage,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,String
+berserk1,,1,100,300,5,75,19.2,12,50,4,
+fullMoon1,fullMoon,1,100,200,5,80,19.2,10,25,3,
+autumnsReap1,autumnsReap,1,100,200,4,85,0,20,50,4,
+rampage1,rampage,1,100,200,4.5,100,0,20,50,10,
+leechingBreath1,leechingBreath,1,100,0,4.5,50,0,20,0,10,
+rampageSorcerer1,rampageSorcerer,1,100,200,5,100,0,10,100,9,
+scavenge1,scavenge,1,100,100,4.5,85,0,16,0,0,
+wellOfPower1,wellOfPower,1,100,0,3,100,0,16,50,5,
+getAngry1,getAngry,1,100,100,5,0,0,12,400,4,
+delirium1,delirium,1,100,100,5,80,0,0,25,4,
+overcharge1,overcharge,1,100,0,5,100,0,12,100,7,
+ravage1,ravage,1,100,0,3,100,0,12,0,6,!@#ikfgemildekbidng

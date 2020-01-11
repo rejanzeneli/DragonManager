@@ -1,0 +1,7 @@
+li(class="collection-item")
+  a(class="title flow-text" href='building/' + building.identifier) #{building.displayName.toUpperCase()}
+  p
+  each line in building.description
+    i(class="material-icons") info
+    | &nbsp; #{line}
+    br

@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C3HFdragon_1,1,food:0,1,,13104,244,fireball:T2C3HFdragon_fireball,,1471,food:14,4.2,rage1,1,325,1,experience:0,75,
+T2C3HFdragon_2,2,food:236,1,,14163,290,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,1614,food:16,4.2,rage1,1,456,1,experience:0,132,
+T2C3HFdragon_3,3,food:280,1,,15291,346,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,1781,food:18,4.2,rage1,1,623,1,experience:0,162,
+T2C3HFdragon_4,4,food:329,1,,17076,425,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,1958,food:20,4.2,rage1,1,843,1,experience:0,195,
+T2C3HFdragon_5,5,food:507,1,,19037,517,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2139,food:22,4.2,rage1,2,1115,1,experience:0,242,
+T2C3HFdragon_6,6,food:567,1,,20908,615,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2317,food:24,4.2,rage1,2,2152,1,experience:0,281,
+T2C3HFdragon_7,7,food:912,1,,27649,873,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2484,food:26,4.2,rage1,2,3470,1,experience:0,408,
+T2C3HFdragon_8,8,food:1553,1,,28890,966,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2633,food:28,4.2,rage1,2,4557,1,experience:0,446,
+T2C3HFdragon_9,9,food:1703,1,,30567,1076,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2772,food:30,4.2,rage1,2,5612,1,experience:0,500,
+T2C3HFdragon_10,10,food:1858,1,,31958,1193,fireball:T2C3HFdragon_fireball,kamikaze:selfDestruct1,2937,food:32,4.2,rage1,3,0,1.2,experience:0,556,!@#cmfpohheccjjbbio

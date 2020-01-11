@@ -1,0 +1,4 @@
+identifier,name,statement,descriptionString,crest,officers,members,h
+String,String,String,String,String,Array<String>,Array<String>,String
+tutorial,Epic Trainers,We want to be the very best.,Like no one ever was.,icon_team_crest_001,rachel,,
+tutorialOther,Noobs,We are not very good.,At all.,icon_team_crest_001,chris,erik,!@#lbcpafndflphmcob

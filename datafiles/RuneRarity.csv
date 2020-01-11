@@ -1,0 +1,8 @@
+identifier,inBundle,displayName,rarityType,color,dust,whisp,whispTrail,powerLevel,monumentRuneRemovalCost,dragonRuneRemovalCost,h
+String,Integer,LocalizedString,Integer,String,Integer,String,String,Float,Map<String:Integer>,Map<String:Integer>,String
+0,1,Common,1,red,100,ptl_whelp_whisp_01,vfx_wisp_trail_red,0.015,ruby:50,chisel:1,
+3,1,Rare,2,purple,750,ptl_whelp_whisp_02,vfx_wisp_trail_purple,0.02,ruby:110,chisel:3,
+4,1,Epic,4,blue,6500,ptl_whelp_whisp_03,vfx_wisp_trail_blue,0.042,ruby:250,chisel:10,
+5,1,Legendary,8,orange,50000,ptl_whelp_whisp_04,vfx_wisp_trail_orange,0.06,ruby:600,chisel:35,
+6,1,Mythic,16,green,400000,ptl_whelp_whisp_05,vfx_wisp_trail_green,0.09,ruby:1500,chisel:100,
+7,1,Exotic,32,yellow,1600000,ptl_whelp_whisp_06,vfx_wisp_trail_yellow,0.135,ruby:6000,chisel:200,!@#mpcenejjjgkiflja

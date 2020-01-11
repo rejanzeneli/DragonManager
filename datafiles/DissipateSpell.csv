@@ -1,0 +1,13 @@
+identifier,commonIdentifier,level,ragePoints,maxTimes,cooldown,duration,speedMultiplier,explosionRadius,damageAsPercentageOfMaxHP,ammoRechargePercentage,attackBonusPercentage,empoweredDuration,shouldNormalDamageHitDisabledTowers,h
+String,String,String,Float,Integer,Float,Float,Float,Float,Float,Float,Integer,Float,Integer,String
+dissipate1,,,200,100,3.5,2.25,0.25,80,0.06,0.4,,,1,
+riptide1,riptide,,100,100,4,2,0.25,80,0.11,0,,,1,
+shadowStrike1,shadowStrike,,200,100,0,3,0.25,80,0.12,1,115,5,1,
+shadowDispersal1,shadowDispersal,,100,100,3,2,0.25,80,0.14,0,0,0,1,
+kitsuneMischief1,kitsuneMischief,,100,100,4,2,0.25,80,0.12,0,100,4,1,
+scatter1,scatter,,100,100,0,1.5,0.25,80,0.08,0.5,50,3,1,
+writhe1,writhe,,100,100,1.5,3,0.25,80,0.08,0,,,0,
+realityWarp1,realityWarp,,100,100,1,2,0.25,80,0.1,0,100,3,1,
+bloodMist1,bloodMist,,0,100,1,2,0.25,80,0,50,50,4,0,
+silentSwoop1,silentSwoop,,100,100,0,0.5,0.25,80,0,50,150,2,1,
+gorgonsGuise1,gorgonsGuise,,100,100,1,2,0.25,80,0,0,50,4,0,!@#hginlfbijjkbgnjc

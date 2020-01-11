@@ -1,0 +1,6 @@
+identifier,commonIdentifier,maxTimes,ragePoints,reduceBuildingPowerPercent,increaseBuildingDamagePercent,splashRange,cooldown,h
+String,String,Integer,Float,Float,Float,Float,Float,String
+crumbleToDust1,,100,200,0.5,0.5,5,,
+enfeeble1,enfeeble,100,100,0.5,0.2,5,1,
+gild1,gild,100,200,0.5,0.25,5,,
+gild2,gild,100,0,0.5,0.25,5,,!@#ofbengijmapkgpan

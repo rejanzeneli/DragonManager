@@ -1,0 +1,4 @@
+identifier,limitDamage,limitPercent,isCeiling,vfxIdentifiers,battleTextIdentifier,h
+String,Integer,Float,Integer,String,String,String
+damageReceiveLimit25,,25,1,,,
+damageReceiveLimit50,,50,1,,,!@#adcclimhgapnobhj

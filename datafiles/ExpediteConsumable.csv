@@ -1,0 +1,11 @@
+identifier,inBundle,name,descriptionText,iconFilename,boostingSceneFilename,targetType,durationInMinutes,expediteTimeInSeconds,showConfirmationOnUse,salvagePrice,sortPriority,h
+String,Integer,LocalizedString,LocalizedString,String,String,String,Integer,String,Integer,Integer,Integer,String
+expediteConsumable0a,1,1 Min Speedup,Expedite timers by 1 min!,icon_boost_expedite_00_v2.png,,expedite,0,60,0,1,37,
+expediteConsumable0,1,3 Min Speedup,Expedite timers by 3 min!,icon_boost_expedite_00.png,,expedite,0,180,0,1,37,
+expediteConsumable1,1,15 Min Speedup,Expedite timers by 15 min!,icon_boost_expedite_01.png,,expedite,0,900,0,6,37,
+expediteConsumable1a,1,30 Min Speedup,Expedite timers by 30 min!,icon_boost_expedite_03_v2.png,,expedite,0,1800,0,12,40,
+expediteConsumable2,1,1 Hr Speedup,Expedite timers by 1 hour!,icon_boost_expedite_02.png,,expedite,0,3600,0,24,40,
+expediteConsumable3,1,3 Hr Speedup,Expedite timers by 3 hours!,icon_boost_expedite_03.png,,expedite,0,10800,0,48,40,
+expediteConsumable4,1,12 Hr Speedup,Expedite timers by 12 hours!,icon_boost_expedite_04.png,,expedite,0,43200,1,174,40,
+expediteConsumable5,1,24 Hr Speedup,Expedite timers by 24 hours!,icon_boost_expedite_05.png,,expedite,0,86400,1,348,41,
+expediteConsumable6,1,48 Hr Speedup,Expedite timers by 48 hours!,icon_boost_expedite_06.png,,expedite,0,172800,1,696,42,!@#lgcmnneffackbeik

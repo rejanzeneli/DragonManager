@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T4C1SDdragon_1,1,food:0,1,,33955,1193,lockon:T4C1SDdragon_lockon,,2774,food:32,4.2,rage3,3,4314,1,experience:0,371,
+T4C1SDdragon_2,2,food:1690,1,,35911,1351,lockon:T4C1SDdragon_lockon,invertSpell:invert1,2970,food:34,4.2,rage3,3,5261,1,experience:0,630,
+T4C1SDdragon_3,3,food:1828,1,,39048,1580,lockon:T4C1SDdragon_lockon,invertSpell:invert1,3196,food:36,4.2,rage3,3,6051,1,experience:0,740,
+T4C1SDdragon_4,4,food:2074,1,,42854,1882,lockon:T4C1SDdragon_lockon,invertSpell:invert1,3467,food:40,4.2,rage3,3,6873,1,experience:0,875,
+T4C1SDdragon_5,5,food:3105,1,,46450,2220,lockon:T4C1SDdragon_lockon,invertSpell:invert1,3774,food:44,4.2,rage3,3,7877,1,experience:0,1035,
+T4C1SDdragon_6,6,food:3456,1,,50792,2619,lockon:T4C1SDdragon_lockon,invertSpell:invert1,4072,food:48,4.2,rage3,4,12933,1,experience:0,1224,
+T4C1SDdragon_7,7,food:5537,1,,54890,3019,lockon:T4C1SDdragon_lockon,invertSpell:invert1,4343,food:52,4.2,rage3,4,18248,1,experience:0,1406,
+T4C1SDdragon_8,8,food:9391,1,,69013,4023,lockon:T4C1SDdragon_lockon,invertSpell:invert1,4602,food:56,4.2,rage3,4,20605,1,experience:0,1872,
+T4C1SDdragon_9,9,food:10255,1,,71605,4380,lockon:T4C1SDdragon_lockon,invertSpell:invert1,4829,food:60,4.2,rage3,4,23474,1,experience:0,2045,
+T4C1SDdragon_10,10,food:11145,1,,74988,4777,lockon:T4C1SDdragon_lockon,invertSpell:invert1,5030,food:64,4.2,rage3,5,0,1.2,experience:0,2226,!@#aejnhmpemhoicnme

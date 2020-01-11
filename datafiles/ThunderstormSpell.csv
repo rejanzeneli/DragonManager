@@ -1,0 +1,8 @@
+identifier,commonIdentifier,level,maxTimes,range,timeIntervalBetweenBolts,duration,damageAsPercentageOfMaxHP,ragePoints,h
+String,String,String,Integer,Float,Float,Float,Float,Float,String
+thunderstorm1,,1,100,110,0.5,5,0.08,200,
+thunderstormCon,,7,1,110,0.5,5,0.23,0,
+thunderstormTut,,27,100,110,0.5,5,0.2,200,
+thunderstormCon2,,7,1,110,0.5,5,0.08,0,
+lightningStorm1,lightningStorm,1,100,110,0.5,5,0.055,200,
+divineStorm1,divineStorm,1,100,110,0.5,5,0.085,200,!@#efeabifopkildbed

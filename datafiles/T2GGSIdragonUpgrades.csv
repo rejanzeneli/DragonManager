@@ -1,0 +1,9 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2GGSIdragon_1,1,food:0,1,,46450,2220,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,3774,food:44,4.2,rage3,3,4945,1,experience:0,1380,
+T2GGSIdragon_2,2,food:3456,1,,50792,2619,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,4072,food:48,4.2,rage3,4,6363,1,experience:0,1632,
+T2GGSIdragon_3,3,food:3819,1,,54890,3019,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,4343,food:52,4.2,rage3,4,8362,1,experience:0,1875,
+T2GGSIdragon_4,4,food:5242,1,,69013,4023,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,4602,food:56,4.2,rage3,4,10613,1,experience:0,2496,
+T2GGSIdragon_5,5,food:5724,1,,71605,4380,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,4829,food:60,4.2,rage3,4,13365,1,experience:0,2727,
+T2GGSIdragon_6,6,food:6221,1,,74988,4777,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,5030,food:64,4.2,rage3,5,15078,1,experience:0,2968,
+T2GGSIdragon_7,7,food:8079,1,,77811,5192,lockon:T2GGSIdragon_lockon,aoeSpell:aoe2|chainLightning:chainLightning2,5268,food:68,4.2,rage3,5,0,1.2,experience:0,3219,!@#ecilanpjllfhbjoh

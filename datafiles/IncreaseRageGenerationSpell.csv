@@ -1,0 +1,3 @@
+identifier,level,maxTimes,duration,percentageIncrease,ragePoints,h
+String,String,Integer,Float,Integer,Float,String
+increaseRage1,1,100,10,150,100,!@#mgeebjhohilbjamo

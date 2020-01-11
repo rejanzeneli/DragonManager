@@ -1,0 +1,4 @@
+identifier,animationMappingType,animationMappingIdentifier,isShownInBattle,isAnimatingInBattle,achievementRequirement,h
+String,String,String,Integer,Integer,String,String
+person02,lumberjack,idleAnticWave,,,level01,
+person03,lumberjackDirecting,idleAnticWave,,,level01,!@#bmfobonlcaamjhgi

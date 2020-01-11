@@ -1,0 +1,3 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1GoldDragon_1,1,food:4,1,,12705,497,flamethrower:T1C1WFdragon_flamethrower,aoeSpell:aoe18|archerResist01:archerResist01,187,food:2,4.2,rage2,1,34,1.5,experience:100,100,!@#ebeapjohkocgaebg

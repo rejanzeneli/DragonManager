@@ -1,0 +1,4 @@
+identifier,inBundle,type,amount,sceneFile,iconName,displayName,descriptionLine1,descriptionLine2,expirationTime,hudNodeName,h
+String,Integer,String,Integer,String,String,String,String,String,Float,String,String
+hpPowerup1,1,hpPowerup,400,,powerup_Hp.png,Heal,Regain some health!,Destroy sheep farms to find them,0,hpProgressBar,
+ammoPowerup1,1,ammoPowerup,40,,powerup_Ammo.png,Firepower,Charge up your fire!,Destroy archers and cannons to find them,0,ammoProgressBar,!@#hgnpbnoklkeafdop

@@ -1,0 +1,27 @@
+extends layout
+
+block content
+
+  div(class="row section")
+    div(class="flow-text center-align") EGG TOKEN COMBOS
+  each tier in research
+    div(class="row section")
+      label(class="flow-text" style='color: #' + tier.color)= tier.name
+      table(class="striped centered stdheader")
+        thead(class="white")
+          tr
+            th PARENT 1
+            th PARENT 2
+            th CHILD
+            th TOKENS
+
+        tbody
+          each egg in tier.eggs
+            tr
+              td
+                p(style='text-decoration: underline; text-decoration-color: #' + egg.parentcolor1 + ';-webkit-text-decoration-color: #' + egg.parentcolor1)= egg.parent1
+              td
+                p(style='text-decoration: underline; text-decoration-color: #' + egg.parentcolor2 + ';-webkit-text-decoration-color: #' + egg.parentcolor2)= egg.parent2
+              td
+                p(style='text-decoration: underline; text-decoration-color: #' + tier.color + ';-webkit-text-decoration-color: #' + tier.color)= egg.child
+              td= egg.prize

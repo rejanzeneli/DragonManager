@@ -1,0 +1,15 @@
+key,value,h
+String,String,String
+tableScrollMoveThreshold,20,
+heightAboveGroundForGroundExplosionEffect,10,
+healingMarkEffectScale,2,
+healingMarkTargetEffectScale,10,
+consumableRangeOverlayBuffer,10,
+overlayScreenPointZ,500,
+secondsToShowHUDAfterBaseDestruction,5,
+secondsToShowVignetteAfterBaseDestruction,6,
+baseDestroyedExplosionCameraShakeDuration,2,
+baseDestroyedExplosionCameraShakeFuzziness,1,
+ipadFullScreenWebViewCloseButtonScale,1.5,
+iphoneFullScreenWebViewCloseButtonScale,2.5,
+slidingSensitivity,0.8,!@#oeadjhgfoppcedfk

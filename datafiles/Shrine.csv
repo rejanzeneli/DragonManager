@@ -1,0 +1,3 @@
+identifier,colony,dragonType,displayTitle,displayDescriptionIdentifier,dragonSummonedDescriptionIdentifier,dragonSummonedDialogTextIdentifier,masteryDragonCount,dragonCount,dragonUsageCount,h
+String,String,String,LocalizedString,String,String,String,Integer,Integer,Integer,String
+shrine0,level03,water,Shrine,shineDescription_waterGod,dragonSummonedDescription_waterGod,dragonSummonedDialogText_waterGod,20,20,2,!@#pmgeccepmkgogfae

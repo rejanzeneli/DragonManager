@@ -1,0 +1,7 @@
+identifier,inBundle,role,displayName,characterSpriteSheet,characterStaticImage,characterNumFrames,characterFlipped,characterRepeatAnimation,characterPosition,characterPositionIPad,h
+String,Integer,LocalizedString,LocalizedString,String,String,Integer,Integer,Integer,String,String,String
+civilian,1,Head Advisor,Ash,,alessia.png,1,1,1,-121~-130,-242~-200,
+kyra,1,Head Advisor,Ash,,alessia.png,1,1,1,-121~-130,-242~-200,
+kyraNew,0,Head Advisor,Ash,,alessiaoriginal.png,1,1,1,-342~70,-342~100,
+orin,0,Dragon Advisor,Orin,,general.png,1,1,1,-121~-130,-242~-200,
+gustavarmy,0,Honorless Guild,Gustav,,gustavArmy.png,1,1,1,-121~-130,-242~-200,!@#llmjhlgfaekkdnke

@@ -1,0 +1,3 @@
+identifier,damage,radius,battleTextIdentifier,h
+String,Map<String:Integer>,Integer,String,String
+selfDestruct,pure:25,15000,selfDestructShotText,!@#cgpneggmhnkoapcl

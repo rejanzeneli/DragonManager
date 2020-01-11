@@ -1,0 +1,13 @@
+identifier,inBundle,augmentName,augmentInfoFile,augmentIconFile,augmentDescription,augmentConsumableClass,h
+String,Integer,LocalizedString,String,String,LocalizedString,String,String
+attack,1,Attack,AttackAugment.csv,icon_ammo_01.png,This is the towers basic attack damage,IncreaseAttackConsumableInfo,
+health,1,Health,HealthAugment.csv,icon_hp_01.png,This is the towers health points,IncreaseHPConsumableInfo,
+specialAttack,1,Special Attack,SpecialAttackAugment.csv,icon_special_attack_01.png,This is the towers Super Shot power,,
+food,1,Food Storage,FoodAugment.csv,icon_food_01.png,Food storage capacity,,
+piercing,1,Wood Storage,PiercingAugment.csv,icon_component_wood_02.png,Wood storage capacity,,
+gold,1,Gold Storage,GoldAugment.csv,icon_goldCoin.png,Gold storage capacity,,
+artillery,0,Artillery,ArtilleryAugment.csv,icon_component_stone_02.png,,,
+lightning,0,Lightning,LightningAugment.csv,icon_component_copper_02.png,,,
+harvestCap,1,Harvest Cap,HarvestAugment.csv,icon_earning_cap_01.png,,,
+harvestRate,1,Harvest Hourly Rate,HarvestHourlyLimitAugment.csv,icon_earning_amount_01.png,,,
+damageReduction,1,Damage Reduction Percentage,AttackAugment.csv,icon_ammo_01.png,Damage Reduction Percentage of dragons of this element,,!@#fghdldafgogepcel

@@ -1,0 +1,21 @@
+identifier,name,league,topGlobalRank,bottomGlobalRank,tokensPerDayPerMember,warTokenMultiplier,maxDivisionSize,h
+String,LocalizedString,String,Integer,Integer,Integer,Float,Integer,String
+diamond1,Diamond I,diamond,1,25,1500,1.666666667,25,
+diamond2,Diamond II,diamond,26,50,1000,1.666666667,25,
+sapphire1,Sapphire I,sapphire,51,100,800,1.333333333,25,
+sapphire2,Sapphire II,sapphire,101,175,650,1.166666667,25,
+sapphire3,Sapphire III,sapphire,176,275,500,1,25,
+platinum1,Platinum I,platinum,276,400,450,1,25,
+platinum2,Platinum II,platinum,401,575,400,1,25,
+platinum3,Platinum III,platinum,576,825,300,1,25,
+platinum4,Platinum IV,platinum,826,1175,250,1,25,
+gold1,Gold I,gold,1176,1575,225,1,25,
+gold2,Gold II,gold,1576,2075,200,1,25,
+gold3,Gold III,gold,2076,2675,175,1,25,
+gold4,Gold IV,gold,2676,3375,150,1,25,
+gold5,Gold V,gold,3376,4175,125,1,25,
+silver1,Silver I,silver,4176,5075,100,1,25,
+silver2,Silver II,silver,5076,6075,90,1,25,
+silver3,Silver III,silver,6076,8075,80,1,25,
+bronze1,Bronze I,bronze,8076,11075,70,1,50,
+bronze2,Bronze II,bronze,11076,9999999,60,1,50,!@#cdfpdgbloeabglok

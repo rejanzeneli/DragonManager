@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3C1WEdragon_1,1,food:0,1,,46473,1351,flamethrower:T3C1WEdragon_flamethrower,,708,food:34,4.2,rage2,3,3670,1,experience:0,420,
+T3C1WEdragon_2,2,food:2285,1,,50533,1580,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1,762,food:36,4.2,rage2,3,4796,1,experience:0,740,
+T3C1WEdragon_3,3,food:2592,1,,55458,1882,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1,826,food:40,4.2,rage2,3,6269,1,experience:0,875,
+T3C1WEdragon_4,4,food:3881,1,,60112,2220,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1,899,food:44,4.2,rage2,3,8076,1,experience:0,1035,
+T3C1WEdragon_5,5,food:4320,1,,65731,2619,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,970,food:48,4.2,rage2,4,10109,1,experience:0,1632,
+T3C1WEdragon_6,6,food:4774,1,,71034,3019,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1035,food:52,4.2,rage2,4,11544,1,experience:0,1875,
+T3C1WEdragon_7,7,food:6552,1,,89311,4023,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1097,food:56,4.2,rage2,4,13035,1,experience:0,2496,
+T3C1WEdragon_8,8,food:7155,1,,92666,4380,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1151,food:60,4.2,rage2,4,14850,1,experience:0,2727,
+T3C1WEdragon_9,9,food:7776,1,,97043,4777,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1199,food:64,4.2,rage2,5,22253,1,experience:0,2968,
+T3C1WEdragon_10,10,food:13413,1,,100697,5192,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1255,food:68,4.2,rage2,5,25097,1,experience:0,3219,
+T3C1WEdragon_11,11,food:14460,1,,104545,5559,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1324,food:72,4.2,rage2,5,34609,1,experience:0,3510,
+T3C1WEdragon_12,12,food:19251,1,,112251,6118,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1402,food:77,4.2,rage2,5,39008,1,experience:0,3999,
+T3C1WEdragon_13,13,food:24338,1,,120490,6765,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1493,food:82,4.2,rage2,6,50954,1,experience:0,4576,
+T3C1WEdragon_14,14,food:30708,1,,128206,7464,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1599,food:87,4.2,rage2,6,57406,1,experience:0,5214,
+T3C1WEdragon_15,15,food:33023,1,,137552,8273,flamethrower:T3C1WEdragon_flamethrower,chargedShield:chargedShield1|trebuchetResist01:trebuchetResist01,1710,food:92,4.2,rage2,6,0,1.2,experience:0,5984,!@#gmblphbddkhbndef

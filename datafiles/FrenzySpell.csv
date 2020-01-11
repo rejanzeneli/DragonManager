@@ -1,0 +1,9 @@
+identifier,commonIdentifier,level,maxTimes,attackBonusPercentage,duration,ragePoints,h
+String,String,String,Integer,Integer,Float,Float,String
+frenzy1,,1,100,163,4.5,300,
+frenzyCon,,7,1,163,4.5,0,
+frenzyTut,,27,100,163,4.5,180,
+chaos1,chaos,1,100,95,4,200,
+talonFrenzy1,talonFrenzy,1,100,63,4,100,
+mysticBarrage1,mysticBarrage,1,100,80,6,100,
+hysteria1,hysteria,1,100,200,4,0,!@#kcedpiggdeifcdfp

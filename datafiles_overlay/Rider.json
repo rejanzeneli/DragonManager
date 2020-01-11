@@ -1,0 +1,29 @@
+{
+  "Atlas_poacherMale": {
+    "isDefensive": "1"
+  },
+  "E18Q3_Lorenzo": {
+    "isDefensive": "1"
+  },
+  "E19Q2_Leilani": {
+    "isDefensive": "1"
+  },
+  "E19Q3_Vivian": {
+    "isDefensive": "1"
+  },
+  "E18Q4_Bjorn": {
+    "isDefensive": "1"
+  },
+  "Ash_Dragonlord": {
+    "inBundle": "1"
+  },
+  "Ash_Protector": {
+    "inBundle": "1"
+  },
+  "Ash_Defender": {
+    "inBundle": "1"
+  },
+  "Ash_Conqueror": {
+    "inBundle": "1"
+  }
+}

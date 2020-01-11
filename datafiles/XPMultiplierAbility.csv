@@ -1,0 +1,4 @@
+identifier,level,inBundle,spellName,spellDescription,icon,xpMultiplier,h
+String,String,Integer,LocalizedString,LocalizedString,String,Integer,String
+xpMultiplier01,1,0,+ 100% XP Spell,Increases starting base EXP by 100%,icon_xp_boost_01.png,1,
+xpMultiplier02,1,0,+ 200% XP Spell,Increases starting base EXP by 200%,icon_xp_boost_01.png,2,!@#nibmbgccgkfompfa

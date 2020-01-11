@@ -1,0 +1,3 @@
+identifier,maxAugmentCount,augmentCost,augmentAmount,tooltip,h
+String,Integer,String,Integer,LocalizedString,String
+lightningAugment_01,3,lightning:30,30,This is the towers copper points. ,!@#ihohhkidnnklgiik

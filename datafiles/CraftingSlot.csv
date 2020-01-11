@@ -1,0 +1,12 @@
+identifier,requiredLevel,achievementRequirement,unlockPrice,sortPriority,types,h
+String,Integer,String,Map<String:Integer>,Integer,String,String
+CraftingSlot_1,,,,10,pack|dragon|tower|spell|special|currency,
+CraftingSlot_2,,,,9,pack|dragon|tower|spell|special|currency,
+CraftingSlot_3,,,ruby:350,8,pack|dragon|tower|spell|special|currency,
+CraftingSlot_4,,,ruby:950,7,pack|dragon|tower|spell|special|currency,
+CraftingSlot_5,,,ruby:2450,6,pack|dragon|tower|spell|special|currency,
+CraftingSlot_6,,,,5,riderGear,
+CraftingSlot_7,,,ruby:350,4,riderGear,
+CraftingSlot_8,,,ruby:950,3,riderGear,
+CraftingSlot_9,,,ruby:2450,2,riderGear,
+CraftingSlot_10,,,ruby:3500,1,riderGear,!@#nkbgehdodffkpfcc

@@ -1,0 +1,4 @@
+identifier,level,featureUnlockIdentifier,buildingImageFilename,unlockTitle,unlockDescription,h
+String,Integer,String,String,LocalizedString,LocalizedString,String
+timerMissions,50,enableBreederAlternativeRewards,image_balloon_02.png,Timer Missions,Unlocked,
+towerTransformation,20,enableTowerTransformation,image_builder_02.png,Tower Transformation,Unlocked,!@#mjcfaloglijncchd

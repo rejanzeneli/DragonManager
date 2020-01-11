@@ -1,0 +1,15 @@
+identifier,commonIdentifier,level,maxTimes,dragonType,dragonLevel,distanceAhead,ragePoints,delayToActivateDragon,dragonScale,attackPowerAsPercentOfDragonHP,hpAsPercentOfDragonHP,h
+String,String,String,Integer,String,Integer,Float,Float,Float,Float,Float,Float,String
+summonDragon1,,1,100,summonDragon,1,25,300,1.5,0.5,0.004,0.43,
+summonDragon2,,1,100,summonDragon,2,25,300,1.5,0.5,0.0125,0.87,
+summonDragonCon,,1,1,summonDragon,15,25,0,1.5,0.5,0.02,0.71,
+summonDragonTut,,1,1,summonDragon,1,25,0,1.5,0.5,0.02,0.71,
+summonDragon1d,,1,100,summonDodo,1,25,300,1.5,0.8,0.004,0.43,
+summonDragonCond,,1,1,summonDodo,15,25,0,1.5,0.8,0.02,0.71,
+summonDragonTutd,,1,1,summonDodo,1,25,0,1.5,0.8,0.02,0.71,
+summonRuneDragon,,1,100,summonRuneDragon,1,25,300,1.5,0.8,0.0205,1.1,
+whiteSummonDragon1,whiteSummonDragon,1,100,summonDragon,1,25,300,1.5,0.5,0.016,0.73,
+hellspawn1,hellspawn,1,100,summonDemonDragon,1,25,300,1.5,0.8,0.0192,0.8,
+summonWaterSpirit1,summonWaterSpirit,1,100,summonWaterSpirit,1,25,200,1.5,0.8,0.04,0.6,
+summonSwarm1,summonSwarm,1,100,summonSwarm,1,25,100,1.5,0.7,0.04,0.6,
+holidayHelper1,holidayHelper,1,100,holidayHelper,1,25,100,1.5,0.7,0.025,0.8,!@#efjnhoeodpnkgdhl

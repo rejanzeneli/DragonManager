@@ -1,0 +1,7 @@
+identifier,attackType,compoundEffectIdentifier,pathingEffectIdentifier,battleTextIdentifier,allyBuildingTypes,perNeighborPercentageActivatedAttackIncrease,allyBoostedParticleEffectIdentifier,h
+String,String,String,String,String,String,Integer,String,String
+hpReductionLightningSpecial,lightning:1.0,,,windFlakBoostedSuperShotText,lightningTower|lightningTowerTutorial,30,electro_flak_buff,
+hpReductionLightningSpecialHurricane,lightning:2.0,,,lightningShotHurricaneText,lightningTower|lightningTowerTutorial,30,electro_flak_buff,
+hpReductionFlakSuper,flak:1.0,,,windFlakBoostedSuperShotText,elementalFlakWind,25,electro_flak_buff,
+hpReductionFireFlakSuper,fireFlak:1.0,,,windFlakBoostedSuperShotText,elementalFlakWind,25,electro_flak_buff,
+hpReductionIceFlakSuper,iceFlak:1.0,,,windFlakBoostedSuperShotText,elementalFlakWind,25,electro_flak_buff,!@#geomfldcijipnpbm

@@ -1,0 +1,5 @@
+identifier,effects,ignoresUntargetable,ignoresSummon,maxTime,triggerInterval,range,duration,h
+String,String,Float,Integer,Integer,Float,Float,Float,String
+ceilDamageEffectsModule25,applyActionOnNearbyBuildings:targetTowerActions2,,,,,,-1,
+ceilDamageEffectsModule50,applyActionOnNearbyBuildings:targetTowerActions3,,,,,,-1,
+slowAmmoRegen,slowAttack:slow90,,,,,90,-1,!@#kddmibkfnindooef

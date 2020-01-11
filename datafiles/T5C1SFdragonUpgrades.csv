@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T5C1SFdragon_1,1,food:0,1,,86740,6118,lockon:T5C1SFdragon_lockon,,5882,food:77,4.2,rage3,5,14781,1,experience:0,2000,
+T5C1SFdragon_2,2,food:14982,1,,93106,6765,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1,6265,food:82,4.2,rage3,6,18764,1,experience:0,3432,
+T5C1SFdragon_3,3,food:16169,1,,99069,7464,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1,6712,food:87,4.2,rage3,6,24327,1,experience:0,3911,
+T5C1SFdragon_4,4,food:17388,1,,106290,8273,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1,7177,food:92,4.2,rage3,6,30799,1,experience:0,4488,
+T5C1SFdragon_5,5,food:20952,1,,114009,9169,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,7674,food:97,4.2,rage3,6,38027,1,experience:0,6860,
+T5C1SFdragon_6,6,food:22032,1,,121272,10109,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,8216,food:102,4.2,rage3,7,42814,1,experience:0,7812,
+T5C1SFdragon_7,7,food:23112,1,,130029,11196,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,8781,food:107,4.2,rage3,7,48190,1,experience:0,8954,
+T5C1SFdragon_8,8,food:30240,1,,139386,12329,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,9315,food:112,4.2,rage3,7,53809,1,experience:0,10184,
+T5C1SFdragon_9,9,food:32400,1,,148225,13442,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,9829,food:120,4.2,rage3,8,80416,1,experience:0,11427,
+T5C1SFdragon_10,10,food:45903,1,,179331,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,10292,food:128,4.2,rage3,8,90462,1,experience:0,14480,
+T5C1SFdragon_11,11,food:48772,1,,186118,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,10717,food:136,4.2,rage3,8,123505,1,experience:0,15662,
+T5C1SFdragon_12,12,food:63161,1,,191863,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,11115,food:144,4.2,rage3,9,138885,1,experience:0,16716,
+T5C1SFdragon_13,13,food:66670,1,,199431,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,11589,food:152,4.2,rage3,9,182543,1,experience:0,18146,
+T5C1SFdragon_14,14,food:82044,1,,207431,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,12164,food:160,4.2,rage3,9,203709,1,experience:0,19800,
+T5C1SFdragon_15,15,food:88197,1,,220453,14400,lockon:T5C1SFdragon_lockon,shortCircuit:shortCircuit1|ballistaResist01:ballistaResist01,12864,food:172,4.2,rage3,10,0,1.2,experience:0,22275,!@#blafdegalomjelhb

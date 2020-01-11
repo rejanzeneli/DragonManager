@@ -1,0 +1,12 @@
+identifier,inBundle,sceneFilename,animationKeyMappingCSVFilename,isBatched,shouldCastShadows,h
+String,Integer,String,String,Integer,Integer,String
+soldier,1,char_soldier.lvl,SoldierAnimationKeyMapping.csv,1,,
+farmer,1,char_farmer.lvl,FarmerAnimationKeyMapping.csv,1,,
+fisherman,1,char_fisherman.lvl,FishermanAnimationKeyMapping.csv,1,,
+mage,1,char_mage.lvl,MageAnimationKeyMapping.csv,1,,
+shepard,1,char_shepard.lvl,ShepardAnimationKeyMapping.csv,1,,
+sheep,1,char_sheep_01.lvl,SheepAnimationKeyMapping.csv,1,,
+dragon,,char_dragon.lvl,DragonAnimationKeyMapping.csv,,1,
+mageMystic,1,char_mage_mystic.lvl,MageMysticAnimationKeyMapping.csv,1,,
+lumberjack,1,char_lumberjack_working.lvl,LumberjackAnimationKeyMapping.csv,1,,
+lumberjackDirecting,1,char_lumberjack_directing.lvl,LumberjackDirectingAnimationKeyMapping.csv,1,,!@#nccgdijohbnjjldp

@@ -1,0 +1,3 @@
+identifier,boostPercent,radius,time,battleTextIdentifier,h
+String,Integer,Integer,Float,String,String
+temporaryBoost,40,60,5,boostShotText,!@#cadamfpeeedmadbk

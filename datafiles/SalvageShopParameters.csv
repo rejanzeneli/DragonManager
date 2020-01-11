@@ -1,0 +1,18 @@
+key,value,localizedValue,h
+String,String,LocalizedString,String
+numberOfItems,3,,
+defaultItems,,,
+purchaseCap,100,,
+frequencyBounds,3|6,,
+maxDraws,10,,
+currencyConsumableSortPriority,1000,,
+currencyConsumableMultiplier,0.2,,
+forgeTab,,Forge,
+salvageShopTab,,Daily Shop,
+salvageTab,,Salvage,
+foodPack,,Food Packs,
+piercingPack,,Wood Packs,
+xpPotion,,XP Potion,
+contextMenuDisplayString,,"Forge, Buy or Salvage boosts here.",
+currencyAmountIncorrect,,Your currency amount is not correct. Please try again later.,
+distanceBetweenForgeNodeToUpgradeNode,330,,!@#kcinemhenhaljdko

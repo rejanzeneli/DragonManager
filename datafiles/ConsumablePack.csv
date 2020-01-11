@@ -1,0 +1,2 @@
+identifier,inBundle,displayName,consumablePackDescription,icon,purchaseCost,rewards,h
+String,Integer,String,String,String,Map<String:Integer>,Map<String:Integer>,String

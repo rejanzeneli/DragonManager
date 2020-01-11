@@ -1,0 +1,4 @@
+identifier,sceneFile,displayText,poleSceneFile,h
+String,String,LocalizedString,String,String
+currentBaseTeamFlag,flagUpright.lvl,%@ x %d!,poleUpright.lvl,
+otherTeamFlag,flagHanging.lvl,Captured %@ x %d!,poleHanging.lvl,!@#nboamkddfabohilf

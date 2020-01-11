@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,attackPercentageModifier,healthReturnOnAttack,rageReturnOnAttack,h
+String,String,String,Integer,Integer,Integer,Integer,String
+cosmicEnergy1,,1,100,75,10000,20,
+risingTemper1,risingTemper,1,100,35,0,0,!@#pcobfkoclhenikno

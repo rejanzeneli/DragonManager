@@ -1,0 +1,3 @@
+identifier,percentageOfSourceHP,battleTextIdentifier,healedTurretNumber,percentageOfTargetHP,vfxIdentifiers,h
+String,Integer,String,Integer,Float,String,String
+stealHealth,100,repairShotText,,,healTarget,!@#nnmdoamipfgopnkj

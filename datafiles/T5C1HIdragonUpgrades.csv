@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T5C1HIdragon_1,1,food:0,1,,81637,6118,fireball:T5C1HIdragon_fireball,,6228,food:77,4.2,rage1,5,14781,1,experience:0,2000,
+T5C1HIdragon_2,2,food:14982,1,,87629,6765,fireball:T5C1HIdragon_fireball,dodge:dodge1,6634,food:82,4.2,rage1,6,18764,1,experience:0,3432,
+T5C1HIdragon_3,3,food:16169,1,,93241,7464,fireball:T5C1HIdragon_fireball,dodge:dodge1,7107,food:87,4.2,rage1,6,24327,1,experience:0,3911,
+T5C1HIdragon_4,4,food:17388,1,,100038,8273,fireball:T5C1HIdragon_fireball,dodge:dodge1,7599,food:92,4.2,rage1,6,30799,1,experience:0,4488,
+T5C1HIdragon_5,5,food:20952,1,,107303,9169,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,8125,food:97,4.2,rage1,6,38027,1,experience:0,6860,
+T5C1HIdragon_6,6,food:22032,1,,114138,10109,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,8700,food:102,4.2,rage1,7,42814,1,experience:0,7812,
+T5C1HIdragon_7,7,food:23112,1,,122380,11196,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,9297,food:107,4.2,rage1,7,48190,1,experience:0,8954,
+T5C1HIdragon_8,8,food:30240,1,,131187,12329,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,9863,food:112,4.2,rage1,7,53809,1,experience:0,10184,
+T5C1HIdragon_9,9,food:32400,1,,139506,13442,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,10408,food:120,4.2,rage1,8,80416,1,experience:0,11427,
+T5C1HIdragon_10,10,food:45903,1,,168782,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,10898,food:128,4.2,rage1,8,90462,1,experience:0,14480,
+T5C1HIdragon_11,11,food:48772,1,,175170,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,11347,food:136,4.2,rage1,8,123505,1,experience:0,15662,
+T5C1HIdragon_12,12,food:63161,1,,180577,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,11769,food:144,4.2,rage1,9,138885,1,experience:0,16716,
+T5C1HIdragon_13,13,food:66670,1,,187700,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,12271,food:152,4.2,rage1,9,182543,1,experience:0,18146,
+T5C1HIdragon_14,14,food:82044,1,,195230,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,12880,food:160,4.2,rage1,9,203709,1,experience:0,19800,
+T5C1HIdragon_15,15,food:88197,1,,207485,14400,fireball:T5C1HIdragon_fireball,dodge:dodge1|cannonResist01:cannonResist01,13621,food:172,4.2,rage1,10,0,1.2,experience:0,22275,!@#bfohekgednholbgn

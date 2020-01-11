@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T3GGHEdragon_1,1,food:0,1,,107227,8210,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,8173,food:109,4.2,rage1,6,19701,1,experience:0,6778,
+T3GGHEdragon_2,2,food:19707,1,,115043,9101,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,8739,food:115,4.2,rage1,6,22190,1,experience:0,7779,
+T3GGHEdragon_3,3,food:23746,1,,123398,10086,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,9344,food:122,4.2,rage1,6,28159,1,experience:0,8918,
+T3GGHEdragon_4,4,food:24970,1,,131259,11120,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,10005,food:128,4.2,rage1,7,36484,1,experience:0,10156,
+T3GGHEdragon_5,5,food:26194,1,,140737,12315,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,10692,food:134,4.2,rage1,7,46159,1,experience:0,11640,
+T3GGHEdragon_6,6,food:34272,1,,150865,13562,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,11342,food:140,4.2,rage1,7,56974,1,experience:0,13239,
+T3GGHEdragon_7,7,food:36720,1,,160431,14786,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,11969,food:150,4.2,rage1,8,64107,1,experience:0,14855,
+T3GGHEdragon_8,8,food:39168,1,,194099,15840,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,12532,food:160,4.2,rage1,8,72115,1,experience:0,18824,
+T3GGHEdragon_9,9,food:41616,1,,201445,15840,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,13049,food:170,4.2,rage1,8,80498,1,experience:0,20361,
+T3GGHEdragon_10,10,food:44064,1,,207663,15840,fireball:T3GGHEdragon_fireball,instantKill:instant1|cloak:cloak1|cannonResist01:cannonResist01,13534,food:180,4.2,rage1,9,0,1.2,experience:0,21731,!@#ofpdobpnlmpnabjf

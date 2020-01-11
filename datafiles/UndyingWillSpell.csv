@@ -1,0 +1,3 @@
+identifier,duration,ammoRegenPercentage,attackBonusPercentage,speedMultiplier,h
+String,Float,Float,Float,Float,String
+undyingWill1,6,200,115,0.5,!@#ebfajpklfhmekhcj

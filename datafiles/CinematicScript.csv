@@ -1,0 +1,15 @@
+identifier,actionType,actionArgs,frameNumber,h
+String,String,String,Integer,String
+addEggToIncubator_0,attach,eggEffect1:fxParent1,60,
+addEggToIncubator_1,attach,eggEffect2:fxParent2,60,
+addEggToIncubator_2,attach,eggEffect3:fxParent3,60,
+addEggToIncubator_3,shader,egg:egg,100,
+addEggToIncubator_4,addFullScreenOverlay,vignette.ppng,0,
+addEggToIncubator_5,removeFullScreenOverlay,vignette.ppng,160,
+hatchEgg1_0,animate,egg:idle,0,
+hatchEgg1_1,detach,egg,160,
+hatchEgg1_2,detach,eggEffect1,90,
+hatchEgg1_3,detach,eggEffect2,90,
+hatchEgg1_4,detach,eggEffect3,90,
+hatchEgg1_5,addFullScreenOverlay,vignette.ppng,0,
+hatchEgg2_0,removeFullScreenOverlay,vignette.ppng,68,!@#libfjomnnbmhpcgk

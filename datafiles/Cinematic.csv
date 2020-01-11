@@ -1,0 +1,21 @@
+identifier,inBundle,animationFilename,cameraNode,attachmentParents,timeBeforeEndToStartUI,smoothCameraTransitionAtBeginning,begginingTransitionDuration,smoothCameraTransitionAtEnding,endingTransitionDuration,smoothCameraFOVTransitionAtEnding,customShaderPrograms,h
+String,Integer,String,String,String,Float,Integer,Float,Integer,Float,Integer,String,String
+dragonIntro1,1,Dragon_Intro_start.POD,Camera002,Dummy_Dragon,0,0,,,,0,,
+dragonIntro2,1,Dragon_Intro_End.POD,Camera002,Dummy_Dragon,0,0,,,,0,,
+dragonFlightPathLarge,1,drg_flightPath_large.POD,,Dummy_Dragon,0,0,,,,0,,
+dragonFlightPathSmall,1,drg_flightPath_small.POD,,Dummy_Dragon,0,0,,,,0,,
+battleIntro,1,Dragon_Attack_Start.POD,Camera002,Dummy_Dragon,0,0,,,,0,,
+battleDefenseIntro,1,cin_defenseIntro_camera.POD,Camera001,Dummy_dragon,0,0,,,,0,,
+dragonDiedLost,1,dragon_endAttackLose_dragonDies.POD,Camera001,Dummy_Dragon,2,0,,,,0,,
+dragonDiedWon,1,dragon_endAttackSuccess_dragonDies.POD,Camera001,Dummy_Dragon,2,0,,,,0,,
+dragonLivedLost,1,dragon_endAttackLose_dragonLives.POD,Camera001,Dummy_Dragon,2,0,,,,0,,
+dragonLivedWon,1,dragon_endAttackSuccess_dragonLives.POD,Camera001,Dummy_Dragon,2,0,,,,0,,
+dragonBattlePreviewStart,1,Dragon_AttackTransition_Start.POD,Camera002,Dummy_Dragon|Dummy_Dragon002|Dummy_Dragon003|Dummy_Dragon004,0,0,,,,0,,
+dragonBattlePreviewEnd,1,Dragon_AttackTransition_End.POD,Camera002,Dummy_Dragon|Dummy_Dragon001|Dummy_Dragon002|Dummy_Dragon003|Dummy_Dragon004,0,0,,,,0,,
+dragonUpgrade,1,cin_upgradeDragon_camera position.POD,Camera001,Dummy_Dragon,0,1,1.5,,,0,,
+addEggToIncubator,1,cin_eggIncubator_addingEgg.POD,Camera001,Dummy_dragon,0,1,2.5,1,2,0,,
+hatchEgg1,1,cin_eggIncubator_eggHatching_start.POD,Camera001,Dummy_Dragon,0,1,2.5,0,0,0,,
+hatchEgg2,1,cin_eggIncubator_eggHatching_end.POD,Camera001,Dummy_Dragon,0,0,0,0,0,0,,
+dragonIncubatorHover,1,cin_eggLayingDragonHover.POD,,Dummy_Dragon,0,0,,,,0,,
+buildingShowcaseRotate,1,cin_buildingShowcase_rotate.POD,Camera001,showcaseBox,0,0,,,,0,,
+eventIslandView,1,cam_eventIslandCinematic_anim_intro.POD,EventCinematicCamera,loc_eventIslandCam,,,,0,0.75,1,,!@#jomdknfogahekfnl

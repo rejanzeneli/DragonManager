@@ -1,0 +1,6 @@
+identifier,level,commonIdentifier,maxTimes,speedMultiplier,dodgePercentage,duration,ragePoints,cooldown,h
+String,String,String,Integer,Float,Integer,Float,Float,Float,String
+dodge1,1,,100,5,75,4.5,200,,
+flash1,1,flash,100,0.5,100,4.25,100,3,
+dodgeCon,1,,1,5,75,3,0,,
+mystify1,1,mystify,100,0.5,100,3,100,5,!@#defmmkjkfidcohho

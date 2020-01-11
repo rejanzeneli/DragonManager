@@ -1,0 +1,7 @@
+identifier,displayName,icon,totemIdentifier,inBundle,isActiveElement,perchCircleImageByPerch,h
+String,LocalizedString,String,String,Integer,Integer,String,String
+windElement,WIND,icon_element_wind.png,windTotem,0,1,perchIsland03:perchRing_left_wind.png|perchIsland06:perchRing_center_wind.png|perchIsland08:perchRing_right_wind.png,
+earthElement,EARTH,icon_element_earth.png,earthTotem,0,1,perchIsland03:perchRing_left_earth.png|perchIsland06:perchRing_center_earth.png|perchIsland08:perchRing_right_earth.png,
+darkElement,DARK,icon_element_dark.png,darkTotem,0,1,perchIsland03:perchRing_left_dark.png|perchIsland06:perchRing_center_dark.png|perchIsland08:perchRing_right_dark.png,
+fireElement,FIRE,icon_element_fire.png,fireTotem,0,1,perchIsland03:perchRing_left_fire.png|perchIsland06:perchRing_center_fire.png|perchIsland08:perchRing_right_fire.png,
+iceElement,ICE,icon_element_ice.png,iceTotem,0,1,perchIsland03:perchRing_left_ice.png|perchIsland06:perchRing_center_ice.png|perchIsland08:perchRing_right_ice.png,!@#pcgiaemibnjdnjke

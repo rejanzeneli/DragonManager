@@ -1,0 +1,5 @@
+identifier,textureFile,inBlack,inGamma,inWhite,hue,saturation,lightness,h
+String,String,Integer,Float,Integer,Integer,Integer,Integer,String
+test,,0,1,255,0,0,0,
+default,RGBLookupTable.png,,,,,,,
+sepia,RGBLookupTable_Sepia.png,,,,,,,!@#nliojdmnbhndjbmn

@@ -1,0 +1,11 @@
+identifier,displayName,purchaseCurrencyFormat,expandDuration,initialState,unlockAchievement,unlockRegion,researchRequirements,unexpandedPodNames,collisionPodName,tapPriority,attachmentNode,monumentNode,boostCameraNode,h
+String,String,String,Integer,String,String,String,String,String,String,Integer,String,String,String,String
+island00,UNEXPLORED ISLAND,,,EXPANDED,bothTutorialUnlockIsland00,,,ter_level03_island00_cloudPlanes_layer01.POD,,1,,,,
+island01,UNEXPLORED ISLAND,food:12,360,EXPANDED,bothTutorialUnlockIsland01,island00,,ter_level03_island01_cloudPlanes_layer01.POD,,9,,,,
+island02,TEMPLE ISLAND,food:144,900,LOCKED,level03,island01,,ter_level03_island02_cloudPlanes_layer01.POD,ter_level03_island02_cloudPlanes_col.pod,8,FX_attachpoint_island02,FX_attachpoint_monument02,DITM_island02_camera,
+island03,LIGHTHOUSE ISLAND,food:588,21600,LOCKED,bothTutorialDelayAfterSlideShow,island02,,ter_level03_island03_cloudPlanes_layer01.POD,,7,FX_attachpoint_island03,FX_attachpoint_monument03,DITM_island03_camera,
+island04,WATER GATE ISLAND,food:1638,57600,LOCKED,bothTutorialDelayAfterSlideShow,island03,,ter_level03_island04_cloudPlanes_layer01.POD,,6,FX_attachpoint_island04,FX_attachpoint_monument04,DITM_island04_camera,
+island05,LIBRARY ISLAND,food:3402,129600,LOCKED,bothTutorialDelayAfterSlideShow,island04,,ter_level03_island05_cloudPlanes_layer01.POD,,5,FX_attachpoint_island05,FX_attachpoint_monument05,DITM_island05_camera,
+island06,STATUE ISLAND,food:10080,216000,LOCKED,bothTutorialDelayAfterSlideShow,island05,,ter_level03_island06_cloudPlanes_layer01.POD,,4,FX_attachpoint_island06,FX_attachpoint_monument06,DITM_island06_camera,
+island07,MOUNT DRAGON,food:37800,432000,LOCKED,bothTutorialDelayAfterSlideShow,island06,,ter_level03_island07_cloudPlanes_layer01.POD,,3,FX_attachpoint_island07,FX_attachpoint_monument07,DITM_island07_camera,
+island08,TRIPLE TOWERS ISLAND,food:69300,691200,LOCKED,bothTutorialDelayAfterSlideShow,island07,,ter_level03_island08_cloudPlanes_layer01.POD,,2,FX_attachpoint_island08,FX_attachpoint_monument08,DITM_island08_camera,!@#kkkepeniajkinpbn

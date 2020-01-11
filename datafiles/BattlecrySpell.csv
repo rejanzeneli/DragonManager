@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,rounds,cooldown,attackBonusPercentage,ragePoints,h
+String,String,String,Integer,Integer,Float,Integer,Float,String
+battlecry1,,1,100,2,0,20,300,
+battlecryCon,,1,1,2,0,23,0,
+warcry1,warcry,1,100,2,4,8,200,
+battleScreech1,battleScreech,1,100,5,8,9,100,!@#jhcbggpcegiipdpf

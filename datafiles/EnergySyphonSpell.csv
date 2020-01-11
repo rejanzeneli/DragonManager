@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,maxTimes,ragePoints,duration,percentHPHeal,rageToRestore,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,String
+syphon1,,1,100,300,7,0.16,33,,
+syphonCon,,1,1,0,7,0.06,33,,
+soulDevour1,soulDevour,1,100,200,5,0.25,75,,!@#onfpjchognipidim

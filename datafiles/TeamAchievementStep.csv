@@ -1,0 +1,10 @@
+identifier,requirementClassString,requiredAmount,title,requirementDescription,badgeImage,serverKey,h
+String,String,Integer,LocalizedString,LocalizedString,String,String,String
+leader,GuildHonorRequirement,1,Leader,Win top team of the week on the leaderboard,badge_leader.png,numTopTeamLeaderboard,
+strongLeadership,GuildHonorRequirement,5,Strong Leadership,End the week with 5 officers in the top 25 players,badge_strongLeadership.png,numOfficersAndLeadersInTop25,
+highEngagement,GuildHonorRequirement,40,High Engagement,Team has at least 40 Very Active members,badge_highEngagement.png,numMembersWithHighActivity,
+toughChoices,GuildHonorRequirement,20,Tough Choices,Team has kicked out over 20 people since inception,badge_toughtChoices.png,numMembersKicked,
+warLords,GuildHonorRequirement,5,War Lords,Team wins 5 wars in one week,badge_warLords.png,numWarsWonInOneWeek,
+knowsNoEqual,GuildHonorRequirement,1000,Knows No Equal,1000 Wars Won,badge_knowsNoEqual.png,numWarsWonInTotal,
+comeWhoDare,GuildHonorRequirement,1,Come Who Dare,Win a defensive war in under 10 minutes,badge_comeWhoDare.png,numDefenseWonInUnderTenMins,
+recruiters,GuildHonorRequirement,50,Recruiters,Reach 50/50 team members,badge_recruiters.png,numMembers,!@#iplngdcaedocpmga

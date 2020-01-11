@@ -1,0 +1,9 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C1HFdragon_1,1,food:0,1,,17335,2801,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,1840,food:5,4.2,rage1,1,1421,1,experience:100,100,
+T2C1HFdragon_2,2,food:195,1,,19775,3291,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,1895,food:14,4.2,rage1,1,2010,1,experience:100,200,
+T2C1HFdragon_3,3,food:474,1,,20232,3564,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,2006,food:28,4.2,rage1,2,2529,1,experience:100,300,
+T2C1HFdragon_4,4,food:886,1,,22384,4206,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,2139,food:34,4.2,rage1,3,2833,1,experience:100,400,
+T2C1HFdragon_5,5,food:1354,1,,26770,5143,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,2187,food:39,4.2,rage1,3,3136,1,experience:100,500,
+T2C1HFdragon_6,6,food:1982,1,,29035,6012,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,2357,food:45,4.2,rage1,4,3468,1,experience:100,600,
+T2C1HFdragon_7,7,food:2901,1,,34171,8168,fireball:T2C1HFdragon_fireball,aoeSpell:aoe18|archerResist01:archerResist01,2721,food:52,4.2,rage1,5,0,1.5,experience:100,700,!@#encgdcgegkdfoacm

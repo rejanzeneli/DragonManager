@@ -1,0 +1,10 @@
+identifier,commonIdentifier,level,maxTimes,healAsPercentageOfMaxHP,healTime,ragePoints,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,String
+heal1,,1,100,0.23,4,200,,
+healCon,,7,1,0.123,2.5,0,,
+superHeal,,1,4,0.25,2,5,,
+superRejuvenate1,superRejuvenate,1,100,0.23,2,200,,
+regenerate1,regenerate,1,100,0.31,2,0,4,
+whiteSuperRejuvenate1,whiteSuperRejuvenate,1,100,0.23,2,200,,
+revitalize1,revitalize,1,100,0.4,2,200,4,
+hibernate1,hibernate,1,1,1,12,0,,!@#djnahobdbpjfckpp

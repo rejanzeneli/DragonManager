@@ -1,0 +1,8 @@
+identifier,ccbNode,location,targetAction,name,isEnable,h
+String,String,Integer,String,LocalizedString,Integer,String
+position1,atlasQuestNode,1,atlasQuest,Quests,1,
+position2,teamOwnershipNode,2,teamOwnerShip,Castles,1,
+position3,reportNode,3,battleReport,Ledger,1,
+position4,settingsNode,4,settings,Settings,1,
+position5,riderMissionNode,5,riderMission,Missions,1,
+position6,allianceNode,6,alliance,Alliance,1,!@#hmcmekbooignccnp

@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,damageAsPercentageOfMaxHP,ragePoints,duration,maxTimes,range,splashRange,cooldown,h
+String,String,String,Float,Integer,Float,Integer,Float,Float,Float,String
+selfDestruct1,,1,0.67,200,4,100,80,25,,
+selfDestructCon,,1,0.46,0,4,1,80,25,,
+bellyFlop1,bellyFlop,1,0.7,200,4,100,80,25,,
+heroicSacrifice1,heroicSacrifice,1,0.8,0,3,100,80,25,2,!@#gembnncfbmjmgfmp

@@ -1,0 +1,14 @@
+identifier,sendImmediately,sendField,sendValue,h
+String,Integer,String,String,String
+eggs_purchase,1,eggPurchaseType,EggPurchaseTypePremium,
+mid_battle_reward,1,,,
+currency_iap_purchase,1,,,
+claim_award,1,,,
+battle_dragon_food_spend,0,,,
+dragon_upgrade_level,0,,,
+dragon_transfer_reqd_xp,0,,,
+dragon_transfer_individual_dragon_xp,0,,,
+dragon_rider_upgrade_level,1,,,
+rider_skills_reset,1,,,
+rider_gear_equip,1,,,
+bookmark_update,1,,,!@#diondkoabceooffj

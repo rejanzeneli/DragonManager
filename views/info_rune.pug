@@ -1,0 +1,29 @@
+div(class="row" data-values= rune.name.toUpperCase())
+  h6(class="green lighten-5") #{rune.name.toUpperCase()}
+  table(class="striped")
+    tbody
+      tr
+        td(width="28%") LEVEL
+        - let level = 1;
+        while level <= kMaxCol
+          td(width="12%")= level++
+      tr
+        td(width="28%")  COST FOR NEXT LEVEL
+        each level in rune.costs
+          td= level
+        if rune.costs.length < kMaxCol
+          td(colspan= kMaxCol-rune.costs.length) &nbsp;
+      tr
+        td(width="28%")  #{rune.description1.toUpperCase()}
+        each buff in rune.enhance1
+          td= buff
+        if rune.enhance1.length < kMaxCol
+          td(colspan= kMaxCol - rune.enhance1.length) &nbsp;
+      if rune.description2
+        tr
+          td(width="28%")  #{rune.description2.toUpperCase()}
+          each buff in rune.enhance2
+            td= buff
+          if rune.enhance2.length < kMaxCol
+            td(colspan= kMaxCol - rune.enhance2.length) &nbsp;
+

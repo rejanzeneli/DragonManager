@@ -1,0 +1,15 @@
+identifier,inBundle,languageName,languageEnglishName,languageNativeName,isActive,h
+String,Integer,LocalizedString,String,String,Integer,String
+en,1,English,English,English,1,
+fr,0,French,French,Français,1,
+de,0,German,German,Deutsch,1,
+zh-Hans,0,Simplified Chinese,Simplified Chinese,简体中文,1,
+zh-Hant,0,Traditional Chinese,Traditional Chinese,繁体中文,1,
+ja,0,Japanese,Japanese,日本語,1,
+es,0,Spanish,Spanish,Español,1,
+it,0,Italian,Italian,Italiano,1,
+ko,0,Korean,Korean,한국어,1,
+pt,0,Portuguese,Portuguese,Português,1,
+ru,0,Russian,Russian,Русский,1,
+tr,0,Turkish,Turkish,Türkçe,1,
+ar,0,Arabic,Arabic,العربية,1,!@#hbmgikleleffcjhm

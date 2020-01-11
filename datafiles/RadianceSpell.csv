@@ -1,0 +1,3 @@
+identifier,level,maxTimes,attackBonusPercentage,healAsPercentageOfMaxHP,damageAsPercentageOfMaxHP,explosionRadius,ragePoints,h
+String,String,Integer,Integer,Float,Float,Float,Float,String
+radiance1,1,100,80,0.17,0.06,80,0,!@#pbilhjfdbhceihda

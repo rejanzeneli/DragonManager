@@ -1,0 +1,104 @@
+extends layout
+
+block content
+
+  div(class="section row")
+    div(class="col s12 valign-wrapper")
+      img(src="/icons/" + dragon.info.elementIcon height="24" width="24")
+      h5(class="flow-text") &nbsp; #{dragon.info.displayName.toUpperCase()} -
+        i &nbsp; #{dragon.info.tierName} #{dragon.info.defaultRarity} #{dragon.info.dragonClass}
+
+  div(class="row")
+    p(class="col s12 center-align flow-text")
+      | Breeding Castle (to use for breeding): #{dragon.info.minBreedingCaveBuildingLevelToBreed},
+      | &nbsp; Incubator: #{dragon.info.incubationBuildingLevelRequirement},
+      | &nbsp; Incubation time: #{dragon.info.incubatingTime},
+      | &nbsp; Breedable level: #{dragon.info.minDragonLevelForBreeding}
+      if dragon.info.isUnbreedableDragon === ''
+        | ,&nbsp; Fragments: #{dragon.info.numberOfFragmentsNeeded}
+
+  if dragon.info.isEvolveDragon === "1"
+    div(class="row container")
+      blockquote
+        h6(class="center-align red-text") NOTE: FOR DIVINE/SEASON DRAGONS YOU MUST HAVE HATCHED THE DRAGONS. IT IS NOT ENOUGH TO HAVE THE EGG.
+
+  div(class="section row")
+    div(class="col s12")
+      ul(class="collection")
+        each spell in dragon.info.spellLevels
+          li(class="collection-item") #{spell.spell.name}
+            | &nbsp;
+            - var rage = 1;
+            while rage <= 3
+              if rage <= spell.spell.ragePoints
+                i(class="material-icons orange-text") stop
+              else
+                i(class="material-icons grey-text") stop
+              - rage++;
+            i(class="hide-on-med-and-down")
+              | &nbsp; - (#{spell.spell.description})
+            each typecolor in spell.spell.typecolor
+              div(class="right thin-border " + typecolor)
+                span(class="badge black-text") #{spell.level}
+
+  div(class="row section")
+    div(class="row" data-dragon= dragon.info.identifier data-maxlevel= dragon.info.defaultMaxLevel)#dragonId
+      label
+        h5(class="green-text lighten-3 center-align") DRAGON XP/RSS CALCULATOR
+    div(class="row")
+      div(class="col s10 offset-s1")
+        div#xpCalculator
+        label(for="xpCalculator")#dragonLevels
+    div(class="row")
+      div(class="col s5 offset-s1 center-align")
+        label(for="dragonXpRequired") TOTAL AMOUNT OF XP REQUIRED
+        h5(class="green-text lighten-3 center-align")#dragonXpRequired
+      div(class="col s5 center-align")
+        label(for="dragonRssRequired") TOTAL AMOUNT OF RSS REQUIRED
+        h5(class="green-text lighten-3 center-align")#dragonRssRequired
+
+  div(class="section row")
+    div(class="col s12")
+      table(class="striped centered")#dragon-stats
+        thead(class="white")
+          tr
+            th(class="tooltipped" data-position="bottom" data-tooltip="DRAGON LEVEL") LEVEL
+            th(class="tooltipped" data-position="bottom" data-tooltip="FOOD TO LEVEL") RSS
+            if dragon.levels[0].achievementRequirements
+              th(class="tooltipped" data-position="bottom" data-tooltip="REQUIREMENTS FOR THIS LEVEL") REQ
+            th(class="tooltipped" data-position="bottom" data-tooltip="STORAGE REQUIRED") STORAGE
+            th(class="tooltipped" data-position="bottom" data-tooltip="PLAYER LEVEL REQUIRED") PLAYER
+            th(class="tooltipped" data-position="bottom" data-tooltip="DEN LEVEL REQUIRED") DEN
+            th(class="tooltipped" data-position="bottom" data-tooltip="XP TO FINISH THIS LEVEL") XP
+            th(class="tooltipped" data-position="bottom" data-tooltip="ALL XP FROM LEVEL 1 TO THIS LEVEL") XPSUM
+            th(class="tooltipped" data-position="bottom" data-tooltip="HEALTH AT THIS LEVEL") HP
+            th(class="tooltipped" data-position="bottom" data-tooltip="DAMAGE PR SECOND") D/SEC
+            th(class="tooltipped" data-position="bottom" data-tooltip="ATTACK POWER") AP
+
+        tbody
+          each level in dragon.levels
+            -let borderColor = "";
+            if dragon.info.minDragonLevelForBreeding !== "1"
+              if dragon.info.minDragonLevelForBreeding === level.level
+                -borderColor = "breed-border";
+
+            tr
+              td(class= borderColor)= level.level
+              td(class= borderColor)= level.upgradeCost
+              if level.achievementRequirements
+                td(class= borderColor)= level.achievementRequirements
+              td(class= borderColor)= level.storageRequired
+              td(class= borderColor)= level.levelRequired
+              td(class= borderColor)= level.requiredStableLevel
+              td(class= borderColor)= level.upgradeXP
+              td(class= borderColor)= level.xpSum
+              td(class= borderColor)= level.HP
+              td(class= borderColor)= level.attackPower
+              td(class= borderColor)= level.powerLevel
+
+block inlinecode
+  script(src ='/js/dm_dragons.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.dragons.init(backend);

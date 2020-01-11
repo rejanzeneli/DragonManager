@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T7C1HFdragon_1,1,food:0,1,,460303,14400,fireball:T7C1HFdragon_fireball,,26111,food:304,4.2,rage1,15,166595,1,experience:0,47320,
+T7C1HFdragon_2,2,food:85320,1,,475894,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1,27134,food:316,4.2,rage1,16,202233,1,experience:0,76266,
+T7C1HFdragon_3,3,food:88560,1,,495433,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1,28328,food:328,4.2,rage1,16,248621,1,experience:0,82911,
+T7C1HFdragon_4,4,food:91800,1,,516033,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1,29745,food:340,4.2,rage1,17,296679,1,experience:0,90668,
+T7C1HFdragon_5,5,food:95041,1,,547825,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,31436,food:352,4.2,rage1,17,350276,1,experience:0,135600,
+T7C1HFdragon_6,6,food:98280,1,,585102,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,33341,food:364,4.2,rage1,18,374062,1,experience:0,153659,
+T7C1HFdragon_7,7,food:101520,1,,624823,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,35521,food:376,4.2,rage1,18,397040,1,experience:0,174778,
+T7C1HFdragon_8,8,food:104760,1,,663196,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,37884,food:388,4.2,rage1,18,423910,1,experience:0,197883,
+T7C1HFdragon_9,9,food:108000,1,,708063,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,40348,food:400,4.2,rage1,19,601057,1,experience:0,225024,
+T7C1HFdragon_10,10,food:147750,1,,755861,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,42975,food:412,4.2,rage1,19,637870,1,experience:0,255840,
+T7C1HFdragon_11,11,food:152053,1,,802141,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,45819,food:424,4.2,rage1,19,832686,1,experience:0,289476,
+T7C1HFdragon_12,12,food:191237,1,,856121,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,48786,food:436,4.2,rage1,20,888620,1,experience:0,328970,
+T7C1HFdragon_13,13,food:196501,1,,913619,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,51883,food:448,4.2,rage1,20,1102302,1,experience:0,373320,
+T7C1HFdragon_14,14,food:235874,1,,969410,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,55147,food:460,4.2,rage1,20,1169589,1,experience:0,421038,
+T7C1HFdragon_15,15,food:242027,1,,1028573,14400,fireball:T7C1HFdragon_fireball,galvanicOverloadSpell:galvanicOverload1|iceTurretResist01:iceTurretResist01,58381,food:472,4.2,rage1,21,0,1.2,experience:0,472920,!@#iogmhdbhklambpem

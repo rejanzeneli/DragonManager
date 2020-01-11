@@ -1,0 +1,17 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T2C2WIdragon_1,1,food:0,1,,38017,873,flamethrower:T2C2WIdragon_flamethrower,,559,food:26,4.2,rage2,2,1351,1,experience:0,272,
+T2C2WIdragon_2,2,food:1084,1,,39724,966,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1,593,food:28,4.2,rage2,2,2016,1,experience:0,446,
+T2C2WIdragon_3,3,food:1188,1,,42030,1076,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1,624,food:30,4.2,rage2,2,2857,1,experience:0,500,
+T2C2WIdragon_4,4,food:1296,1,,43942,1193,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1,661,food:32,4.2,rage2,3,3980,1,experience:0,556,
+T2C2WIdragon_5,5,food:1690,1,,46473,1351,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,708,food:34,4.2,rage2,3,5366,1,experience:0,840,
+T2C2WIdragon_6,6,food:1828,1,,50533,1580,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,762,food:36,4.2,rage2,3,6172,1,experience:0,987,
+T2C2WIdragon_7,7,food:2074,1,,55458,1882,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,826,food:40,4.2,rage2,3,7011,1,experience:0,1166,
+T2C2WIdragon_8,8,food:3105,1,,60112,2220,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,899,food:44,4.2,rage2,3,8034,1,experience:0,1380,
+T2C2WIdragon_9,9,food:3456,1,,65731,2619,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,970,food:48,4.2,rage2,4,12085,1,experience:0,1632,
+T2C2WIdragon_10,10,food:5073,1,,71034,3019,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1035,food:52,4.2,rage2,4,13800,1,experience:0,1875,
+T2C2WIdragon_11,11,food:6962,1,,89311,4023,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1097,food:56,4.2,rage2,4,19058,1,experience:0,2496,
+T2C2WIdragon_12,12,food:9299,1,,92666,4380,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1151,food:60,4.2,rage2,4,21712,1,experience:0,2727,
+T2C2WIdragon_13,13,food:10106,1,,97043,4777,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1199,food:64,4.2,rage2,5,28637,1,experience:0,2968,
+T2C2WIdragon_14,14,food:15343,1,,100697,5192,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1255,food:68,4.2,rage2,5,32296,1,experience:0,3219,
+T2C2WIdragon_15,15,food:16540,1,,104545,5559,flamethrower:T2C2WIdragon_flamethrower,chargedShield:chargedShield1|stormResist01:stormResist01,1324,food:72,4.2,rage2,5,0,1.2,experience:0,3510,!@#lenifnmcpifdnobd

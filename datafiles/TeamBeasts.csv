@@ -1,0 +1,7 @@
+identifier,beastLevel,regionLevel,displayName,goldMultiplier,shardMultiplier,duration,slots,teamDrops,teamDropTaxRate,bonusTeamDrops,beastModel,huntPowerRequirement,scale,teamTributeBonus,beastVFX,h
+String,Integer,Integer,LocalizedString,Float,Float,Integer,Integer,Map<String:Integer>,Float,Map<String:Integer>,String,Float,Float,Float,String,String
+teamBeast1,1,0,Team Minogator,1,1,86395,5,gold:100000,1,gold:2500000,prop_wm_beast05_team.pod,1,0.013,0.15,UI_wm_amb_prop_beast_backGlow_LOD00.part,
+teamBeast2,2,1,Team Minogator,1,1,86395,7,gold:100000,1,gold:3000000,prop_wm_beast05_team.pod,1,0.013,0.2,UI_wm_amb_prop_beast_backGlow_LOD00.part,
+teamBeast3,3,2,Team Minogator,1,1,86395,9,gold:100000,1,gold:3500000,prop_wm_beast05_team.pod,1,0.013,0.25,UI_wm_amb_prop_beast_backGlow_LOD00.part,
+teamBeast4,4,3,Team Minogator,1,1,86395,12,gold:100000,1,gold:5000000,prop_wm_beast05_team.pod,1,0.013,0.3,UI_wm_amb_prop_beast_backGlow_LOD00.part,
+teamBeast5,5,4,Team Minogator,1,1,86395,15,gold:100000,1,gold:8000000,prop_wm_beast05_team.pod,1,0.013,0.35,UI_wm_amb_prop_beast_backGlow_LOD00.part,!@#ennbceepbacpmfbk

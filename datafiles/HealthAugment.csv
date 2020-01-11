@@ -1,0 +1,13 @@
+identifier,maxAugmentCount,augmentCost,augmentAmount,tooltip,h
+String,Integer,String,Integer,LocalizedString,String
+healthAugmentArcher_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentBallista_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentCannon_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentLightning_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentStorm_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentTrebuchet_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentMageTowerBlue_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentMageTowerRed_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentSmoke_01,0,piercing:0,0,This is the towers health points. ,
+healthAugmentHogFarm_01,3,piercing:30,30,This is the towers health points. ,
+healthAugmentCopperFarm_01,3,piercing:30,30,This is the towers health points. ,!@#amjklfnhggeigoag

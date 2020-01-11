@@ -1,0 +1,16 @@
+extends layout
+
+block content
+
+  div(class="row section")
+    ul(class="collection")
+      each building in buildings
+        include info_building_link
+
+block inlinecode
+
+  script(src='/js/dm_buildings.js')
+  script.
+    $('.menuitem').removeClass('active');
+    $('#menu-buildings').addClass('active');
+    $('#menu-buildings-mobile').addClass('active');

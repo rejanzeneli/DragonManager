@@ -1,0 +1,12 @@
+identifier,level,upgradeCost,upgradeTimeInSeconds,achievementRequirements,HP,fullHealDuration,attackType,abilities,attackPower,battleUseCost,forwardSpeed,spellRageIdentifier,requiredStableLevel,upgradeXP,xpRewardMultiplier,upgradeReward,powerLevel,h
+String,Integer,String,Integer,Array<String>,Float,Integer,String,String,Float,Map<String:Integer>,Float,String,Integer,Integer,Float,String,Integer,String
+T1C1HIdragon_1,1,food:0,1,,6980,120,fireball:T1C1HIdragon_fireball,,829,food:4,4.2,rage1,1,7,1,experience:0,23,
+T1C1HIdragon_2,2,food:3,1,,7175,120,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2,904,food:4,4.2,rage1,1,25,1,experience:0,39,
+T1C1HIdragon_3,3,food:7,1,,7592,120,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2,978,food:5,4.2,rage1,1,41,1,experience:0,45,
+T1C1HIdragon_4,4,food:21,1,,7942,120,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2,1050,food:6,4.2,rage1,1,62,1,experience:0,50,
+T1C1HIdragon_5,5,food:29,1,,8435,120,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1120,food:7,4.2,rage1,1,87,1,experience:0,77,
+T1C1HIdragon_6,6,food:46,1,,10769,167,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1227,food:10,4.2,rage1,1,193,1,experience:0,104,
+T1C1HIdragon_7,7,food:132,1,,11676,199,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1342,food:12,4.2,rage1,1,344,1,experience:0,126,
+T1C1HIdragon_8,8,food:203,1,,13104,244,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1471,food:14,4.2,rage1,1,485,1,experience:0,150,
+T1C1HIdragon_9,9,food:369,1,,14163,290,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1614,food:16,4.2,rage1,1,681,1,experience:0,176,
+T1C1HIdragon_10,10,food:439,1,,15291,346,fireball:T1C1HIdragon_fireball,chainLightning:chainLightning2|archerResist01:archerResist01,1781,food:18,4.2,rage1,1,0,1.2,experience:0,216,!@#kaaaadfjipeebpfa

@@ -1,0 +1,4 @@
+identifier,name,type,value,scope,h
+String,String,String,Array<String>,Integer,String
+fogNearFarMax,fogNearFarMax,vec3,1|10000|0,1,
+fogColor,fogColor,vec3,0|0|1,1,!@#gpbepghenkjaepom

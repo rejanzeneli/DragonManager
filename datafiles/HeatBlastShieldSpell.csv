@@ -1,0 +1,8 @@
+identifier,commonIdentifier,level,maxTimes,duration,damageReductionPercentage,ragePoints,empoweredRagePoints,healAsPercentageOfMaxHP,solarEnergyBonusPerShot,damageAsPercentageOfMaxHP,explosionRadius,h
+String,String,String,Integer,Float,Integer,Float,Float,Float,Integer,Float,Float,String
+heatBlastShield1,,1,100,5,40,200,200,16,25,0.023,80,
+heatBlastShield2,,1,100,5,40,200,200,16,25,0.038,80,
+fireShield1,fireShield,1,100,5,60,200,200,8,0,0,0,
+blazingShield1,blazingShield,1,100,3.5,40,200,200,27,0,0,0,
+purifyingAegis1,purifyingAegis,1,100,4,80,200,200,20,0,0,0,
+vaporShield1,vaporShield,1,100,5,30,0,0,14,0,0,0,!@#gjhbiokmhophbhma

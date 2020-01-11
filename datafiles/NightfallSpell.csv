@@ -1,0 +1,3 @@
+identifier,level,maxTimes,attackBonusPercentage,ragePoints,h
+String,String,Integer,Float,Float,String
+nightfall1,1,100,150,100,!@#kbbkcegnpjjgnalk

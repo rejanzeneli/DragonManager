@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,spellActivationTriggerDragonHPPercentage,damagePercentageIncreaseModifier,h
+String,String,String,Integer,Float,Float,String
+starburn1,,1,100,75,40,
+lionsRage1,lionsRage,1,100,55,60,!@#nphjfajdeadmidal

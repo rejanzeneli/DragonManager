@@ -1,0 +1,6 @@
+identifier,requiredByGame,vertexFile,fragmentFile,vertexPreambles,fragmentPreambles,isAlphaTested,isStatic,staticProgramIdentifier,shouldPreload,h
+String,Integer,String,String,String,String,Integer,Integer,String,Integer,String
+circle,1,post_processing.vert,circle.frag,,,0,1,,,
+glow,1,post_processing.vert,glow.frag,,,0,1,,1,
+brightpass,1,post_processing.vert,brightpass.frag,,,0,1,,1,
+volumetricLighting,1,post_processing.vert,vol_light.frag,,,0,1,,,!@#nbgmaokhcamdblah

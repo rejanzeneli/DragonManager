@@ -1,0 +1,7 @@
+identifier,commonIdentifier,level,ragePoints,maxTimes,cooldown,duration,healAsPercentageOfMaxHP,ammoConvertToHPPercentage,increasedAmmoRegenRateMultiplier,consumedAmmoPercentage,h
+String,String,String,Float,Integer,Float,Float,Float,Float,Integer,Float,String
+consume1,,1,100,100,8,2.5,10,58,1,100,
+bloodEssenceConsume1,bloodEssenceConsume,1,100,100,2.5,2.5,10,58,1,100,
+fightingSpirit1,fightingSpirit,1,100,100,5,2.5,20,58,4,100,
+nourishingShadows1,nourishingShadows,1,200,100,7,2.5,40,0.001,4,0.01,
+maskOfMania1,maskOfMania,1,0,100,3,2.5,10,50,4,100,!@#mdienkkogmklejmd

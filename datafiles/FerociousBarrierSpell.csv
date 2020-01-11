@@ -1,0 +1,3 @@
+identifier,level,maxTimes,duration,ragePoints,damageAbsorbedPercentage,attackBonusPercentage,attackBonusCapPercentage,empoweredDuration,cooldown,h
+String,String,Integer,Float,Float,Float,Float,Float,Float,Float,String
+ferociousBarrier1,1,100,5,100,5,5,115,3,,!@#pdhmekfmbdppbngc

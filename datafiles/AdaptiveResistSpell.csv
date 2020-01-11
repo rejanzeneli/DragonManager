@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,ragePoints,maxTimes,cooldown,rageBonus,healthBonus,resistTypes,h
+String,String,String,Float,Integer,Float,Float,Float,String,String
+adaptiveResist1,,1,0,500,2,50,0,lightningResist01|darkFlakResist01|fireTurretResist01,
+adaptiveFlakResist1,adaptiveFlakResist,1,0,500,1,25,0,iceFlakResist01|darkFlakResist01|fireFlakResist01|windFlakResist01,
+adaptiveImmunity1,adaptiveImmunity,1,0,200,1,25,0,windFlakResist02|darkFlakResist02|fireFlakResist02,!@#jkjepamaleccnjgn

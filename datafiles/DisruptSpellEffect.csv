@@ -1,0 +1,7 @@
+identifier,spellTypes,battleTextIdentifier,h
+String,String,String,String
+disruptSpell,summonAIDragon|frenzySpell|increaseRage,disruptSpellText,
+disruptSpellSilent,summonAIDragon|frenzySpell|increaseRage,,
+disruptCloak,cloak,disruptCloakText,
+disruptShields,invincibleSpell|stoneskin|chargedShield|frozenTomb|heatBlastShield|northernLights|crystallineShield|elementalBarrier|explosiveAegis|ferociousBarrier,,
+disruptAttackPowerBuffs,fireLance,,!@#onbabfelkliejgbj

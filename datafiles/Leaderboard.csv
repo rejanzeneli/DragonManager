@@ -1,0 +1,6 @@
+identifier,displayName,iconFilename,kind,scope,position,needLeagueName,headerIconFilename,h
+String,LocalizedString,String,String,String,Integer,Integer,String,String
+guild-elo-alltime,Rating (Global),icon_medal_01.png,guild,global,0,0,,
+individual-trophies-curweek,Contribution (This Week),icon_rating_01.png,player,global,0,0,,
+individual-trophies-alltime,Contribution (All Time),icon_medal_01.png,player,global,1,0,,
+individual-trophies-alltimeLeague%@,Contribution (%@),icon_medal_01.png,player,guild,2,1,,!@#kdalhipjpdlobogc

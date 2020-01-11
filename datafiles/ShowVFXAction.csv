@@ -1,0 +1,4 @@
+identifier,particleEffects,compoundParticleEffects,sceneFile,effectNodeKey,onSource,pathEffectIdentifier,shouldFadeIn,vfxType,canRefresh,podSceneFile,h
+String,String,String,String,String,Integer,String,Integer,String,Integer,String,String
+healTarget,,,,vampireEffectNode,0,healEffect,,heal,,buildingHealSceneFile,
+damageCeilVFX,spl_DamageCeiling_shield,,,damageCeilVFXNode,,,,,,,!@#afaabpbaipflmcni

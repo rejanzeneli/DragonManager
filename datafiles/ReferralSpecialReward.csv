@@ -1,0 +1,5 @@
+identifier,requiredNumber,requiredLevel,avatarIdentifier,dragonIdentifier,descriptionText,notEnoughText,h
+String,Integer,Integer,String,String,LocalizedString,LocalizedString,String
+refer1,1,1,elvenMaiden,,Refer 1 Person - Unlock the Elven Maiden Portrait,Not Enough People Referred,
+refer1ReferralReach40,1,40,elvenQueen,,Have 1 Referral Reach Level 40 - Unlock the Elven Queen Portrait,Not Enough People Meet Level Required,
+dragon,,,,pbogDragon,Have 20 Referrals Reach Level 20 - Earn The Destroyer Dragon ,Not Enough People Meet Level Required,!@#ecgbjmcoahkecell

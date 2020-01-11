@@ -1,0 +1,4 @@
+identifier,inBundle,activateDelay,radius,sceneFile,initiateParticleEffectIdentifier,viewRadius,ignoreBuildings,h
+String,Integer,Float,Float,String,String,Float,String,String
+invincibleBuildings,1,0.5,30,eff_stormSuper_stormShield.lvl,cmp_ptl_stormSuper_initiate,35,stormTower|elementalFlakEarth,
+earthFlak_invincible,0,0.5,30,eff_stormSuper_stormShield.lvl,cmp_ptl_stormSuper_initiate,35,stormTower|elementalFlakEarth,!@#bdbpjonpcaccmbgi

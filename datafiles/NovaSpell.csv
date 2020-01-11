@@ -1,0 +1,7 @@
+identifier,commonIdentifier,level,maxTimes,damageAsPercentageOfMaxHP,healAsPercentageOfMaxHP,range,ragePoints,rageBonus,duration,cooldown,h
+String,String,String,Integer,Float,Float,Float,Float,Float,Float,Float,String
+nova1,,1,1,0.15,0.3,80,100,300,3,,
+echoingBlast1,echoingBlast,1,100,0.08,0.115,80,0,0,2,7,
+deathKnell1,deathKnell,1,100,0.115,500,80,200,500,2,15,
+eruption1,eruption,1,100,0.15,50,80,200,0,3,18,
+awaken1,awaken,1,1,0.08,100,80,0,500,3,,!@#iohhekldjkochdcd

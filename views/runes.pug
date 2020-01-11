@@ -1,0 +1,33 @@
+extends layout
+
+block content
+
+  div(class="flow-text center-align") #{runetitle}
+  -const kMaxCol = 6;
+  div(class="container section center-align")
+    div(class="row")
+      div(class="input-field col s12 l4")
+        input(placeholder="FILTER TEXT" type="text" data-list=".searchable-runes")#rune-filter
+        label(for="rune-filter") FILTER RUNES BY ...
+
+      div(class="col s12 l8")
+        each rarity in rarities
+          label(style="margin-left: 2em;")
+            input(type="checkbox" class="filled-in rarity-selector" checked="checked" id="select-" + rarity)
+            span= rarity
+
+  each rarity in runes
+    if rarity.length > 0
+      div(class="section runesection runes-" + rarity[0].rarity)
+        div(class="flow-text center-align green-text lighten-3")= rarity[0].rarity.toUpperCase()
+        div(class="container searchable-runes")
+          each rune in rarity
+            include info_rune
+
+block inlinecode
+  script(src='/js/jquery.hideseek.min.js')
+  script(src='/js/dm_runes.js')
+  script.
+    // fetch the backend to use
+    let backend = $('#backendUri').html();
+    dm.runes.init(backend);

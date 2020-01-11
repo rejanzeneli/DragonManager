@@ -1,0 +1,4 @@
+identifier,isEnabled,patternPrefix,deeplink,parameter,h
+String,Integer,String,String,String,String
+ChatDeeplinkHandler,0,&,/ext/dragonsong/world/map,continentName,
+ChatCoordinateDeepLinkHandler,1,,,,!@#jnpmffpmkiplacgb

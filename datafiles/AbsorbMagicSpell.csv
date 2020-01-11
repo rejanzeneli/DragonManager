@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,duration,ragePoints,damageReductionPercentage,absorbBattleBuildingIds,cooldown,h
+String,String,String,Integer,Float,Float,Integer,String,Float,String
+absorbMagic1,,1,100,6,200,75,mageTower|mageBlueTower,1,
+arcaneAegis1,arcaneAegis,1,100,4,100,100,mageTower|mageBlueTower,2,!@#afimlndjjlcfmpjc

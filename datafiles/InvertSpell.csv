@@ -1,0 +1,6 @@
+identifier,commonIdentifier,level,maxTimes,attackBonusPercentage,duration,ragePoints,h
+String,String,String,Integer,Float,Float,Float,String
+invert1,,1,100,200,4,200,
+invertCon,,7,2,80,3.5,0,
+reverse1,invertSpellReverse,1,100,200,2,100,
+heavenlyWinds1,heavenlyWinds,1,100,300,9,0,!@#ekahcphgpachfcof

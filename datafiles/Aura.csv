@@ -1,0 +1,6 @@
+identifier,auraActiveSceneFile,enemyInRangeParticleCompoundEffectIdentifier,enemyParticleEffectIdentifier,targetParticleCompoundEffectIdentifier,auraPulseBattleText,h
+String,String,String,String,String,String,String
+red_mage_aura,bld_mageTower_red_01.lvl,,,,spellBlockedText,
+blue_mage_aura,,,ptl_onHit_blueMage_02,,,
+slow_aura,,,,,,
+smoke_aura,,,,,,!@#flaaggghcajdcmba

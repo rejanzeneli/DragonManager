@@ -1,0 +1,11 @@
+key,value,h
+String,String,String
+deckResetTime,24,
+pricePerCard,"10,13,16,20,24,31,38,48,60",
+baseGachaProbs,0,
+gachaDropCap,0,
+deckResetCost,500,
+rubyPerKey,50,
+deckResetMinutes,1440,
+deckResetCostIncrease,250,
+diamondPerKey,50,!@#ggddeflnfphjmkfe

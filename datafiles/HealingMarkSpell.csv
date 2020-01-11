@@ -1,0 +1,4 @@
+identifier,commonIdentifier,level,maxTimes,healAsPercentageOfMaxHP,ragePoints,h
+String,String,String,Integer,Float,Float,String
+healingMark1,,1,100,16,100,
+healingMarkCon,,1,2,16,0,!@#plpefjhgmekakkjm

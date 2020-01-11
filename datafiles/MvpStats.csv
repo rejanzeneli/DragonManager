@@ -1,0 +1,13 @@
+identifier,displayName,statPoints,h
+String,LocalizedString,Float,String
+flameEarned,Flames Earned,200,
+activeDefense,Active Defense,500,
+attacks,Attacks,25,
+dragonDefeatedByBase,Dragon Defeated By Base,600,
+towerDestroyed,Towers Destroyed,15,
+dragonsDefeatedByActiveDefense,Dragon Defeated by Defense,700,
+damageDealt,Damage by dragons,0.00001,
+supershotActivated,Supershot Activated,85,
+shieldsBroken,Shields Broken,240,
+buildingsHealed,Buildings Healed,15,
+rageSpent,Rage Spent,0.3,!@#omhnapfobnobbjic

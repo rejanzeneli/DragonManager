@@ -1,0 +1,5 @@
+identifier,commonIdentifier,level,maxTimes,duration,ragePoints,damageConvertToHPPercentage,maxPercentageCanBeHealed,cooldown,protectedAttackTypes,h
+String,String,String,Integer,Float,Float,Float,Float,Float,String,String
+elementalBarrier1,,,100,4.5,100,100,27,2,fireSuper:100|fire:100|ice:100|lightning:100|storm:100|flak:100|fireFlak:100|iceFlak:100|windFlak:100|earthFlak:100,
+elementalBubble1,elementalBubble,,100,6,200,100,45,2,fireSuper:100|fire:100|ice:100|lightning:100|storm:100|flak:100|fireFlak:100|iceFlak:100|windFlak:100|earthFlak:100,
+moonShroud1,moonShroud,,100,3,100,100,10,6,fireSuper:100|fire:100|ice:100|lightning:100|storm:100|flak:100|fireFlak:100|iceFlak:100|windFlak:100|earthFlak:100,!@#ahgjdnakjedpbmkn
