@@ -8,7 +8,7 @@
     "stop": "pm2 stop dragonmanager",
     "systemstart": "pm2 startup systemd",
     "info": "pm2 info dragonmanager",
-    "monitor": "pm2 monit dragonmanager",
+    "monitor": "pm2 monit dragonmanager"
   },
   "dependencies": {
     "acorn": "^7.1.0",
